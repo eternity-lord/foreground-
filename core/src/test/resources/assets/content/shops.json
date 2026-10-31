@@ -1,0 +1,110 @@
+[
+  {
+    "id": "shop_01",
+    "name": {
+      "en": "Smith's Pantry",
+      "fa": "انبار آهنگر"
+    },
+    "sells": [
+      "CONSUMABLE"
+    ],
+    "minTier": 1,
+    "markup": 1.25,
+    "buybackPct": 0.6
+  },
+  {
+    "id": "shop_02",
+    "name": {
+      "en": "Ironmarket Arms",
+      "fa": "اسناد سوق آهن"
+    },
+    "sells": [
+      "WEAPON"
+    ],
+    "minTier": 1,
+    "markup": 1.25,
+    "buybackPct": 0.6
+  },
+  {
+    "id": "shop_03",
+    "name": {
+      "en": "Parchment Plate",
+      "fa": "زیرکاب کاغذی"
+    },
+    "sells": [
+      "ARMOR"
+    ],
+    "minTier": 1,
+    "markup": 1.25,
+    "buybackPct": 0.6
+  },
+  {
+    "id": "shop_04",
+    "name": {
+      "en": "Trinket & Talisman",
+      "fa": "غزل و تعویذ"
+    },
+    "sells": [
+      "ACCESSORY"
+    ],
+    "minTier": 1,
+    "markup": 1.25,
+    "buybackPct": 0.6
+  },
+  {
+    "id": "shop_05",
+    "name": {
+      "en": "Blueprint Bureau",
+      "fa": "دفتر نقشه"
+    },
+    "sells": [
+      "WEAPON",
+      "ARMOR",
+      "ACCESSORY"
+    ],
+    "minTier": 3,
+    "markup": 1.25,
+    "buybackPct": 0.6
+  },
+  {
+    "id": "shop_06",
+    "name": {
+      "en": "Material Bourse",
+      "fa": "bourse مواد"
+    },
+    "sells": [],
+    "minTier": 5,
+    "markup": 1.25,
+    "buybackPct": 0.6
+  },
+  {
+    "id": "shop_07",
+    "name": {
+      "en": "Mythic Emporium",
+      "fa": "انبوه اساطیری"
+    },
+    "sells": [
+      "WEAPON",
+      "ARMOR"
+    ],
+    "minTier": 8,
+    "markup": 1.25,
+    "buybackPct": 0.6
+  },
+  {
+    "id": "shop_08",
+    "name": {
+      "en": "Secret Vault",
+      "fa": "انبار مخفی"
+    },
+    "sells": [
+      "WEAPON",
+      "ARMOR",
+      "ACCESSORY",
+      "CONSUMABLE"
+    ],
+    "minTier": 12,
+    "markup": 1.25,
+    "buybackPct": 0.6
+  }
+]

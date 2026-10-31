@@ -1,0 +1,842 @@
+[
+  {
+    "id": "mat_2000",
+    "name": {
+      "en": "Iron Ore T1",
+      "fa": "آهن خام درجهٔ 1"
+    },
+    "type": "ORE",
+    "tier": 1,
+    "dropZones": [
+      "zone_01",
+      "zone_02"
+    ],
+    "sellPrice": 5
+  },
+  {
+    "id": "mat_2001",
+    "name": {
+      "en": "Steel Ingot T1",
+      "fa": "فولاد درجهٔ 1"
+    },
+    "type": "WOOD",
+    "tier": 1,
+    "dropZones": [
+      "zone_01",
+      "zone_02"
+    ],
+    "sellPrice": 5
+  },
+  {
+    "id": "mat_2002",
+    "name": {
+      "en": "Mithril Shard T1",
+      "fa": "تکه میتریل درجهٔ 1"
+    },
+    "type": "GEM",
+    "tier": 1,
+    "dropZones": [
+      "zone_01",
+      "zone_02"
+    ],
+    "sellPrice": 5
+  },
+  {
+    "id": "mat_2003",
+    "name": {
+      "en": "Orichalcum Nugget T1",
+      "fa": "تکه اوریکالکوم درجهٔ 1"
+    },
+    "type": "MONSTER_PART",
+    "tier": 1,
+    "dropZones": [
+      "zone_01",
+      "zone_02"
+    ],
+    "sellPrice": 5
+  },
+  {
+    "id": "mat_2004",
+    "name": {
+      "en": "Starsteel Fragment T1",
+      "fa": "تکه فلز ستاره‌ای درجهٔ 1"
+    },
+    "type": "ESSENCE",
+    "tier": 1,
+    "dropZones": [
+      "zone_01",
+      "zone_02"
+    ],
+    "sellPrice": 5
+  },
+  {
+    "id": "mat_2005",
+    "name": {
+      "en": "Iron Ore T2",
+      "fa": "آهن خام درجهٔ 2"
+    },
+    "type": "ORE",
+    "tier": 2,
+    "dropZones": [
+      "zone_02",
+      "zone_03"
+    ],
+    "sellPrice": 20
+  },
+  {
+    "id": "mat_2006",
+    "name": {
+      "en": "Steel Ingot T2",
+      "fa": "فولاد درجهٔ 2"
+    },
+    "type": "WOOD",
+    "tier": 2,
+    "dropZones": [
+      "zone_02",
+      "zone_03"
+    ],
+    "sellPrice": 20
+  },
+  {
+    "id": "mat_2007",
+    "name": {
+      "en": "Mithril Shard T2",
+      "fa": "تکه میتریل درجهٔ 2"
+    },
+    "type": "GEM",
+    "tier": 2,
+    "dropZones": [
+      "zone_02",
+      "zone_03"
+    ],
+    "sellPrice": 20
+  },
+  {
+    "id": "mat_2008",
+    "name": {
+      "en": "Orichalcum Nugget T2",
+      "fa": "تکه اوریکالکوم درجهٔ 2"
+    },
+    "type": "MONSTER_PART",
+    "tier": 2,
+    "dropZones": [
+      "zone_02",
+      "zone_03"
+    ],
+    "sellPrice": 20
+  },
+  {
+    "id": "mat_2009",
+    "name": {
+      "en": "Starsteel Fragment T2",
+      "fa": "تکه فلز ستاره‌ای درجهٔ 2"
+    },
+    "type": "ESSENCE",
+    "tier": 2,
+    "dropZones": [
+      "zone_02",
+      "zone_03"
+    ],
+    "sellPrice": 20
+  },
+  {
+    "id": "mat_2010",
+    "name": {
+      "en": "Iron Ore T3",
+      "fa": "آهن خام درجهٔ 3"
+    },
+    "type": "ORE",
+    "tier": 3,
+    "dropZones": [
+      "zone_03",
+      "zone_04"
+    ],
+    "sellPrice": 45
+  },
+  {
+    "id": "mat_2011",
+    "name": {
+      "en": "Steel Ingot T3",
+      "fa": "فولاد درجهٔ 3"
+    },
+    "type": "WOOD",
+    "tier": 3,
+    "dropZones": [
+      "zone_03",
+      "zone_04"
+    ],
+    "sellPrice": 45
+  },
+  {
+    "id": "mat_2012",
+    "name": {
+      "en": "Mithril Shard T3",
+      "fa": "تکه میتریل درجهٔ 3"
+    },
+    "type": "GEM",
+    "tier": 3,
+    "dropZones": [
+      "zone_03",
+      "zone_04"
+    ],
+    "sellPrice": 45
+  },
+  {
+    "id": "mat_2013",
+    "name": {
+      "en": "Orichalcum Nugget T3",
+      "fa": "تکه اوریکالکوم درجهٔ 3"
+    },
+    "type": "MONSTER_PART",
+    "tier": 3,
+    "dropZones": [
+      "zone_03",
+      "zone_04"
+    ],
+    "sellPrice": 45
+  },
+  {
+    "id": "mat_2014",
+    "name": {
+      "en": "Starsteel Fragment T3",
+      "fa": "تکه فلز ستاره‌ای درجهٔ 3"
+    },
+    "type": "ESSENCE",
+    "tier": 3,
+    "dropZones": [
+      "zone_03",
+      "zone_04"
+    ],
+    "sellPrice": 45
+  },
+  {
+    "id": "mat_2015",
+    "name": {
+      "en": "Iron Ore T4",
+      "fa": "آهن خام درجهٔ 4"
+    },
+    "type": "ORE",
+    "tier": 4,
+    "dropZones": [
+      "zone_04",
+      "zone_05"
+    ],
+    "sellPrice": 80
+  },
+  {
+    "id": "mat_2016",
+    "name": {
+      "en": "Steel Ingot T4",
+      "fa": "فولاد درجهٔ 4"
+    },
+    "type": "WOOD",
+    "tier": 4,
+    "dropZones": [
+      "zone_04",
+      "zone_05"
+    ],
+    "sellPrice": 80
+  },
+  {
+    "id": "mat_2017",
+    "name": {
+      "en": "Mithril Shard T4",
+      "fa": "تکه میتریل درجهٔ 4"
+    },
+    "type": "GEM",
+    "tier": 4,
+    "dropZones": [
+      "zone_04",
+      "zone_05"
+    ],
+    "sellPrice": 80
+  },
+  {
+    "id": "mat_2018",
+    "name": {
+      "en": "Orichalcum Nugget T4",
+      "fa": "تکه اوریکالکوم درجهٔ 4"
+    },
+    "type": "MONSTER_PART",
+    "tier": 4,
+    "dropZones": [
+      "zone_04",
+      "zone_05"
+    ],
+    "sellPrice": 80
+  },
+  {
+    "id": "mat_2019",
+    "name": {
+      "en": "Starsteel Fragment T4",
+      "fa": "تکه فلز ستاره‌ای درجهٔ 4"
+    },
+    "type": "ESSENCE",
+    "tier": 4,
+    "dropZones": [
+      "zone_04",
+      "zone_05"
+    ],
+    "sellPrice": 80
+  },
+  {
+    "id": "mat_2020",
+    "name": {
+      "en": "Iron Ore T5",
+      "fa": "آهن خام درجهٔ 5"
+    },
+    "type": "ORE",
+    "tier": 5,
+    "dropZones": [
+      "zone_05",
+      "zone_06"
+    ],
+    "sellPrice": 125
+  },
+  {
+    "id": "mat_2021",
+    "name": {
+      "en": "Steel Ingot T5",
+      "fa": "فولاد درجهٔ 5"
+    },
+    "type": "WOOD",
+    "tier": 5,
+    "dropZones": [
+      "zone_05",
+      "zone_06"
+    ],
+    "sellPrice": 125
+  },
+  {
+    "id": "mat_2022",
+    "name": {
+      "en": "Mithril Shard T5",
+      "fa": "تکه میتریل درجهٔ 5"
+    },
+    "type": "GEM",
+    "tier": 5,
+    "dropZones": [
+      "zone_05",
+      "zone_06"
+    ],
+    "sellPrice": 125
+  },
+  {
+    "id": "mat_2023",
+    "name": {
+      "en": "Orichalcum Nugget T5",
+      "fa": "تکه اوریکالکوم درجهٔ 5"
+    },
+    "type": "MONSTER_PART",
+    "tier": 5,
+    "dropZones": [
+      "zone_05",
+      "zone_06"
+    ],
+    "sellPrice": 125
+  },
+  {
+    "id": "mat_2024",
+    "name": {
+      "en": "Starsteel Fragment T5",
+      "fa": "تکه فلز ستاره‌ای درجهٔ 5"
+    },
+    "type": "ESSENCE",
+    "tier": 5,
+    "dropZones": [
+      "zone_05",
+      "zone_06"
+    ],
+    "sellPrice": 125
+  },
+  {
+    "id": "mat_2025",
+    "name": {
+      "en": "Iron Ore T6",
+      "fa": "آهن خام درجهٔ 6"
+    },
+    "type": "ORE",
+    "tier": 6,
+    "dropZones": [
+      "zone_06",
+      "zone_07"
+    ],
+    "sellPrice": 180
+  },
+  {
+    "id": "mat_2026",
+    "name": {
+      "en": "Steel Ingot T6",
+      "fa": "فولاد درجهٔ 6"
+    },
+    "type": "WOOD",
+    "tier": 6,
+    "dropZones": [
+      "zone_06",
+      "zone_07"
+    ],
+    "sellPrice": 180
+  },
+  {
+    "id": "mat_2027",
+    "name": {
+      "en": "Mithril Shard T6",
+      "fa": "تکه میتریل درجهٔ 6"
+    },
+    "type": "GEM",
+    "tier": 6,
+    "dropZones": [
+      "zone_06",
+      "zone_07"
+    ],
+    "sellPrice": 180
+  },
+  {
+    "id": "mat_2028",
+    "name": {
+      "en": "Orichalcum Nugget T6",
+      "fa": "تکه اوریکالکوم درجهٔ 6"
+    },
+    "type": "MONSTER_PART",
+    "tier": 6,
+    "dropZones": [
+      "zone_06",
+      "zone_07"
+    ],
+    "sellPrice": 180
+  },
+  {
+    "id": "mat_2029",
+    "name": {
+      "en": "Starsteel Fragment T6",
+      "fa": "تکه فلز ستاره‌ای درجهٔ 6"
+    },
+    "type": "ESSENCE",
+    "tier": 6,
+    "dropZones": [
+      "zone_06",
+      "zone_07"
+    ],
+    "sellPrice": 180
+  },
+  {
+    "id": "mat_2030",
+    "name": {
+      "en": "Iron Ore T7",
+      "fa": "آهن خام درجهٔ 7"
+    },
+    "type": "ORE",
+    "tier": 7,
+    "dropZones": [
+      "zone_07",
+      "zone_08"
+    ],
+    "sellPrice": 245
+  },
+  {
+    "id": "mat_2031",
+    "name": {
+      "en": "Steel Ingot T7",
+      "fa": "فولاد درجهٔ 7"
+    },
+    "type": "WOOD",
+    "tier": 7,
+    "dropZones": [
+      "zone_07",
+      "zone_08"
+    ],
+    "sellPrice": 245
+  },
+  {
+    "id": "mat_2032",
+    "name": {
+      "en": "Mithril Shard T7",
+      "fa": "تکه میتریل درجهٔ 7"
+    },
+    "type": "GEM",
+    "tier": 7,
+    "dropZones": [
+      "zone_07",
+      "zone_08"
+    ],
+    "sellPrice": 245
+  },
+  {
+    "id": "mat_2033",
+    "name": {
+      "en": "Orichalcum Nugget T7",
+      "fa": "تکه اوریکالکوم درجهٔ 7"
+    },
+    "type": "MONSTER_PART",
+    "tier": 7,
+    "dropZones": [
+      "zone_07",
+      "zone_08"
+    ],
+    "sellPrice": 245
+  },
+  {
+    "id": "mat_2034",
+    "name": {
+      "en": "Starsteel Fragment T7",
+      "fa": "تکه فلز ستاره‌ای درجهٔ 7"
+    },
+    "type": "ESSENCE",
+    "tier": 7,
+    "dropZones": [
+      "zone_07",
+      "zone_08"
+    ],
+    "sellPrice": 245
+  },
+  {
+    "id": "mat_2035",
+    "name": {
+      "en": "Iron Ore T8",
+      "fa": "آهن خام درجهٔ 8"
+    },
+    "type": "ORE",
+    "tier": 8,
+    "dropZones": [
+      "zone_08",
+      "zone_09"
+    ],
+    "sellPrice": 320
+  },
+  {
+    "id": "mat_2036",
+    "name": {
+      "en": "Steel Ingot T8",
+      "fa": "فولاد درجهٔ 8"
+    },
+    "type": "WOOD",
+    "tier": 8,
+    "dropZones": [
+      "zone_08",
+      "zone_09"
+    ],
+    "sellPrice": 320
+  },
+  {
+    "id": "mat_2037",
+    "name": {
+      "en": "Mithril Shard T8",
+      "fa": "تکه میتریل درجهٔ 8"
+    },
+    "type": "GEM",
+    "tier": 8,
+    "dropZones": [
+      "zone_08",
+      "zone_09"
+    ],
+    "sellPrice": 320
+  },
+  {
+    "id": "mat_2038",
+    "name": {
+      "en": "Orichalcum Nugget T8",
+      "fa": "تکه اوریکالکوم درجهٔ 8"
+    },
+    "type": "MONSTER_PART",
+    "tier": 8,
+    "dropZones": [
+      "zone_08",
+      "zone_09"
+    ],
+    "sellPrice": 320
+  },
+  {
+    "id": "mat_2039",
+    "name": {
+      "en": "Starsteel Fragment T8",
+      "fa": "تکه فلز ستاره‌ای درجهٔ 8"
+    },
+    "type": "ESSENCE",
+    "tier": 8,
+    "dropZones": [
+      "zone_08",
+      "zone_09"
+    ],
+    "sellPrice": 320
+  },
+  {
+    "id": "mat_2040",
+    "name": {
+      "en": "Iron Ore T9",
+      "fa": "آهن خام درجهٔ 9"
+    },
+    "type": "ORE",
+    "tier": 9,
+    "dropZones": [
+      "zone_09",
+      "zone_10"
+    ],
+    "sellPrice": 405
+  },
+  {
+    "id": "mat_2041",
+    "name": {
+      "en": "Steel Ingot T9",
+      "fa": "فولاد درجهٔ 9"
+    },
+    "type": "WOOD",
+    "tier": 9,
+    "dropZones": [
+      "zone_09",
+      "zone_10"
+    ],
+    "sellPrice": 405
+  },
+  {
+    "id": "mat_2042",
+    "name": {
+      "en": "Mithril Shard T9",
+      "fa": "تکه میتریل درجهٔ 9"
+    },
+    "type": "GEM",
+    "tier": 9,
+    "dropZones": [
+      "zone_09",
+      "zone_10"
+    ],
+    "sellPrice": 405
+  },
+  {
+    "id": "mat_2043",
+    "name": {
+      "en": "Orichalcum Nugget T9",
+      "fa": "تکه اوریکالکوم درجهٔ 9"
+    },
+    "type": "MONSTER_PART",
+    "tier": 9,
+    "dropZones": [
+      "zone_09",
+      "zone_10"
+    ],
+    "sellPrice": 405
+  },
+  {
+    "id": "mat_2044",
+    "name": {
+      "en": "Starsteel Fragment T9",
+      "fa": "تکه فلز ستاره‌ای درجهٔ 9"
+    },
+    "type": "ESSENCE",
+    "tier": 9,
+    "dropZones": [
+      "zone_09",
+      "zone_10"
+    ],
+    "sellPrice": 405
+  },
+  {
+    "id": "mat_2045",
+    "name": {
+      "en": "Iron Ore T10",
+      "fa": "آهن خام درجهٔ 10"
+    },
+    "type": "ORE",
+    "tier": 10,
+    "dropZones": [
+      "zone_10",
+      "zone_01"
+    ],
+    "sellPrice": 500
+  },
+  {
+    "id": "mat_2046",
+    "name": {
+      "en": "Steel Ingot T10",
+      "fa": "فولاد درجهٔ 10"
+    },
+    "type": "WOOD",
+    "tier": 10,
+    "dropZones": [
+      "zone_10",
+      "zone_01"
+    ],
+    "sellPrice": 500
+  },
+  {
+    "id": "mat_2047",
+    "name": {
+      "en": "Mithril Shard T10",
+      "fa": "تکه میتریل درجهٔ 10"
+    },
+    "type": "GEM",
+    "tier": 10,
+    "dropZones": [
+      "zone_10",
+      "zone_01"
+    ],
+    "sellPrice": 500
+  },
+  {
+    "id": "mat_2048",
+    "name": {
+      "en": "Orichalcum Nugget T10",
+      "fa": "تکه اوریکالکوم درجهٔ 10"
+    },
+    "type": "MONSTER_PART",
+    "tier": 10,
+    "dropZones": [
+      "zone_10",
+      "zone_01"
+    ],
+    "sellPrice": 500
+  },
+  {
+    "id": "mat_2049",
+    "name": {
+      "en": "Starsteel Fragment T10",
+      "fa": "تکه فلز ستاره‌ای درجهٔ 10"
+    },
+    "type": "ESSENCE",
+    "tier": 10,
+    "dropZones": [
+      "zone_10",
+      "zone_01"
+    ],
+    "sellPrice": 500
+  },
+  {
+    "id": "mat_2050",
+    "name": {
+      "en": "Iron Ore T11",
+      "fa": "آهن خام درجهٔ 11"
+    },
+    "type": "ORE",
+    "tier": 11,
+    "dropZones": [
+      "zone_01",
+      "zone_02"
+    ],
+    "sellPrice": 605
+  },
+  {
+    "id": "mat_2051",
+    "name": {
+      "en": "Steel Ingot T11",
+      "fa": "فولاد درجهٔ 11"
+    },
+    "type": "WOOD",
+    "tier": 11,
+    "dropZones": [
+      "zone_01",
+      "zone_02"
+    ],
+    "sellPrice": 605
+  },
+  {
+    "id": "mat_2052",
+    "name": {
+      "en": "Mithril Shard T11",
+      "fa": "تکه میتریل درجهٔ 11"
+    },
+    "type": "GEM",
+    "tier": 11,
+    "dropZones": [
+      "zone_01",
+      "zone_02"
+    ],
+    "sellPrice": 605
+  },
+  {
+    "id": "mat_2053",
+    "name": {
+      "en": "Orichalcum Nugget T11",
+      "fa": "تکه اوریکالکوم درجهٔ 11"
+    },
+    "type": "MONSTER_PART",
+    "tier": 11,
+    "dropZones": [
+      "zone_01",
+      "zone_02"
+    ],
+    "sellPrice": 605
+  },
+  {
+    "id": "mat_2054",
+    "name": {
+      "en": "Starsteel Fragment T11",
+      "fa": "تکه فلز ستاره‌ای درجهٔ 11"
+    },
+    "type": "ESSENCE",
+    "tier": 11,
+    "dropZones": [
+      "zone_01",
+      "zone_02"
+    ],
+    "sellPrice": 605
+  },
+  {
+    "id": "mat_2055",
+    "name": {
+      "en": "Iron Ore T12",
+      "fa": "آهن خام درجهٔ 12"
+    },
+    "type": "ORE",
+    "tier": 12,
+    "dropZones": [
+      "zone_02",
+      "zone_03"
+    ],
+    "sellPrice": 720
+  },
+  {
+    "id": "mat_2056",
+    "name": {
+      "en": "Steel Ingot T12",
+      "fa": "فولاد درجهٔ 12"
+    },
+    "type": "WOOD",
+    "tier": 12,
+    "dropZones": [
+      "zone_02",
+      "zone_03"
+    ],
+    "sellPrice": 720
+  },
+  {
+    "id": "mat_2057",
+    "name": {
+      "en": "Mithril Shard T12",
+      "fa": "تکه میتریل درجهٔ 12"
+    },
+    "type": "GEM",
+    "tier": 12,
+    "dropZones": [
+      "zone_02",
+      "zone_03"
+    ],
+    "sellPrice": 720
+  },
+  {
+    "id": "mat_2058",
+    "name": {
+      "en": "Orichalcum Nugget T12",
+      "fa": "تکه اوریکالکوم درجهٔ 12"
+    },
+    "type": "MONSTER_PART",
+    "tier": 12,
+    "dropZones": [
+      "zone_02",
+      "zone_03"
+    ],
+    "sellPrice": 720
+  },
+  {
+    "id": "mat_2059",
+    "name": {
+      "en": "Starsteel Fragment T12",
+      "fa": "تکه فلز ستاره‌ای درجهٔ 12"
+    },
+    "type": "ESSENCE",
+    "tier": 12,
+    "dropZones": [
+      "zone_02",
+      "zone_03"
+    ],
+    "sellPrice": 720
+  }
+]

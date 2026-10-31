@@ -1,0 +1,41 @@
+*.apk
+*.aab
+*.keystore
+*.jks
+
+# Built application files
+*.apk
+*.aab
+
+# Gradle
+.gradle/
+build/
+
+# Local configuration file (sdk path, etc.)
+local.properties
+
+# Kotlin
+*.kotlin.metadata
+*.class
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+crash-logs/
+
+# Screenshots captured during QA (kept under docs/screenshots when added)
+docs/screenshots/*.png
+docs/screenshots/*.jpg
+
+# Temporary asset generation outputs
+tools/*.png
+tools/*.ogg
+tools/*.wav

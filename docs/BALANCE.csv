@@ -1,0 +1,11 @@
+chapter,zone,level_reached,gold_earned,gold_end,xp_earned,fights,minutes,weapon_grade,weapon_atk
+1,Whispering Plains,3,10865,6775,2000,20,115,Masterwork,13
+2,Emberdeep Mines,7,15190,15475,2000,20,187,Masterwork,17
+3,Frostveil Peaks,11,20895,26640,2000,20,238,Flawless,26
+4,Sunken Library,16,25705,43780,2000,20,282,Flawless,32
+5,Stormglass Desert,21,30525,62575,2000,20,328,Masterwork,32
+6,Gloamwood,26,36885,88040,2000,20,370,Masterwork,37
+7,Skyforge Ruins,32,37730,116665,2000,20,411,Flawless,48
+8,Crimson Citadel,38,45490,151290,2000,20,452,Masterwork,45
+9,Void Rift,43,49420,190000,2000,20,493,Masterwork,51
+10,Rust King's Throne,49,50300,228470,2000,20,523,Legendary,72

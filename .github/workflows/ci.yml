@@ -1,0 +1,277 @@
+name: CI
+
+on:
+  push:
+    branches: ["**"]
+  pull_request:
+  workflow_dispatch:
+
+env:
+  GRADLE_OPTS: "-Dorg.gradle.daemon=false -Dorg.gradle.jvmargs=-Xmx2048m"
+
+jobs:
+  content:
+    name: Content validation
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Run content generator (idempotent check)
+        run: python3 tools/gen_content.py
+
+      - name: Fail if generated content drifted from committed content
+        run: git diff --exit-code -- tools/gen_content.py assets/content/ || {
+               echo "Committed content is out of sync with tools/gen_content.py; re-run the generator and commit."; exit 1; }
+
+      - name: Run content validator
+        run: python3 tools/validate_content.py
+
+      - name: Grep gate — fail on stubs/placeholders in source
+        run: |
+          if git grep -iE "\b(TODO|FIXME|lorem ipsum|placeholder|coming soon)\b" -- '*.kt' '*.json'; then
+            echo "Placeholder/stub text found in source or content"; exit 1
+          fi
+
+  build-test:
+    name: Build & unit tests
+    runs-on: ubuntu-latest
+    needs: content
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up JDK
+        uses: actions/setup-java@v4
+        with:
+          java-version: 17
+          distribution: temurin
+      - name: Set up Android SDK
+        uses: android-actions/setup-android@v4
+        with:
+          packages: platforms;android-34
+          accept-android-sdk-licenses: true
+
+      - name: Install build tools
+        run: "${ANDROID_SDK_ROOT}/cmdline-tools/latest/bin/sdkmanager --install 'build-tools;34.0.0'"
+
+      - name: Set up Gradle
+        uses: gradle/actions/setup-gradle@v4
+        with:
+          gradle-version: 8.7
+
+      - name: Gradle dependency cache
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.gradle/caches
+            ~/.gradle/wrapper
+          key: ${{ runner.os }}-gradle-${{ hashFiles('**/*.gradle.kts') }}-${{ hashFiles('gradle/libs.versions.toml') }}
+          restore-keys: |
+            ${{ runner.os }}-gradle-
+
+      - name: Assemble debug APK
+        id: assemble
+        run: |
+          set +e
+          gradle assembleDebug --no-daemon --console=plain --stacktrace > /tmp/assemble.log 2>&1
+          status=$?
+          if [ $status -ne 0 ]; then
+            echo "::group::Assemble debug errors"
+            grep -E "^e: |^error:|FAILED|Exception|Caused by|error: " /tmp/assemble.log | head -40 | while IFS= read -r line; do
+              short=$(printf '%s' "$line" | cut -c1-900)
+              echo "::error::${short}"
+            done
+            echo "::endgroup::"
+          fi
+          mkdir -p /tmp/faillogs
+          cp /tmp/assemble.log /tmp/faillogs/assemble.log
+          exit $status
+      - name: Upload assemble debug log
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: assemble-debug-log
+          path: /tmp/faillogs/assemble.log
+
+      - name: Run unit tests
+        run: gradle testDebugUnitTest --no-daemon --console=plain
+
+      - name: Lint
+        run: gradle lintDebug --no-daemon --console=plain || true
+
+      - name: Upload debug APK
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: debug-apk
+          path: app/build/outputs/apk/debug/*.apk
+
+      - name: Upload unit-test reports
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: test-reports
+          path: |
+            **/build/reports/tests/testDebugUnitTest/**
+            **/build/test-results/testDebugUnitTest/
+            **/build/test-results/test/**
+
+      - name: Upload lint reports
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: lint-reports
+          path: |
+            **/build/reports/lint-results*/
+
+  emulator-test:
+    name: Emulator smoke test
+    runs-on: ubuntu-latest
+    needs: build-test
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up JDK
+        uses: actions/setup-java@v4
+        with:
+          java-version: 17
+          distribution: temurin
+      - name: Set up Android SDK
+        uses: android-actions/setup-android@v4
+        with:
+          packages: platforms;android-34
+          accept-android-sdk-licenses: true
+
+      - name: Install build tools
+        run: "${ANDROID_SDK_ROOT}/cmdline-tools/latest/bin/sdkmanager --install 'build-tools;34.0.0'"
+
+      - name: Set up Gradle
+        uses: gradle/actions/setup-gradle@v4
+        with:
+          gradle-version: 8.7
+
+      - name: Gradle dependency cache
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.gradle/caches
+            ~/.gradle/wrapper
+          key: ${{ runner.os }}-gradle-emulator-${{ hashFiles('**/*.gradle.kts') }}-${{ hashFiles('gradle/libs.versions.toml') }}
+          restore-keys: |
+            ${{ runner.os }}-gradle-emulator-
+
+      - name: Run emulator + instrumented smoke test
+        uses: reactivecircus/android-emulator-runner@v2
+        with:
+          api-level: 34
+          target: google_apis
+          arch: x86_64
+          force-avd-creation: true
+          disable-animations: true
+          script: gradle connectedDebugAndroidTest --no-daemon --console=plain
+
+      - name: Capture screenshot
+        if: always()
+        run: |
+          mkdir -p docs/screenshots
+          adb exec-out screencap -p > docs/screenshots/ci-smoke.png || true
+
+      - name: Upload screenshot
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: emulator-screenshot
+          path: docs/screenshots/*
+
+  release:
+    name: Release build
+    runs-on: ubuntu-latest
+    if: github.event_name == 'workflow_dispatch' || startsWith(github.ref, 'refs/tags/v')
+    needs: [build-test, emulator-test]
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up JDK
+        uses: actions/setup-java@v4
+        with:
+          java-version: 17
+          distribution: temurin
+      - name: Set up Android SDK
+        uses: android-actions/setup-android@v4
+        with:
+          packages: platforms;android-34
+          accept-android-sdk-licenses: true
+
+      - name: Install build tools
+        run: "${ANDROID_SDK_ROOT}/cmdline-tools/latest/bin/sdkmanager --install 'build-tools;34.0.0'"
+
+      - name: Set up Gradle
+        uses: gradle/actions/setup-gradle@v4
+        with:
+          gradle-version: 8.7
+
+      - name: Gradle dependency cache
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.gradle/caches
+            ~/.gradle/wrapper
+          key: ${{ runner.os }}-gradle-release-${{ hashFiles('**/*.gradle.kts') }}-${{ hashFiles('gradle/libs.versions.toml') }}
+          restore-keys: |
+            ${{ runner.os }}-gradle-release-
+
+      - name: Build release APK + AAB
+        run: gradle assembleRelease bundleRelease --no-daemon --console=plain
+
+      - name: Fail if INTERNET permission declared
+        run: |
+          if aapt dump permissions app/build/outputs/apk/release/app-release.apk | grep -qi INTERNET; then
+            echo "android.permission.INTERNET found in release APK — failing per Section 3 rule"; exit 1
+          fi
+          echo "No INTERNET permission — OK"
+
+      - name: Sign or generate throwaway keystore
+        id: sign
+        run: |
+          if [ -n "${KEYSTORE_B64:-}" ]; then
+            echo "$KEYSTORE_B64" | base64 -d > /tmp/forge.keystore
+            echo "keystore=/tmp/forge.keystore" >> $GITHUB_OUTPUT
+            echo "signed=secrets" >> $GITHUB_OUTPUT
+          else
+            keytool -genkeypair -v -keystore /tmp/forge.keystore -alias forgebound \
+              -keyalg RSA -keysize 2048 -validity 10000 \
+              -dname "CN=Forgebound,O=Forgebound" -storepass android -keypass android
+            echo "keystore=/tmp/forge.keystore" >> $GITHUB_OUTPUT
+            echo "signed=throwaway" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Sign release APK/AAB (if secrets present)
+        if: steps.sign.outputs.signed == 'secrets'
+        run: |
+          gradle signRelease --no-daemon --console=plain \
+            -Pandroid.injected.signing.store.file=/tmp/forge.keystore \
+            -Pandroid.injected.signing.store.password=${KEYSTORE_PASSWORD} \
+            -Pandroid.injected.signing.key.alias=${KEY_ALIAS} \
+            -Pandroid.injected.signing.key.password=${KEY_PASSWORD} || true
+
+      - name: Publish release artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: release-artifacts
+          path: |
+            app/build/outputs/apk/release/*.apk
+            app/build/outputs/bundle/release/*.aab
+
+      - name: Create GitHub Release (on tag)
+        if: startsWith(github.ref, 'refs/tags/v')
+        uses: softprops/action-gh-release@v2
+        with:
+          files: |
+            app/build/outputs/apk/release/*.apk
+            app/build/outputs/bundle/release/*.aab
+        env:
+          GITHUB_TOKEN: ${{ github.token }}

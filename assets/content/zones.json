@@ -1,0 +1,288 @@
+[
+  {
+    "id": "zone_01",
+    "name": {
+      "en": "Whispering Plains",
+      "fa": "دشت‌هایی که باد در آن خود را نشان می‌دهد."
+    },
+    "levelRange": [
+      1,
+      10
+    ],
+    "description": {
+      "en": "A grassland where the wind carries half-remembered songs.",
+      "fa": "دشت‌هایی که باد در آن خود را نشان می‌دهد."
+    },
+    "stages": 10,
+    "boss": "enemy_4000",
+    "materials": [
+      "mat_2001",
+      "mat_2002"
+    ],
+    "enemies": [
+      "enemy_4000",
+      "enemy_4001"
+    ],
+    "unlockQuest": "quest_01"
+  },
+  {
+    "id": "zone_02",
+    "name": {
+      "en": "Emberdeep Mines",
+      "fa": "معدن‌های عمیق آتش"
+    },
+    "levelRange": [
+      11,
+      20
+    ],
+    "description": {
+      "en": "Delve deep; the ore here still holds the memory of fire.",
+      "fa": "معدن‌های عمیق آتش، هنوز خاطره آتش را در خود دارند."
+    },
+    "stages": 10,
+    "boss": "enemy_4001",
+    "materials": [
+      "mat_2003",
+      "mat_2004"
+    ],
+    "enemies": [
+      "enemy_4002",
+      "enemy_4003"
+    ],
+    "unlockQuest": "quest_02"
+  },
+  {
+    "id": "zone_03",
+    "name": {
+      "en": "Frostveil Peaks",
+      "fa": "سفره‌های برفانی"
+    },
+    "levelRange": [
+      21,
+      30
+    ],
+    "description": {
+      "en": "Snow-blinded summits guarded by ancient frost.",
+      "fa": "سفره‌های برفانی که برف قدیمی در آن نگهبان است."
+    },
+    "stages": 10,
+    "boss": "enemy_4002",
+    "materials": [
+      "mat_2005",
+      "mat_2006"
+    ],
+    "enemies": [
+      "enemy_4004",
+      "enemy_4005"
+    ],
+    "unlockQuest": "quest_03"
+  },
+  {
+    "id": "zone_04",
+    "name": {
+      "en": "Sunken Library",
+      "fa": "کتابخانه غرق‌شده"
+    },
+    "levelRange": [
+      31,
+      40
+    ],
+    "description": {
+      "en": "Knowledge drowned; only brittle tomes remain.",
+      "fa": "دانستنی‌های غرق‌شده؛ تنها کِتاب‌های شکننده باقی مانده‌اند."
+    },
+    "stages": 10,
+    "boss": "enemy_4003",
+    "materials": [
+      "mat_2007",
+      "mat_2008"
+    ],
+    "enemies": [
+      "enemy_4006",
+      "enemy_4007"
+    ],
+    "unlockQuest": "quest_04"
+  },
+  {
+    "id": "zone_05",
+    "name": {
+      "en": "Stormglass Desert",
+      "fa": "تپه‌های شیشه‌ای"
+    },
+    "levelRange": [
+      41,
+      50
+    ],
+    "description": {
+      "en": "Glass dunes sing under eternal thunderstorms.",
+      "fa": "تپه‌های شیشه‌ای زیر طوفان‌های ابدی می‌خوانند."
+    },
+    "stages": 10,
+    "boss": "enemy_4004",
+    "materials": [
+      "mat_2009",
+      "mat_2010"
+    ],
+    "enemies": [
+      "enemy_4008",
+      "enemy_4009"
+    ],
+    "unlockQuest": "quest_05"
+  },
+  {
+    "id": "zone_06",
+    "name": {
+      "en": "Gloamwood",
+      "fa": "جنگل سایه‌تاریک"
+    },
+    "levelRange": [
+      51,
+      60
+    ],
+    "description": {
+      "en": "Twilight woods where trees remember being metal.",
+      "fa": "جنگلی سایه‌تاریک که درختان در آن خود را فلز می‌دانند."
+    },
+    "stages": 10,
+    "boss": "enemy_4005",
+    "materials": [
+      "mat_2011",
+      "mat_2012"
+    ],
+    "enemies": [
+      "enemy_4010",
+      "enemy_4011"
+    ],
+    "unlockQuest": "quest_06"
+  },
+  {
+    "id": "zone_07",
+    "name": {
+      "en": "Skyforge Ruins",
+      "fa": "آهنگ‌سازی‌های شناور"
+    },
+    "levelRange": [
+      61,
+      70
+    ],
+    "description": {
+      "en": "Floating forges fallen from the sky.",
+      "fa": "آهنگ‌سازی‌های شناور که از آسمان افتاده‌اند."
+    },
+    "stages": 10,
+    "boss": "enemy_4006",
+    "materials": [
+      "mat_2013",
+      "mat_2014"
+    ],
+    "enemies": [
+      "enemy_4012",
+      "enemy_4013"
+    ],
+    "unlockQuest": "quest_07"
+  },
+  {
+    "id": "zone_08",
+    "name": {
+      "en": "Crimson Citadel",
+      "fa": "تخت lord خون از آهن زنگ‌خورده"
+    },
+    "levelRange": [
+      71,
+      80
+    ],
+    "description": {
+      "en": "The Bloodlord's throne of rusted iron.",
+      "fa": "تخت lord خون از آهن زنگ‌خورده."
+    },
+    "stages": 10,
+    "boss": "enemy_4007",
+    "materials": [
+      "mat_2015",
+      "mat_2016"
+    ],
+    "enemies": [
+      "enemy_4014",
+      "enemy_4015"
+    ],
+    "unlockQuest": "quest_08"
+  },
+  {
+    "id": "zone_09",
+    "name": {
+      "en": "Void Rift",
+      "fa": "شگاف در میان‌جهان‌های خاموش"
+    },
+    "levelRange": [
+      81,
+      90
+    ],
+    "description": {
+      "en": "A tear into the silent between-worlds.",
+      "fa": "شگاف در میان‌جهان‌های خاموش."
+    },
+    "stages": 10,
+    "boss": "enemy_4008",
+    "materials": [
+      "mat_2017",
+      "mat_2018"
+    ],
+    "enemies": [
+      "enemy_4016",
+      "enemy_4017"
+    ],
+    "unlockQuest": "quest_09"
+  },
+  {
+    "id": "zone_10",
+    "name": {
+      "en": "Rust King's Throne",
+      "fa": "جایی که تمام فلز زنگ می‌خورد"
+    },
+    "levelRange": [
+      91,
+      100
+    ],
+    "description": {
+      "en": "Where all metal rots and the king waits.",
+      "fa": "جایی که تمام فلز زنگ می‌خورد و پادشاه منتظر است."
+    },
+    "stages": 10,
+    "boss": "enemy_4009",
+    "materials": [
+      "mat_2019",
+      "mat_2020"
+    ],
+    "enemies": [
+      "enemy_4018",
+      "enemy_4019"
+    ],
+    "unlockQuest": "quest_10"
+  },
+  {
+    "id": "zone_secret",
+    "name": {
+      "en": "The Secret Anvil",
+      "fa": "آهنگ‌سازی مخفی وولکان"
+    },
+    "levelRange": [
+      100,
+      120
+    ],
+    "description": {
+      "en": "Vulcan's hidden forge; only the worthy hear its hammer.",
+      "fa": "آهنگ‌سازی مخفی وولکان؛ تنها لایقان صدای چاقو را می‌شنوند."
+    },
+    "stages": 10,
+    "boss": "enemy_4010",
+    "materials": [
+      "mat_2021",
+      "mat_2022"
+    ],
+    "enemies": [
+      "enemy_4020",
+      "enemy_4021"
+    ],
+    "unlockQuest": "quest_s0"
+  }
+]

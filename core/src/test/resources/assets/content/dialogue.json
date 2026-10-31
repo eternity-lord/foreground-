@@ -1,0 +1,1744 @@
+[
+  {
+    "id": "dialogue_ch1",
+    "chapter": 1,
+    "title": {
+      "en": "Prologue: The Drawn Blade",
+      "fa": "باب ۱: شمشیر کشیده"
+    },
+    "bg": "zone_01",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Where… where am I?",
+          "fa": "کجای… کجای من است؟"
+        },
+        "expression": "neutral"
+      },
+      {
+        "speaker": "VULCAN",
+        "text": {
+          "en": "You are in Aetherion, Kai. And you are my heir now.",
+          "fa": "شما در آثيريون هستید، کای. و حالا وارث من هستید."
+        },
+        "expression": "neutral"
+      },
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "I never asked to be a smith.",
+          "fa": "من هرگز آهنگر شدن را نخواستم."
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_ch2",
+    "chapter": 2,
+    "title": {
+      "en": "First Heat",
+      "fa": "باب ۲: گرمای اول"
+    },
+    "bg": "zone_02",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "The ingot won't stay in the green zone.",
+          "fa": "آهن داغ در نطاق سبز نمی‌مند."
+        },
+        "expression": "neutral"
+      },
+      {
+        "speaker": "VULCAN",
+        "text": {
+          "en": "Patience. The metal speaks if you listen.",
+          "fa": "صبر. فلز می‌گوید اگر گوش کنید."
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_ch3",
+    "chapter": 3,
+    "title": {
+      "en": "The Seven Techniques",
+      "fa": "باب ۳: هفت تکنیک"
+    },
+    "bg": "zone_03",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Seven techniques to forge the impossible.",
+          "fa": "هفت تکنیک برای آهنساختن ناممکن."
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_ch4",
+    "chapter": 4,
+    "title": {
+      "en": "Allies of Aetherion",
+      "fa": "باب ۴: رفیقان آثيريون"
+    },
+    "bg": "zone_04",
+    "lines": [
+      {
+        "speaker": "LYRA",
+        "text": {
+          "en": "I'll watch your back.",
+          "fa": "من پشت شما را می‌دارم."
+        },
+        "expression": "neutral"
+      },
+      {
+        "speaker": "MINA",
+        "text": {
+          "en": "And I'll keep the fire burning.",
+          "fa": "و من آتش را تاب می‌آورم."
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_ch5",
+    "chapter": 5,
+    "title": {
+      "en": "Emberdeep Betrayal",
+      "fa": "باب ۵: خيانة امبردیپ"
+    },
+    "bg": "zone_05",
+    "lines": [
+      {
+        "speaker": "TORIN",
+        "text": {
+          "en": "The Rust King corrupts every blade.",
+          "fa": "پادشاه زنگ هر تلوار را آلوده می‌کند."
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_ch6",
+    "chapter": 6,
+    "title": {
+      "en": "Skyforge Fallen",
+      "fa": "باب ۶: آسمان‌ساز>"
+    },
+    "bg": "zone_06",
+    "lines": [
+      {
+        "speaker": "DARI",
+        "text": {
+          "en": "The sky is falling in shards.",
+          "fa": "آسمان در تکه‌تکه می‌افتد."
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_ch7",
+    "chapter": 7,
+    "title": {
+      "en": "Crimson Oath",
+      "fa": "باب ۷: قسم قرمز"
+    },
+    "bg": "zone_07",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "I swear on Vulcan's anvil.",
+          "fa": "من بر سنگساختن وولکان قسم می‌خورم."
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_ch8",
+    "chapter": 8,
+    "title": {
+      "en": "The Void Between",
+      "fa": "باب ۸: میان‌فضا"
+    },
+    "bg": "zone_08",
+    "lines": [
+      {
+        "speaker": "VULCAN",
+        "text": {
+          "en": "Beyond the rift lies the true ending.",
+          "fa": "پایان واقعی در شکافت باقی می‌مند."
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_ch9",
+    "chapter": 9,
+    "title": {
+      "en": "Throne of Rust",
+      "fa": "باب ۹: تخت زنگ"
+    },
+    "bg": "zone_09",
+    "lines": [
+      {
+        "speaker": "RUST_KING",
+        "text": {
+          "en": "All metal bows to rust.",
+          "fa": "تمام فلزها به زنگ می‌نشینند."
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_ch10",
+    "chapter": 10,
+    "title": {
+      "en": "The Last Strike",
+      "fa": "باب ۱۰: ضربه آخر"
+    },
+    "bg": "zone_10",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "This hammer ends the Rust King.",
+          "fa": "چاقو نهایی پادشاه زنگ را می‌شکند."
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8000",
+    "chapter": 1,
+    "title": {
+      "en": "Chapter 1 Banter 1",
+      "fa": "گفتگو باب 1 1"
+    },
+    "bg": "zone_01",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 2",
+          "fa": "جمله 2"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8001",
+    "chapter": 1,
+    "title": {
+      "en": "Chapter 1 Banter 2",
+      "fa": "گفتگو باب 1 2"
+    },
+    "bg": "zone_01",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 3",
+          "fa": "جمله 3"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8002",
+    "chapter": 1,
+    "title": {
+      "en": "Chapter 1 Banter 3",
+      "fa": "گفتگو باب 1 3"
+    },
+    "bg": "zone_01",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 4",
+          "fa": "جمله 4"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8003",
+    "chapter": 1,
+    "title": {
+      "en": "Chapter 1 Banter 4",
+      "fa": "گفتگو باب 1 4"
+    },
+    "bg": "zone_01",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 5",
+          "fa": "جمله 5"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8004",
+    "chapter": 1,
+    "title": {
+      "en": "Chapter 1 Banter 5",
+      "fa": "گفتگو باب 1 5"
+    },
+    "bg": "zone_01",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 6",
+          "fa": "جمله 6"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8005",
+    "chapter": 1,
+    "title": {
+      "en": "Chapter 1 Banter 6",
+      "fa": "گفتگو باب 1 6"
+    },
+    "bg": "zone_01",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 7",
+          "fa": "جمله 7"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8006",
+    "chapter": 1,
+    "title": {
+      "en": "Chapter 1 Banter 7",
+      "fa": "گفتگو باب 1 7"
+    },
+    "bg": "zone_01",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 8",
+          "fa": "جمله 8"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8007",
+    "chapter": 1,
+    "title": {
+      "en": "Chapter 1 Banter 8",
+      "fa": "گفتگو باب 1 8"
+    },
+    "bg": "zone_01",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 9",
+          "fa": "جمله 9"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8008",
+    "chapter": 2,
+    "title": {
+      "en": "Chapter 2 Banter 1",
+      "fa": "گفتگو باب 2 1"
+    },
+    "bg": "zone_02",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 2",
+          "fa": "جمله 2"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8009",
+    "chapter": 2,
+    "title": {
+      "en": "Chapter 2 Banter 2",
+      "fa": "گفتگو باب 2 2"
+    },
+    "bg": "zone_02",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 3",
+          "fa": "جمله 3"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8010",
+    "chapter": 2,
+    "title": {
+      "en": "Chapter 2 Banter 3",
+      "fa": "گفتگو باب 2 3"
+    },
+    "bg": "zone_02",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 4",
+          "fa": "جمله 4"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8011",
+    "chapter": 2,
+    "title": {
+      "en": "Chapter 2 Banter 4",
+      "fa": "گفتگو باب 2 4"
+    },
+    "bg": "zone_02",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 5",
+          "fa": "جمله 5"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8012",
+    "chapter": 2,
+    "title": {
+      "en": "Chapter 2 Banter 5",
+      "fa": "گفتگو باب 2 5"
+    },
+    "bg": "zone_02",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 6",
+          "fa": "جمله 6"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8013",
+    "chapter": 2,
+    "title": {
+      "en": "Chapter 2 Banter 6",
+      "fa": "گفتگو باب 2 6"
+    },
+    "bg": "zone_02",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 7",
+          "fa": "جمله 7"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8014",
+    "chapter": 2,
+    "title": {
+      "en": "Chapter 2 Banter 7",
+      "fa": "گفتگو باب 2 7"
+    },
+    "bg": "zone_02",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 8",
+          "fa": "جمله 8"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8015",
+    "chapter": 2,
+    "title": {
+      "en": "Chapter 2 Banter 8",
+      "fa": "گفتگو باب 2 8"
+    },
+    "bg": "zone_02",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 9",
+          "fa": "جمله 9"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8016",
+    "chapter": 3,
+    "title": {
+      "en": "Chapter 3 Banter 1",
+      "fa": "گفتگو باب 3 1"
+    },
+    "bg": "zone_03",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 2",
+          "fa": "جمله 2"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8017",
+    "chapter": 3,
+    "title": {
+      "en": "Chapter 3 Banter 2",
+      "fa": "گفتگو باب 3 2"
+    },
+    "bg": "zone_03",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 3",
+          "fa": "جمله 3"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8018",
+    "chapter": 3,
+    "title": {
+      "en": "Chapter 3 Banter 3",
+      "fa": "گفتگو باب 3 3"
+    },
+    "bg": "zone_03",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 4",
+          "fa": "جمله 4"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8019",
+    "chapter": 3,
+    "title": {
+      "en": "Chapter 3 Banter 4",
+      "fa": "گفتگو باب 3 4"
+    },
+    "bg": "zone_03",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 5",
+          "fa": "جمله 5"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8020",
+    "chapter": 3,
+    "title": {
+      "en": "Chapter 3 Banter 5",
+      "fa": "گفتگو باب 3 5"
+    },
+    "bg": "zone_03",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 6",
+          "fa": "جمله 6"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8021",
+    "chapter": 3,
+    "title": {
+      "en": "Chapter 3 Banter 6",
+      "fa": "گفتگو باب 3 6"
+    },
+    "bg": "zone_03",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 7",
+          "fa": "جمله 7"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8022",
+    "chapter": 3,
+    "title": {
+      "en": "Chapter 3 Banter 7",
+      "fa": "گفتگو باب 3 7"
+    },
+    "bg": "zone_03",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 8",
+          "fa": "جمله 8"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8023",
+    "chapter": 3,
+    "title": {
+      "en": "Chapter 3 Banter 8",
+      "fa": "گفتگو باب 3 8"
+    },
+    "bg": "zone_03",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 9",
+          "fa": "جمله 9"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8024",
+    "chapter": 4,
+    "title": {
+      "en": "Chapter 4 Banter 1",
+      "fa": "گفتگو باب 4 1"
+    },
+    "bg": "zone_04",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 2",
+          "fa": "جمله 2"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8025",
+    "chapter": 4,
+    "title": {
+      "en": "Chapter 4 Banter 2",
+      "fa": "گفتگو باب 4 2"
+    },
+    "bg": "zone_04",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 3",
+          "fa": "جمله 3"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8026",
+    "chapter": 4,
+    "title": {
+      "en": "Chapter 4 Banter 3",
+      "fa": "گفتگو باب 4 3"
+    },
+    "bg": "zone_04",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 4",
+          "fa": "جمله 4"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8027",
+    "chapter": 4,
+    "title": {
+      "en": "Chapter 4 Banter 4",
+      "fa": "گفتگو باب 4 4"
+    },
+    "bg": "zone_04",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 5",
+          "fa": "جمله 5"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8028",
+    "chapter": 4,
+    "title": {
+      "en": "Chapter 4 Banter 5",
+      "fa": "گفتگو باب 4 5"
+    },
+    "bg": "zone_04",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 6",
+          "fa": "جمله 6"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8029",
+    "chapter": 4,
+    "title": {
+      "en": "Chapter 4 Banter 6",
+      "fa": "گفتگو باب 4 6"
+    },
+    "bg": "zone_04",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 7",
+          "fa": "جمله 7"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8030",
+    "chapter": 4,
+    "title": {
+      "en": "Chapter 4 Banter 7",
+      "fa": "گفتگو باب 4 7"
+    },
+    "bg": "zone_04",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 8",
+          "fa": "جمله 8"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8031",
+    "chapter": 4,
+    "title": {
+      "en": "Chapter 4 Banter 8",
+      "fa": "گفتگو باب 4 8"
+    },
+    "bg": "zone_04",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 9",
+          "fa": "جمله 9"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8032",
+    "chapter": 5,
+    "title": {
+      "en": "Chapter 5 Banter 1",
+      "fa": "گفتگو باب 5 1"
+    },
+    "bg": "zone_05",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 2",
+          "fa": "جمله 2"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8033",
+    "chapter": 5,
+    "title": {
+      "en": "Chapter 5 Banter 2",
+      "fa": "گفتگو باب 5 2"
+    },
+    "bg": "zone_05",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 3",
+          "fa": "جمله 3"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8034",
+    "chapter": 5,
+    "title": {
+      "en": "Chapter 5 Banter 3",
+      "fa": "گفتگو باب 5 3"
+    },
+    "bg": "zone_05",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 4",
+          "fa": "جمله 4"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8035",
+    "chapter": 5,
+    "title": {
+      "en": "Chapter 5 Banter 4",
+      "fa": "گفتگو باب 5 4"
+    },
+    "bg": "zone_05",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 5",
+          "fa": "جمله 5"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8036",
+    "chapter": 5,
+    "title": {
+      "en": "Chapter 5 Banter 5",
+      "fa": "گفتگو باب 5 5"
+    },
+    "bg": "zone_05",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 6",
+          "fa": "جمله 6"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8037",
+    "chapter": 5,
+    "title": {
+      "en": "Chapter 5 Banter 6",
+      "fa": "گفتگو باب 5 6"
+    },
+    "bg": "zone_05",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 7",
+          "fa": "جمله 7"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8038",
+    "chapter": 5,
+    "title": {
+      "en": "Chapter 5 Banter 7",
+      "fa": "گفتگو باب 5 7"
+    },
+    "bg": "zone_05",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 8",
+          "fa": "جمله 8"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8039",
+    "chapter": 5,
+    "title": {
+      "en": "Chapter 5 Banter 8",
+      "fa": "گفتگو باب 5 8"
+    },
+    "bg": "zone_05",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 9",
+          "fa": "جمله 9"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8040",
+    "chapter": 6,
+    "title": {
+      "en": "Chapter 6 Banter 1",
+      "fa": "گفتگو باب 6 1"
+    },
+    "bg": "zone_06",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 2",
+          "fa": "جمله 2"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8041",
+    "chapter": 6,
+    "title": {
+      "en": "Chapter 6 Banter 2",
+      "fa": "گفتگو باب 6 2"
+    },
+    "bg": "zone_06",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 3",
+          "fa": "جمله 3"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8042",
+    "chapter": 6,
+    "title": {
+      "en": "Chapter 6 Banter 3",
+      "fa": "گفتگو باب 6 3"
+    },
+    "bg": "zone_06",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 4",
+          "fa": "جمله 4"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8043",
+    "chapter": 6,
+    "title": {
+      "en": "Chapter 6 Banter 4",
+      "fa": "گفتگو باب 6 4"
+    },
+    "bg": "zone_06",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 5",
+          "fa": "جمله 5"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8044",
+    "chapter": 6,
+    "title": {
+      "en": "Chapter 6 Banter 5",
+      "fa": "گفتگو باب 6 5"
+    },
+    "bg": "zone_06",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 6",
+          "fa": "جمله 6"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8045",
+    "chapter": 6,
+    "title": {
+      "en": "Chapter 6 Banter 6",
+      "fa": "گفتگو باب 6 6"
+    },
+    "bg": "zone_06",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 7",
+          "fa": "جمله 7"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8046",
+    "chapter": 6,
+    "title": {
+      "en": "Chapter 6 Banter 7",
+      "fa": "گفتگو باب 6 7"
+    },
+    "bg": "zone_06",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 8",
+          "fa": "جمله 8"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8047",
+    "chapter": 6,
+    "title": {
+      "en": "Chapter 6 Banter 8",
+      "fa": "گفتگو باب 6 8"
+    },
+    "bg": "zone_06",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 9",
+          "fa": "جمله 9"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8048",
+    "chapter": 7,
+    "title": {
+      "en": "Chapter 7 Banter 1",
+      "fa": "گفتگو باب 7 1"
+    },
+    "bg": "zone_07",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 2",
+          "fa": "جمله 2"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8049",
+    "chapter": 7,
+    "title": {
+      "en": "Chapter 7 Banter 2",
+      "fa": "گفتگو باب 7 2"
+    },
+    "bg": "zone_07",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 3",
+          "fa": "جمله 3"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8050",
+    "chapter": 7,
+    "title": {
+      "en": "Chapter 7 Banter 3",
+      "fa": "گفتگو باب 7 3"
+    },
+    "bg": "zone_07",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 4",
+          "fa": "جمله 4"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8051",
+    "chapter": 7,
+    "title": {
+      "en": "Chapter 7 Banter 4",
+      "fa": "گفتگو باب 7 4"
+    },
+    "bg": "zone_07",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 5",
+          "fa": "جمله 5"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8052",
+    "chapter": 7,
+    "title": {
+      "en": "Chapter 7 Banter 5",
+      "fa": "گفتگو باب 7 5"
+    },
+    "bg": "zone_07",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 6",
+          "fa": "جمله 6"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8053",
+    "chapter": 7,
+    "title": {
+      "en": "Chapter 7 Banter 6",
+      "fa": "گفتگو باب 7 6"
+    },
+    "bg": "zone_07",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 7",
+          "fa": "جمله 7"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8054",
+    "chapter": 7,
+    "title": {
+      "en": "Chapter 7 Banter 7",
+      "fa": "گفتگو باب 7 7"
+    },
+    "bg": "zone_07",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 8",
+          "fa": "جمله 8"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8055",
+    "chapter": 7,
+    "title": {
+      "en": "Chapter 7 Banter 8",
+      "fa": "گفتگو باب 7 8"
+    },
+    "bg": "zone_07",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 9",
+          "fa": "جمله 9"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8056",
+    "chapter": 8,
+    "title": {
+      "en": "Chapter 8 Banter 1",
+      "fa": "گفتگو باب 8 1"
+    },
+    "bg": "zone_08",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 2",
+          "fa": "جمله 2"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8057",
+    "chapter": 8,
+    "title": {
+      "en": "Chapter 8 Banter 2",
+      "fa": "گفتگو باب 8 2"
+    },
+    "bg": "zone_08",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 3",
+          "fa": "جمله 3"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8058",
+    "chapter": 8,
+    "title": {
+      "en": "Chapter 8 Banter 3",
+      "fa": "گفتگو باب 8 3"
+    },
+    "bg": "zone_08",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 4",
+          "fa": "جمله 4"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8059",
+    "chapter": 8,
+    "title": {
+      "en": "Chapter 8 Banter 4",
+      "fa": "گفتگو باب 8 4"
+    },
+    "bg": "zone_08",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 5",
+          "fa": "جمله 5"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8060",
+    "chapter": 8,
+    "title": {
+      "en": "Chapter 8 Banter 5",
+      "fa": "گفتگو باب 8 5"
+    },
+    "bg": "zone_08",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 6",
+          "fa": "جمله 6"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8061",
+    "chapter": 8,
+    "title": {
+      "en": "Chapter 8 Banter 6",
+      "fa": "گفتگو باب 8 6"
+    },
+    "bg": "zone_08",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 7",
+          "fa": "جمله 7"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8062",
+    "chapter": 8,
+    "title": {
+      "en": "Chapter 8 Banter 7",
+      "fa": "گفتگو باب 8 7"
+    },
+    "bg": "zone_08",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 8",
+          "fa": "جمله 8"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8063",
+    "chapter": 8,
+    "title": {
+      "en": "Chapter 8 Banter 8",
+      "fa": "گفتگو باب 8 8"
+    },
+    "bg": "zone_08",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 9",
+          "fa": "جمله 9"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8064",
+    "chapter": 9,
+    "title": {
+      "en": "Chapter 9 Banter 1",
+      "fa": "گفتگو باب 9 1"
+    },
+    "bg": "zone_09",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 2",
+          "fa": "جمله 2"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8065",
+    "chapter": 9,
+    "title": {
+      "en": "Chapter 9 Banter 2",
+      "fa": "گفتگو باب 9 2"
+    },
+    "bg": "zone_09",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 3",
+          "fa": "جمله 3"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8066",
+    "chapter": 9,
+    "title": {
+      "en": "Chapter 9 Banter 3",
+      "fa": "گفتگو باب 9 3"
+    },
+    "bg": "zone_09",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 4",
+          "fa": "جمله 4"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8067",
+    "chapter": 9,
+    "title": {
+      "en": "Chapter 9 Banter 4",
+      "fa": "گفتگو باب 9 4"
+    },
+    "bg": "zone_09",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 5",
+          "fa": "جمله 5"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8068",
+    "chapter": 9,
+    "title": {
+      "en": "Chapter 9 Banter 5",
+      "fa": "گفتگو باب 9 5"
+    },
+    "bg": "zone_09",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 6",
+          "fa": "جمله 6"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8069",
+    "chapter": 9,
+    "title": {
+      "en": "Chapter 9 Banter 6",
+      "fa": "گفتگو باب 9 6"
+    },
+    "bg": "zone_09",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 7",
+          "fa": "جمله 7"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8070",
+    "chapter": 9,
+    "title": {
+      "en": "Chapter 9 Banter 7",
+      "fa": "گفتگو باب 9 7"
+    },
+    "bg": "zone_09",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 8",
+          "fa": "جمله 8"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8071",
+    "chapter": 9,
+    "title": {
+      "en": "Chapter 9 Banter 8",
+      "fa": "گفتگو باب 9 8"
+    },
+    "bg": "zone_09",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 9",
+          "fa": "جمله 9"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8072",
+    "chapter": 10,
+    "title": {
+      "en": "Chapter 10 Banter 1",
+      "fa": "گفتگو باب 10 1"
+    },
+    "bg": "zone_10",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 2",
+          "fa": "جمله 2"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8073",
+    "chapter": 10,
+    "title": {
+      "en": "Chapter 10 Banter 2",
+      "fa": "گفتگو باب 10 2"
+    },
+    "bg": "zone_10",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 3",
+          "fa": "جمله 3"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8074",
+    "chapter": 10,
+    "title": {
+      "en": "Chapter 10 Banter 3",
+      "fa": "گفتگو باب 10 3"
+    },
+    "bg": "zone_10",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 4",
+          "fa": "جمله 4"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8075",
+    "chapter": 10,
+    "title": {
+      "en": "Chapter 10 Banter 4",
+      "fa": "گفتگو باب 10 4"
+    },
+    "bg": "zone_10",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 5",
+          "fa": "جمله 5"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8076",
+    "chapter": 10,
+    "title": {
+      "en": "Chapter 10 Banter 5",
+      "fa": "گفتگو باب 10 5"
+    },
+    "bg": "zone_10",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 6",
+          "fa": "جمله 6"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8077",
+    "chapter": 10,
+    "title": {
+      "en": "Chapter 10 Banter 6",
+      "fa": "گفتگو باب 10 6"
+    },
+    "bg": "zone_10",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 7",
+          "fa": "جمله 7"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8078",
+    "chapter": 10,
+    "title": {
+      "en": "Chapter 10 Banter 7",
+      "fa": "گفتگو باب 10 7"
+    },
+    "bg": "zone_10",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 8",
+          "fa": "جمله 8"
+        },
+        "expression": "neutral"
+      }
+    ]
+  },
+  {
+    "id": "dialogue_8079",
+    "chapter": 10,
+    "title": {
+      "en": "Chapter 10 Banter 8",
+      "fa": "گفتگو باب 10 8"
+    },
+    "bg": "zone_10",
+    "lines": [
+      {
+        "speaker": "KAI",
+        "text": {
+          "en": "Line 9",
+          "fa": "جمله 9"
+        },
+        "expression": "neutral"
+      }
+    ]
+  }
+]

@@ -1,0 +1,3018 @@
+[
+  {
+    "id": "quest_5000",
+    "name": {
+      "en": "Chapter 1 Scene 1",
+      "fa": "قسمت 1 باب 1"
+    },
+    "type": "STORY",
+    "chapter": 1,
+    "zone": "zone_01",
+    "objectives": [
+      {
+        "kind": "DEFEAT",
+        "target": "zone_boss",
+        "qty": 1
+      }
+    ],
+    "rewards": {
+      "gold": 200,
+      "xp": 100,
+      "items": [
+        "item_1000"
+      ]
+    },
+    "dialogueScene": "dialogue_ch1_s1"
+  },
+  {
+    "id": "quest_5001",
+    "name": {
+      "en": "Chapter 1 Scene 2",
+      "fa": "قسمت 2 باب 1"
+    },
+    "type": "STORY",
+    "chapter": 1,
+    "zone": "zone_01",
+    "objectives": [
+      {
+        "kind": "DEFEAT",
+        "target": "zone_boss",
+        "qty": 1
+      }
+    ],
+    "rewards": {
+      "gold": 200,
+      "xp": 100,
+      "items": [
+        "item_1000"
+      ]
+    },
+    "dialogueScene": "dialogue_ch1_s2"
+  },
+  {
+    "id": "quest_5002",
+    "name": {
+      "en": "Chapter 1 Scene 3",
+      "fa": "قسمت 3 باب 1"
+    },
+    "type": "STORY",
+    "chapter": 1,
+    "zone": "zone_01",
+    "objectives": [
+      {
+        "kind": "DEFEAT",
+        "target": "zone_boss",
+        "qty": 1
+      }
+    ],
+    "rewards": {
+      "gold": 200,
+      "xp": 100,
+      "items": [
+        "item_1000"
+      ]
+    },
+    "dialogueScene": "dialogue_ch1_s3"
+  },
+  {
+    "id": "quest_5003",
+    "name": {
+      "en": "Chapter 1 Scene 4",
+      "fa": "قسمت 4 باب 1"
+    },
+    "type": "STORY",
+    "chapter": 1,
+    "zone": "zone_01",
+    "objectives": [
+      {
+        "kind": "DEFEAT",
+        "target": "zone_boss",
+        "qty": 1
+      }
+    ],
+    "rewards": {
+      "gold": 200,
+      "xp": 100,
+      "items": [
+        "item_1000"
+      ]
+    },
+    "dialogueScene": "dialogue_ch1_s4"
+  },
+  {
+    "id": "quest_5004",
+    "name": {
+      "en": "Chapter 2 Scene 1",
+      "fa": "قسمت 1 باب 2"
+    },
+    "type": "STORY",
+    "chapter": 2,
+    "zone": "zone_02",
+    "objectives": [
+      {
+        "kind": "DEFEAT",
+        "target": "zone_boss",
+        "qty": 1
+      }
+    ],
+    "rewards": {
+      "gold": 400,
+      "xp": 200,
+      "items": [
+        "item_1000"
+      ]
+    },
+    "dialogueScene": "dialogue_ch2_s1"
+  },
+  {
+    "id": "quest_5005",
+    "name": {
+      "en": "Chapter 2 Scene 2",
+      "fa": "قسمت 2 باب 2"
+    },
+    "type": "STORY",
+    "chapter": 2,
+    "zone": "zone_02",
+    "objectives": [
+      {
+        "kind": "DEFEAT",
+        "target": "zone_boss",
+        "qty": 1
+      }
+    ],
+    "rewards": {
+      "gold": 400,
+      "xp": 200,
+      "items": [
+        "item_1000"
+      ]
+    },
+    "dialogueScene": "dialogue_ch2_s2"
+  },
+  {
+    "id": "quest_5006",
+    "name": {
+      "en": "Chapter 2 Scene 3",
+      "fa": "قسمت 3 باب 2"
+    },
+    "type": "STORY",
+    "chapter": 2,
+    "zone": "zone_02",
+    "objectives": [
+      {
+        "kind": "DEFEAT",
+        "target": "zone_boss",
+        "qty": 1
+      }
+    ],
+    "rewards": {
+      "gold": 400,
+      "xp": 200,
+      "items": [
+        "item_1000"
+      ]
+    },
+    "dialogueScene": "dialogue_ch2_s3"
+  },
+  {
+    "id": "quest_5007",
+    "name": {
+      "en": "Chapter 2 Scene 4",
+      "fa": "قسمت 4 باب 2"
+    },
+    "type": "STORY",
+    "chapter": 2,
+    "zone": "zone_02",
+    "objectives": [
+      {
+        "kind": "DEFEAT",
+        "target": "zone_boss",
+        "qty": 1
+      }
+    ],
+    "rewards": {
+      "gold": 400,
+      "xp": 200,
+      "items": [
+        "item_1000"
+      ]
+    },
+    "dialogueScene": "dialogue_ch2_s4"
+  },
+  {
+    "id": "quest_5008",
+    "name": {
+      "en": "Chapter 3 Scene 1",
+      "fa": "قسمت 1 باب 3"
+    },
+    "type": "STORY",
+    "chapter": 3,
+    "zone": "zone_03",
+    "objectives": [
+      {
+        "kind": "DEFEAT",
+        "target": "zone_boss",
+        "qty": 1
+      }
+    ],
+    "rewards": {
+      "gold": 600,
+      "xp": 300,
+      "items": [
+        "item_1000"
+      ]
+    },
+    "dialogueScene": "dialogue_ch3_s1"
+  },
+  {
+    "id": "quest_5009",
+    "name": {
+      "en": "Chapter 3 Scene 2",
+      "fa": "قسمت 2 باب 3"
+    },
+    "type": "STORY",
+    "chapter": 3,
+    "zone": "zone_03",
+    "objectives": [
+      {
+        "kind": "DEFEAT",
+        "target": "zone_boss",
+        "qty": 1
+      }
+    ],
+    "rewards": {
+      "gold": 600,
+      "xp": 300,
+      "items": [
+        "item_1000"
+      ]
+    },
+    "dialogueScene": "dialogue_ch3_s2"
+  },
+  {
+    "id": "quest_5010",
+    "name": {
+      "en": "Chapter 3 Scene 3",
+      "fa": "قسمت 3 باب 3"
+    },
+    "type": "STORY",
+    "chapter": 3,
+    "zone": "zone_03",
+    "objectives": [
+      {
+        "kind": "DEFEAT",
+        "target": "zone_boss",
+        "qty": 1
+      }
+    ],
+    "rewards": {
+      "gold": 600,
+      "xp": 300,
+      "items": [
+        "item_1000"
+      ]
+    },
+    "dialogueScene": "dialogue_ch3_s3"
+  },
+  {
+    "id": "quest_5011",
+    "name": {
+      "en": "Chapter 3 Scene 4",
+      "fa": "قسمت 4 باب 3"
+    },
+    "type": "STORY",
+    "chapter": 3,
+    "zone": "zone_03",
+    "objectives": [
+      {
+        "kind": "DEFEAT",
+        "target": "zone_boss",
+        "qty": 1
+      }
+    ],
+    "rewards": {
+      "gold": 600,
+      "xp": 300,
+      "items": [
+        "item_1000"
+      ]
+    },
+    "dialogueScene": "dialogue_ch3_s4"
+  },
+  {
+    "id": "quest_5012",
+    "name": {
+      "en": "Chapter 4 Scene 1",
+      "fa": "قسمت 1 باب 4"
+    },
+    "type": "STORY",
+    "chapter": 4,
+    "zone": "zone_04",
+    "objectives": [
+      {
+        "kind": "DEFEAT",
+        "target": "zone_boss",
+        "qty": 1
+      }
+    ],
+    "rewards": {
+      "gold": 800,
+      "xp": 400,
+      "items": [
+        "item_1000"
+      ]
+    },
+    "dialogueScene": "dialogue_ch4_s1"
+  },
+  {
+    "id": "quest_5013",
+    "name": {
+      "en": "Chapter 4 Scene 2",
+      "fa": "قسمت 2 باب 4"
+    },
+    "type": "STORY",
+    "chapter": 4,
+    "zone": "zone_04",
+    "objectives": [
+      {
+        "kind": "DEFEAT",
+        "target": "zone_boss",
+        "qty": 1
+      }
+    ],
+    "rewards": {
+      "gold": 800,
+      "xp": 400,
+      "items": [
+        "item_1000"
+      ]
+    },
+    "dialogueScene": "dialogue_ch4_s2"
+  },
+  {
+    "id": "quest_5014",
+    "name": {
+      "en": "Chapter 4 Scene 3",
+      "fa": "قسمت 3 باب 4"
+    },
+    "type": "STORY",
+    "chapter": 4,
+    "zone": "zone_04",
+    "objectives": [
+      {
+        "kind": "DEFEAT",
+        "target": "zone_boss",
+        "qty": 1
+      }
+    ],
+    "rewards": {
+      "gold": 800,
+      "xp": 400,
+      "items": [
+        "item_1000"
+      ]
+    },
+    "dialogueScene": "dialogue_ch4_s3"
+  },
+  {
+    "id": "quest_5015",
+    "name": {
+      "en": "Chapter 4 Scene 4",
+      "fa": "قسمت 4 باب 4"
+    },
+    "type": "STORY",
+    "chapter": 4,
+    "zone": "zone_04",
+    "objectives": [
+      {
+        "kind": "DEFEAT",
+        "target": "zone_boss",
+        "qty": 1
+      }
+    ],
+    "rewards": {
+      "gold": 800,
+      "xp": 400,
+      "items": [
+        "item_1000"
+      ]
+    },
+    "dialogueScene": "dialogue_ch4_s4"
+  },
+  {
+    "id": "quest_5016",
+    "name": {
+      "en": "Chapter 5 Scene 1",
+      "fa": "قسمت 1 باب 5"
+    },
+    "type": "STORY",
+    "chapter": 5,
+    "zone": "zone_05",
+    "objectives": [
+      {
+        "kind": "DEFEAT",
+        "target": "zone_boss",
+        "qty": 1
+      }
+    ],
+    "rewards": {
+      "gold": 1000,
+      "xp": 500,
+      "items": [
+        "item_1000"
+      ]
+    },
+    "dialogueScene": "dialogue_ch5_s1"
+  },
+  {
+    "id": "quest_5017",
+    "name": {
+      "en": "Chapter 5 Scene 2",
+      "fa": "قسمت 2 باب 5"
+    },
+    "type": "STORY",
+    "chapter": 5,
+    "zone": "zone_05",
+    "objectives": [
+      {
+        "kind": "DEFEAT",
+        "target": "zone_boss",
+        "qty": 1
+      }
+    ],
+    "rewards": {
+      "gold": 1000,
+      "xp": 500,
+      "items": [
+        "item_1000"
+      ]
+    },
+    "dialogueScene": "dialogue_ch5_s2"
+  },
+  {
+    "id": "quest_5018",
+    "name": {
+      "en": "Chapter 5 Scene 3",
+      "fa": "قسمت 3 باب 5"
+    },
+    "type": "STORY",
+    "chapter": 5,
+    "zone": "zone_05",
+    "objectives": [
+      {
+        "kind": "DEFEAT",
+        "target": "zone_boss",
+        "qty": 1
+      }
+    ],
+    "rewards": {
+      "gold": 1000,
+      "xp": 500,
+      "items": [
+        "item_1000"
+      ]
+    },
+    "dialogueScene": "dialogue_ch5_s3"
+  },
+  {
+    "id": "quest_5019",
+    "name": {
+      "en": "Chapter 5 Scene 4",
+      "fa": "قسمت 4 باب 5"
+    },
+    "type": "STORY",
+    "chapter": 5,
+    "zone": "zone_05",
+    "objectives": [
+      {
+        "kind": "DEFEAT",
+        "target": "zone_boss",
+        "qty": 1
+      }
+    ],
+    "rewards": {
+      "gold": 1000,
+      "xp": 500,
+      "items": [
+        "item_1000"
+      ]
+    },
+    "dialogueScene": "dialogue_ch5_s4"
+  },
+  {
+    "id": "quest_5020",
+    "name": {
+      "en": "Chapter 6 Scene 1",
+      "fa": "قسمت 1 باب 6"
+    },
+    "type": "STORY",
+    "chapter": 6,
+    "zone": "zone_06",
+    "objectives": [
+      {
+        "kind": "DEFEAT",
+        "target": "zone_boss",
+        "qty": 1
+      }
+    ],
+    "rewards": {
+      "gold": 1200,
+      "xp": 600,
+      "items": [
+        "item_1000"
+      ]
+    },
+    "dialogueScene": "dialogue_ch6_s1"
+  },
+  {
+    "id": "quest_5021",
+    "name": {
+      "en": "Chapter 6 Scene 2",
+      "fa": "قسمت 2 باب 6"
+    },
+    "type": "STORY",
+    "chapter": 6,
+    "zone": "zone_06",
+    "objectives": [
+      {
+        "kind": "DEFEAT",
+        "target": "zone_boss",
+        "qty": 1
+      }
+    ],
+    "rewards": {
+      "gold": 1200,
+      "xp": 600,
+      "items": [
+        "item_1000"
+      ]
+    },
+    "dialogueScene": "dialogue_ch6_s2"
+  },
+  {
+    "id": "quest_5022",
+    "name": {
+      "en": "Chapter 6 Scene 3",
+      "fa": "قسمت 3 باب 6"
+    },
+    "type": "STORY",
+    "chapter": 6,
+    "zone": "zone_06",
+    "objectives": [
+      {
+        "kind": "DEFEAT",
+        "target": "zone_boss",
+        "qty": 1
+      }
+    ],
+    "rewards": {
+      "gold": 1200,
+      "xp": 600,
+      "items": [
+        "item_1000"
+      ]
+    },
+    "dialogueScene": "dialogue_ch6_s3"
+  },
+  {
+    "id": "quest_5023",
+    "name": {
+      "en": "Chapter 6 Scene 4",
+      "fa": "قسمت 4 باب 6"
+    },
+    "type": "STORY",
+    "chapter": 6,
+    "zone": "zone_06",
+    "objectives": [
+      {
+        "kind": "DEFEAT",
+        "target": "zone_boss",
+        "qty": 1
+      }
+    ],
+    "rewards": {
+      "gold": 1200,
+      "xp": 600,
+      "items": [
+        "item_1000"
+      ]
+    },
+    "dialogueScene": "dialogue_ch6_s4"
+  },
+  {
+    "id": "quest_5024",
+    "name": {
+      "en": "Chapter 7 Scene 1",
+      "fa": "قسمت 1 باب 7"
+    },
+    "type": "STORY",
+    "chapter": 7,
+    "zone": "zone_07",
+    "objectives": [
+      {
+        "kind": "DEFEAT",
+        "target": "zone_boss",
+        "qty": 1
+      }
+    ],
+    "rewards": {
+      "gold": 1400,
+      "xp": 700,
+      "items": [
+        "item_1000"
+      ]
+    },
+    "dialogueScene": "dialogue_ch7_s1"
+  },
+  {
+    "id": "quest_5025",
+    "name": {
+      "en": "Chapter 7 Scene 2",
+      "fa": "قسمت 2 باب 7"
+    },
+    "type": "STORY",
+    "chapter": 7,
+    "zone": "zone_07",
+    "objectives": [
+      {
+        "kind": "DEFEAT",
+        "target": "zone_boss",
+        "qty": 1
+      }
+    ],
+    "rewards": {
+      "gold": 1400,
+      "xp": 700,
+      "items": [
+        "item_1000"
+      ]
+    },
+    "dialogueScene": "dialogue_ch7_s2"
+  },
+  {
+    "id": "quest_5026",
+    "name": {
+      "en": "Chapter 7 Scene 3",
+      "fa": "قسمت 3 باب 7"
+    },
+    "type": "STORY",
+    "chapter": 7,
+    "zone": "zone_07",
+    "objectives": [
+      {
+        "kind": "DEFEAT",
+        "target": "zone_boss",
+        "qty": 1
+      }
+    ],
+    "rewards": {
+      "gold": 1400,
+      "xp": 700,
+      "items": [
+        "item_1000"
+      ]
+    },
+    "dialogueScene": "dialogue_ch7_s3"
+  },
+  {
+    "id": "quest_5027",
+    "name": {
+      "en": "Chapter 7 Scene 4",
+      "fa": "قسمت 4 باب 7"
+    },
+    "type": "STORY",
+    "chapter": 7,
+    "zone": "zone_07",
+    "objectives": [
+      {
+        "kind": "DEFEAT",
+        "target": "zone_boss",
+        "qty": 1
+      }
+    ],
+    "rewards": {
+      "gold": 1400,
+      "xp": 700,
+      "items": [
+        "item_1000"
+      ]
+    },
+    "dialogueScene": "dialogue_ch7_s4"
+  },
+  {
+    "id": "quest_5028",
+    "name": {
+      "en": "Chapter 8 Scene 1",
+      "fa": "قسمت 1 باب 8"
+    },
+    "type": "STORY",
+    "chapter": 8,
+    "zone": "zone_08",
+    "objectives": [
+      {
+        "kind": "DEFEAT",
+        "target": "zone_boss",
+        "qty": 1
+      }
+    ],
+    "rewards": {
+      "gold": 1600,
+      "xp": 800,
+      "items": [
+        "item_1000"
+      ]
+    },
+    "dialogueScene": "dialogue_ch8_s1"
+  },
+  {
+    "id": "quest_5029",
+    "name": {
+      "en": "Chapter 8 Scene 2",
+      "fa": "قسمت 2 باب 8"
+    },
+    "type": "STORY",
+    "chapter": 8,
+    "zone": "zone_08",
+    "objectives": [
+      {
+        "kind": "DEFEAT",
+        "target": "zone_boss",
+        "qty": 1
+      }
+    ],
+    "rewards": {
+      "gold": 1600,
+      "xp": 800,
+      "items": [
+        "item_1000"
+      ]
+    },
+    "dialogueScene": "dialogue_ch8_s2"
+  },
+  {
+    "id": "quest_5030",
+    "name": {
+      "en": "Chapter 8 Scene 3",
+      "fa": "قسمت 3 باب 8"
+    },
+    "type": "STORY",
+    "chapter": 8,
+    "zone": "zone_08",
+    "objectives": [
+      {
+        "kind": "DEFEAT",
+        "target": "zone_boss",
+        "qty": 1
+      }
+    ],
+    "rewards": {
+      "gold": 1600,
+      "xp": 800,
+      "items": [
+        "item_1000"
+      ]
+    },
+    "dialogueScene": "dialogue_ch8_s3"
+  },
+  {
+    "id": "quest_5031",
+    "name": {
+      "en": "Chapter 8 Scene 4",
+      "fa": "قسمت 4 باب 8"
+    },
+    "type": "STORY",
+    "chapter": 8,
+    "zone": "zone_08",
+    "objectives": [
+      {
+        "kind": "DEFEAT",
+        "target": "zone_boss",
+        "qty": 1
+      }
+    ],
+    "rewards": {
+      "gold": 1600,
+      "xp": 800,
+      "items": [
+        "item_1000"
+      ]
+    },
+    "dialogueScene": "dialogue_ch8_s4"
+  },
+  {
+    "id": "quest_5032",
+    "name": {
+      "en": "Chapter 9 Scene 1",
+      "fa": "قسمت 1 باب 9"
+    },
+    "type": "STORY",
+    "chapter": 9,
+    "zone": "zone_09",
+    "objectives": [
+      {
+        "kind": "DEFEAT",
+        "target": "zone_boss",
+        "qty": 1
+      }
+    ],
+    "rewards": {
+      "gold": 1800,
+      "xp": 900,
+      "items": [
+        "item_1000"
+      ]
+    },
+    "dialogueScene": "dialogue_ch9_s1"
+  },
+  {
+    "id": "quest_5033",
+    "name": {
+      "en": "Chapter 9 Scene 2",
+      "fa": "قسمت 2 باب 9"
+    },
+    "type": "STORY",
+    "chapter": 9,
+    "zone": "zone_09",
+    "objectives": [
+      {
+        "kind": "DEFEAT",
+        "target": "zone_boss",
+        "qty": 1
+      }
+    ],
+    "rewards": {
+      "gold": 1800,
+      "xp": 900,
+      "items": [
+        "item_1000"
+      ]
+    },
+    "dialogueScene": "dialogue_ch9_s2"
+  },
+  {
+    "id": "quest_5034",
+    "name": {
+      "en": "Chapter 9 Scene 3",
+      "fa": "قسمت 3 باب 9"
+    },
+    "type": "STORY",
+    "chapter": 9,
+    "zone": "zone_09",
+    "objectives": [
+      {
+        "kind": "DEFEAT",
+        "target": "zone_boss",
+        "qty": 1
+      }
+    ],
+    "rewards": {
+      "gold": 1800,
+      "xp": 900,
+      "items": [
+        "item_1000"
+      ]
+    },
+    "dialogueScene": "dialogue_ch9_s3"
+  },
+  {
+    "id": "quest_5035",
+    "name": {
+      "en": "Chapter 9 Scene 4",
+      "fa": "قسمت 4 باب 9"
+    },
+    "type": "STORY",
+    "chapter": 9,
+    "zone": "zone_09",
+    "objectives": [
+      {
+        "kind": "DEFEAT",
+        "target": "zone_boss",
+        "qty": 1
+      }
+    ],
+    "rewards": {
+      "gold": 1800,
+      "xp": 900,
+      "items": [
+        "item_1000"
+      ]
+    },
+    "dialogueScene": "dialogue_ch9_s4"
+  },
+  {
+    "id": "quest_5036",
+    "name": {
+      "en": "Chapter 10 Scene 1",
+      "fa": "قسمت 1 باب 10"
+    },
+    "type": "STORY",
+    "chapter": 10,
+    "zone": "zone_10",
+    "objectives": [
+      {
+        "kind": "DEFEAT",
+        "target": "zone_boss",
+        "qty": 1
+      }
+    ],
+    "rewards": {
+      "gold": 2000,
+      "xp": 1000,
+      "items": [
+        "item_1000"
+      ]
+    },
+    "dialogueScene": "dialogue_ch10_s1"
+  },
+  {
+    "id": "quest_5037",
+    "name": {
+      "en": "Chapter 10 Scene 2",
+      "fa": "قسمت 2 باب 10"
+    },
+    "type": "STORY",
+    "chapter": 10,
+    "zone": "zone_10",
+    "objectives": [
+      {
+        "kind": "DEFEAT",
+        "target": "zone_boss",
+        "qty": 1
+      }
+    ],
+    "rewards": {
+      "gold": 2000,
+      "xp": 1000,
+      "items": [
+        "item_1000"
+      ]
+    },
+    "dialogueScene": "dialogue_ch10_s2"
+  },
+  {
+    "id": "quest_5038",
+    "name": {
+      "en": "Chapter 10 Scene 3",
+      "fa": "قسمت 3 باب 10"
+    },
+    "type": "STORY",
+    "chapter": 10,
+    "zone": "zone_10",
+    "objectives": [
+      {
+        "kind": "DEFEAT",
+        "target": "zone_boss",
+        "qty": 1
+      }
+    ],
+    "rewards": {
+      "gold": 2000,
+      "xp": 1000,
+      "items": [
+        "item_1000"
+      ]
+    },
+    "dialogueScene": "dialogue_ch10_s3"
+  },
+  {
+    "id": "quest_5039",
+    "name": {
+      "en": "Chapter 10 Scene 4",
+      "fa": "قسمت 4 باب 10"
+    },
+    "type": "STORY",
+    "chapter": 10,
+    "zone": "zone_10",
+    "objectives": [
+      {
+        "kind": "DEFEAT",
+        "target": "zone_boss",
+        "qty": 1
+      }
+    ],
+    "rewards": {
+      "gold": 2000,
+      "xp": 1000,
+      "items": [
+        "item_1000"
+      ]
+    },
+    "dialogueScene": "dialogue_ch10_s4"
+  },
+  {
+    "id": "quest_5040",
+    "name": {
+      "en": "Daily Mon Tier 1",
+      "fa": "روزانه-tier 1"
+    },
+    "type": "DAILY",
+    "chapter": 0,
+    "zone": "zone_02",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2001",
+        "qty": 10
+      }
+    ],
+    "rewards": {
+      "gold": 300,
+      "xp": 150
+    }
+  },
+  {
+    "id": "quest_5041",
+    "name": {
+      "en": "Daily Mon Tier 2",
+      "fa": "روزانه-tier 2"
+    },
+    "type": "DAILY",
+    "chapter": 0,
+    "zone": "zone_03",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2002",
+        "qty": 20
+      }
+    ],
+    "rewards": {
+      "gold": 600,
+      "xp": 300
+    }
+  },
+  {
+    "id": "quest_5042",
+    "name": {
+      "en": "Daily Mon Tier 3",
+      "fa": "روزانه-tier 3"
+    },
+    "type": "DAILY",
+    "chapter": 0,
+    "zone": "zone_04",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2003",
+        "qty": 30
+      }
+    ],
+    "rewards": {
+      "gold": 900,
+      "xp": 450
+    }
+  },
+  {
+    "id": "quest_5043",
+    "name": {
+      "en": "Daily Mon Tier 4",
+      "fa": "روزانه-tier 4"
+    },
+    "type": "DAILY",
+    "chapter": 0,
+    "zone": "zone_05",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2004",
+        "qty": 40
+      }
+    ],
+    "rewards": {
+      "gold": 1200,
+      "xp": 600
+    }
+  },
+  {
+    "id": "quest_5044",
+    "name": {
+      "en": "Daily Tue Tier 1",
+      "fa": "روزانه-tier 1"
+    },
+    "type": "DAILY",
+    "chapter": 0,
+    "zone": "zone_03",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2001",
+        "qty": 10
+      }
+    ],
+    "rewards": {
+      "gold": 300,
+      "xp": 150
+    }
+  },
+  {
+    "id": "quest_5045",
+    "name": {
+      "en": "Daily Tue Tier 2",
+      "fa": "روزانه-tier 2"
+    },
+    "type": "DAILY",
+    "chapter": 0,
+    "zone": "zone_04",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2002",
+        "qty": 20
+      }
+    ],
+    "rewards": {
+      "gold": 600,
+      "xp": 300
+    }
+  },
+  {
+    "id": "quest_5046",
+    "name": {
+      "en": "Daily Tue Tier 3",
+      "fa": "روزانه-tier 3"
+    },
+    "type": "DAILY",
+    "chapter": 0,
+    "zone": "zone_05",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2003",
+        "qty": 30
+      }
+    ],
+    "rewards": {
+      "gold": 900,
+      "xp": 450
+    }
+  },
+  {
+    "id": "quest_5047",
+    "name": {
+      "en": "Daily Tue Tier 4",
+      "fa": "روزانه-tier 4"
+    },
+    "type": "DAILY",
+    "chapter": 0,
+    "zone": "zone_06",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2004",
+        "qty": 40
+      }
+    ],
+    "rewards": {
+      "gold": 1200,
+      "xp": 600
+    }
+  },
+  {
+    "id": "quest_5048",
+    "name": {
+      "en": "Daily Wed Tier 1",
+      "fa": "روزانه-tier 1"
+    },
+    "type": "DAILY",
+    "chapter": 0,
+    "zone": "zone_04",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2001",
+        "qty": 10
+      }
+    ],
+    "rewards": {
+      "gold": 300,
+      "xp": 150
+    }
+  },
+  {
+    "id": "quest_5049",
+    "name": {
+      "en": "Daily Wed Tier 2",
+      "fa": "روزانه-tier 2"
+    },
+    "type": "DAILY",
+    "chapter": 0,
+    "zone": "zone_05",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2002",
+        "qty": 20
+      }
+    ],
+    "rewards": {
+      "gold": 600,
+      "xp": 300
+    }
+  },
+  {
+    "id": "quest_5050",
+    "name": {
+      "en": "Daily Wed Tier 3",
+      "fa": "روزانه-tier 3"
+    },
+    "type": "DAILY",
+    "chapter": 0,
+    "zone": "zone_06",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2003",
+        "qty": 30
+      }
+    ],
+    "rewards": {
+      "gold": 900,
+      "xp": 450
+    }
+  },
+  {
+    "id": "quest_5051",
+    "name": {
+      "en": "Daily Wed Tier 4",
+      "fa": "روزانه-tier 4"
+    },
+    "type": "DAILY",
+    "chapter": 0,
+    "zone": "zone_07",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2004",
+        "qty": 40
+      }
+    ],
+    "rewards": {
+      "gold": 1200,
+      "xp": 600
+    }
+  },
+  {
+    "id": "quest_5052",
+    "name": {
+      "en": "Daily Thu Tier 1",
+      "fa": "روزانه-tier 1"
+    },
+    "type": "DAILY",
+    "chapter": 0,
+    "zone": "zone_05",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2001",
+        "qty": 10
+      }
+    ],
+    "rewards": {
+      "gold": 300,
+      "xp": 150
+    }
+  },
+  {
+    "id": "quest_5053",
+    "name": {
+      "en": "Daily Thu Tier 2",
+      "fa": "روزانه-tier 2"
+    },
+    "type": "DAILY",
+    "chapter": 0,
+    "zone": "zone_06",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2002",
+        "qty": 20
+      }
+    ],
+    "rewards": {
+      "gold": 600,
+      "xp": 300
+    }
+  },
+  {
+    "id": "quest_5054",
+    "name": {
+      "en": "Daily Thu Tier 3",
+      "fa": "روزانه-tier 3"
+    },
+    "type": "DAILY",
+    "chapter": 0,
+    "zone": "zone_07",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2003",
+        "qty": 30
+      }
+    ],
+    "rewards": {
+      "gold": 900,
+      "xp": 450
+    }
+  },
+  {
+    "id": "quest_5055",
+    "name": {
+      "en": "Daily Thu Tier 4",
+      "fa": "روزانه-tier 4"
+    },
+    "type": "DAILY",
+    "chapter": 0,
+    "zone": "zone_08",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2004",
+        "qty": 40
+      }
+    ],
+    "rewards": {
+      "gold": 1200,
+      "xp": 600
+    }
+  },
+  {
+    "id": "quest_5056",
+    "name": {
+      "en": "Daily Fri Tier 1",
+      "fa": "روزانه-tier 1"
+    },
+    "type": "DAILY",
+    "chapter": 0,
+    "zone": "zone_06",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2001",
+        "qty": 10
+      }
+    ],
+    "rewards": {
+      "gold": 300,
+      "xp": 150
+    }
+  },
+  {
+    "id": "quest_5057",
+    "name": {
+      "en": "Daily Fri Tier 2",
+      "fa": "روزانه-tier 2"
+    },
+    "type": "DAILY",
+    "chapter": 0,
+    "zone": "zone_07",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2002",
+        "qty": 20
+      }
+    ],
+    "rewards": {
+      "gold": 600,
+      "xp": 300
+    }
+  },
+  {
+    "id": "quest_5058",
+    "name": {
+      "en": "Daily Fri Tier 3",
+      "fa": "روزانه-tier 3"
+    },
+    "type": "DAILY",
+    "chapter": 0,
+    "zone": "zone_08",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2003",
+        "qty": 30
+      }
+    ],
+    "rewards": {
+      "gold": 900,
+      "xp": 450
+    }
+  },
+  {
+    "id": "quest_5059",
+    "name": {
+      "en": "Daily Fri Tier 4",
+      "fa": "روزانه-tier 4"
+    },
+    "type": "DAILY",
+    "chapter": 0,
+    "zone": "zone_09",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2004",
+        "qty": 40
+      }
+    ],
+    "rewards": {
+      "gold": 1200,
+      "xp": 600
+    }
+  },
+  {
+    "id": "quest_5060",
+    "name": {
+      "en": "Daily Sat Tier 1",
+      "fa": "روزانه-tier 1"
+    },
+    "type": "DAILY",
+    "chapter": 0,
+    "zone": "zone_07",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2001",
+        "qty": 10
+      }
+    ],
+    "rewards": {
+      "gold": 300,
+      "xp": 150
+    }
+  },
+  {
+    "id": "quest_5061",
+    "name": {
+      "en": "Daily Sat Tier 2",
+      "fa": "روزانه-tier 2"
+    },
+    "type": "DAILY",
+    "chapter": 0,
+    "zone": "zone_08",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2002",
+        "qty": 20
+      }
+    ],
+    "rewards": {
+      "gold": 600,
+      "xp": 300
+    }
+  },
+  {
+    "id": "quest_5062",
+    "name": {
+      "en": "Daily Sat Tier 3",
+      "fa": "روزانه-tier 3"
+    },
+    "type": "DAILY",
+    "chapter": 0,
+    "zone": "zone_09",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2003",
+        "qty": 30
+      }
+    ],
+    "rewards": {
+      "gold": 900,
+      "xp": 450
+    }
+  },
+  {
+    "id": "quest_5063",
+    "name": {
+      "en": "Daily Sat Tier 4",
+      "fa": "روزانه-tier 4"
+    },
+    "type": "DAILY",
+    "chapter": 0,
+    "zone": "zone_10",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2004",
+        "qty": 40
+      }
+    ],
+    "rewards": {
+      "gold": 1200,
+      "xp": 600
+    }
+  },
+  {
+    "id": "quest_5064",
+    "name": {
+      "en": "Daily Sun Tier 1",
+      "fa": "روزانه-tier 1"
+    },
+    "type": "DAILY",
+    "chapter": 0,
+    "zone": "zone_08",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2001",
+        "qty": 10
+      }
+    ],
+    "rewards": {
+      "gold": 300,
+      "xp": 150
+    }
+  },
+  {
+    "id": "quest_5065",
+    "name": {
+      "en": "Daily Sun Tier 2",
+      "fa": "روزانه-tier 2"
+    },
+    "type": "DAILY",
+    "chapter": 0,
+    "zone": "zone_09",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2002",
+        "qty": 20
+      }
+    ],
+    "rewards": {
+      "gold": 600,
+      "xp": 300
+    }
+  },
+  {
+    "id": "quest_5066",
+    "name": {
+      "en": "Daily Sun Tier 3",
+      "fa": "روزانه-tier 3"
+    },
+    "type": "DAILY",
+    "chapter": 0,
+    "zone": "zone_10",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2003",
+        "qty": 30
+      }
+    ],
+    "rewards": {
+      "gold": 900,
+      "xp": 450
+    }
+  },
+  {
+    "id": "quest_5067",
+    "name": {
+      "en": "Daily Sun Tier 4",
+      "fa": "روزانه-tier 4"
+    },
+    "type": "DAILY",
+    "chapter": 0,
+    "zone": "zone_01",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2004",
+        "qty": 40
+      }
+    ],
+    "rewards": {
+      "gold": 1200,
+      "xp": 600
+    }
+  },
+  {
+    "id": "quest_5068",
+    "name": {
+      "en": "Weekly 1",
+      "fa": "هفتگی 1"
+    },
+    "type": "WEEKLY",
+    "chapter": 0,
+    "zone": "zone_01",
+    "objectives": [
+      {
+        "kind": "DEFEAT",
+        "target": "zone_boss",
+        "qty": 3
+      }
+    ],
+    "rewards": {
+      "gold": 5000,
+      "xp": 3000
+    }
+  },
+  {
+    "id": "quest_5069",
+    "name": {
+      "en": "Weekly 2",
+      "fa": "هفتگی 2"
+    },
+    "type": "WEEKLY",
+    "chapter": 0,
+    "zone": "zone_02",
+    "objectives": [
+      {
+        "kind": "DEFEAT",
+        "target": "zone_boss",
+        "qty": 3
+      }
+    ],
+    "rewards": {
+      "gold": 5000,
+      "xp": 3000
+    }
+  },
+  {
+    "id": "quest_5070",
+    "name": {
+      "en": "Weekly 3",
+      "fa": "هفتگی 3"
+    },
+    "type": "WEEKLY",
+    "chapter": 0,
+    "zone": "zone_03",
+    "objectives": [
+      {
+        "kind": "DEFEAT",
+        "target": "zone_boss",
+        "qty": 3
+      }
+    ],
+    "rewards": {
+      "gold": 5000,
+      "xp": 3000
+    }
+  },
+  {
+    "id": "quest_5071",
+    "name": {
+      "en": "Weekly 4",
+      "fa": "هفتگی 4"
+    },
+    "type": "WEEKLY",
+    "chapter": 0,
+    "zone": "zone_04",
+    "objectives": [
+      {
+        "kind": "DEFEAT",
+        "target": "zone_boss",
+        "qty": 3
+      }
+    ],
+    "rewards": {
+      "gold": 5000,
+      "xp": 3000
+    }
+  },
+  {
+    "id": "quest_5072",
+    "name": {
+      "en": "Weekly 5",
+      "fa": "هفتگی 5"
+    },
+    "type": "WEEKLY",
+    "chapter": 0,
+    "zone": "zone_05",
+    "objectives": [
+      {
+        "kind": "DEFEAT",
+        "target": "zone_boss",
+        "qty": 3
+      }
+    ],
+    "rewards": {
+      "gold": 5000,
+      "xp": 3000
+    }
+  },
+  {
+    "id": "quest_5073",
+    "name": {
+      "en": "Weekly 6",
+      "fa": "هفتگی 6"
+    },
+    "type": "WEEKLY",
+    "chapter": 0,
+    "zone": "zone_06",
+    "objectives": [
+      {
+        "kind": "DEFEAT",
+        "target": "zone_boss",
+        "qty": 3
+      }
+    ],
+    "rewards": {
+      "gold": 5000,
+      "xp": 3000
+    }
+  },
+  {
+    "id": "quest_5074",
+    "name": {
+      "en": "Weekly 7",
+      "fa": "هفتگی 7"
+    },
+    "type": "WEEKLY",
+    "chapter": 0,
+    "zone": "zone_07",
+    "objectives": [
+      {
+        "kind": "DEFEAT",
+        "target": "zone_boss",
+        "qty": 3
+      }
+    ],
+    "rewards": {
+      "gold": 5000,
+      "xp": 3000
+    }
+  },
+  {
+    "id": "quest_5075",
+    "name": {
+      "en": "Weekly 8",
+      "fa": "هفتگی 8"
+    },
+    "type": "WEEKLY",
+    "chapter": 0,
+    "zone": "zone_08",
+    "objectives": [
+      {
+        "kind": "DEFEAT",
+        "target": "zone_boss",
+        "qty": 3
+      }
+    ],
+    "rewards": {
+      "gold": 5000,
+      "xp": 3000
+    }
+  },
+  {
+    "id": "quest_5076",
+    "name": {
+      "en": "Side Quest 1",
+      "fa": "مأموریت جانبی 1"
+    },
+    "type": "SIDE",
+    "chapter": 1,
+    "zone": "zone_01",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2001",
+        "qty": 1
+      }
+    ],
+    "rewards": {
+      "gold": 100,
+      "xp": 50
+    }
+  },
+  {
+    "id": "quest_5077",
+    "name": {
+      "en": "Side Quest 2",
+      "fa": "مأموریت جانبی 2"
+    },
+    "type": "SIDE",
+    "chapter": 2,
+    "zone": "zone_02",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2002",
+        "qty": 2
+      }
+    ],
+    "rewards": {
+      "gold": 200,
+      "xp": 100
+    }
+  },
+  {
+    "id": "quest_5078",
+    "name": {
+      "en": "Side Quest 3",
+      "fa": "مأموریت جانبی 3"
+    },
+    "type": "SIDE",
+    "chapter": 3,
+    "zone": "zone_03",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2003",
+        "qty": 3
+      }
+    ],
+    "rewards": {
+      "gold": 300,
+      "xp": 150
+    }
+  },
+  {
+    "id": "quest_5079",
+    "name": {
+      "en": "Side Quest 4",
+      "fa": "مأموریت جانبی 4"
+    },
+    "type": "SIDE",
+    "chapter": 4,
+    "zone": "zone_04",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2004",
+        "qty": 4
+      }
+    ],
+    "rewards": {
+      "gold": 400,
+      "xp": 200
+    }
+  },
+  {
+    "id": "quest_5080",
+    "name": {
+      "en": "Side Quest 5",
+      "fa": "مأموریت جانبی 5"
+    },
+    "type": "SIDE",
+    "chapter": 5,
+    "zone": "zone_05",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2005",
+        "qty": 5
+      }
+    ],
+    "rewards": {
+      "gold": 500,
+      "xp": 250
+    }
+  },
+  {
+    "id": "quest_5081",
+    "name": {
+      "en": "Side Quest 6",
+      "fa": "مأموریت جانبی 6"
+    },
+    "type": "SIDE",
+    "chapter": 6,
+    "zone": "zone_06",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2006",
+        "qty": 1
+      }
+    ],
+    "rewards": {
+      "gold": 600,
+      "xp": 300
+    }
+  },
+  {
+    "id": "quest_5082",
+    "name": {
+      "en": "Side Quest 7",
+      "fa": "مأموریت جانبی 7"
+    },
+    "type": "SIDE",
+    "chapter": 7,
+    "zone": "zone_07",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2007",
+        "qty": 2
+      }
+    ],
+    "rewards": {
+      "gold": 700,
+      "xp": 350
+    }
+  },
+  {
+    "id": "quest_5083",
+    "name": {
+      "en": "Side Quest 8",
+      "fa": "مأموریت جانبی 8"
+    },
+    "type": "SIDE",
+    "chapter": 8,
+    "zone": "zone_08",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2008",
+        "qty": 3
+      }
+    ],
+    "rewards": {
+      "gold": 800,
+      "xp": 400
+    }
+  },
+  {
+    "id": "quest_5084",
+    "name": {
+      "en": "Side Quest 9",
+      "fa": "مأموریت جانبی 9"
+    },
+    "type": "SIDE",
+    "chapter": 9,
+    "zone": "zone_09",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2009",
+        "qty": 4
+      }
+    ],
+    "rewards": {
+      "gold": 900,
+      "xp": 450
+    }
+  },
+  {
+    "id": "quest_5085",
+    "name": {
+      "en": "Side Quest 10",
+      "fa": "مأموریت جانبی 10"
+    },
+    "type": "SIDE",
+    "chapter": 10,
+    "zone": "zone_10",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2010",
+        "qty": 5
+      }
+    ],
+    "rewards": {
+      "gold": 1000,
+      "xp": 500
+    }
+  },
+  {
+    "id": "quest_5086",
+    "name": {
+      "en": "Side Quest 11",
+      "fa": "مأموریت جانبی 11"
+    },
+    "type": "SIDE",
+    "chapter": 1,
+    "zone": "zone_01",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2011",
+        "qty": 1
+      }
+    ],
+    "rewards": {
+      "gold": 100,
+      "xp": 50
+    }
+  },
+  {
+    "id": "quest_5087",
+    "name": {
+      "en": "Side Quest 12",
+      "fa": "مأموریت جانبی 12"
+    },
+    "type": "SIDE",
+    "chapter": 2,
+    "zone": "zone_02",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2012",
+        "qty": 2
+      }
+    ],
+    "rewards": {
+      "gold": 200,
+      "xp": 100
+    }
+  },
+  {
+    "id": "quest_5088",
+    "name": {
+      "en": "Side Quest 13",
+      "fa": "مأموریت جانبی 13"
+    },
+    "type": "SIDE",
+    "chapter": 3,
+    "zone": "zone_03",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2001",
+        "qty": 3
+      }
+    ],
+    "rewards": {
+      "gold": 300,
+      "xp": 150
+    }
+  },
+  {
+    "id": "quest_5089",
+    "name": {
+      "en": "Side Quest 14",
+      "fa": "مأموریت جانبی 14"
+    },
+    "type": "SIDE",
+    "chapter": 4,
+    "zone": "zone_04",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2002",
+        "qty": 4
+      }
+    ],
+    "rewards": {
+      "gold": 400,
+      "xp": 200
+    }
+  },
+  {
+    "id": "quest_5090",
+    "name": {
+      "en": "Side Quest 15",
+      "fa": "مأموریت جانبی 15"
+    },
+    "type": "SIDE",
+    "chapter": 5,
+    "zone": "zone_05",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2003",
+        "qty": 5
+      }
+    ],
+    "rewards": {
+      "gold": 500,
+      "xp": 250
+    }
+  },
+  {
+    "id": "quest_5091",
+    "name": {
+      "en": "Side Quest 16",
+      "fa": "مأموریت جانبی 16"
+    },
+    "type": "SIDE",
+    "chapter": 6,
+    "zone": "zone_06",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2004",
+        "qty": 1
+      }
+    ],
+    "rewards": {
+      "gold": 600,
+      "xp": 300
+    }
+  },
+  {
+    "id": "quest_5092",
+    "name": {
+      "en": "Side Quest 17",
+      "fa": "مأموریت جانبی 17"
+    },
+    "type": "SIDE",
+    "chapter": 7,
+    "zone": "zone_07",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2005",
+        "qty": 2
+      }
+    ],
+    "rewards": {
+      "gold": 700,
+      "xp": 350
+    }
+  },
+  {
+    "id": "quest_5093",
+    "name": {
+      "en": "Side Quest 18",
+      "fa": "مأموریت جانبی 18"
+    },
+    "type": "SIDE",
+    "chapter": 8,
+    "zone": "zone_08",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2006",
+        "qty": 3
+      }
+    ],
+    "rewards": {
+      "gold": 800,
+      "xp": 400
+    }
+  },
+  {
+    "id": "quest_5094",
+    "name": {
+      "en": "Side Quest 19",
+      "fa": "مأموریت جانبی 19"
+    },
+    "type": "SIDE",
+    "chapter": 9,
+    "zone": "zone_09",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2007",
+        "qty": 4
+      }
+    ],
+    "rewards": {
+      "gold": 900,
+      "xp": 450
+    }
+  },
+  {
+    "id": "quest_5095",
+    "name": {
+      "en": "Side Quest 20",
+      "fa": "مأموریت جانبی 20"
+    },
+    "type": "SIDE",
+    "chapter": 10,
+    "zone": "zone_10",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2008",
+        "qty": 5
+      }
+    ],
+    "rewards": {
+      "gold": 1000,
+      "xp": 500
+    }
+  },
+  {
+    "id": "quest_5096",
+    "name": {
+      "en": "Side Quest 21",
+      "fa": "مأموریت جانبی 21"
+    },
+    "type": "SIDE",
+    "chapter": 1,
+    "zone": "zone_01",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2009",
+        "qty": 1
+      }
+    ],
+    "rewards": {
+      "gold": 100,
+      "xp": 50
+    }
+  },
+  {
+    "id": "quest_5097",
+    "name": {
+      "en": "Side Quest 22",
+      "fa": "مأموریت جانبی 22"
+    },
+    "type": "SIDE",
+    "chapter": 2,
+    "zone": "zone_02",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2010",
+        "qty": 2
+      }
+    ],
+    "rewards": {
+      "gold": 200,
+      "xp": 100
+    }
+  },
+  {
+    "id": "quest_5098",
+    "name": {
+      "en": "Side Quest 23",
+      "fa": "مأموریت جانبی 23"
+    },
+    "type": "SIDE",
+    "chapter": 3,
+    "zone": "zone_03",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2011",
+        "qty": 3
+      }
+    ],
+    "rewards": {
+      "gold": 300,
+      "xp": 150
+    }
+  },
+  {
+    "id": "quest_5099",
+    "name": {
+      "en": "Side Quest 24",
+      "fa": "مأموریت جانبی 24"
+    },
+    "type": "SIDE",
+    "chapter": 4,
+    "zone": "zone_04",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2012",
+        "qty": 4
+      }
+    ],
+    "rewards": {
+      "gold": 400,
+      "xp": 200
+    }
+  },
+  {
+    "id": "quest_5100",
+    "name": {
+      "en": "Side Quest 25",
+      "fa": "مأموریت جانبی 25"
+    },
+    "type": "SIDE",
+    "chapter": 5,
+    "zone": "zone_05",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2001",
+        "qty": 5
+      }
+    ],
+    "rewards": {
+      "gold": 500,
+      "xp": 250
+    }
+  },
+  {
+    "id": "quest_5101",
+    "name": {
+      "en": "Side Quest 26",
+      "fa": "مأموریت جانبی 26"
+    },
+    "type": "SIDE",
+    "chapter": 6,
+    "zone": "zone_06",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2002",
+        "qty": 1
+      }
+    ],
+    "rewards": {
+      "gold": 600,
+      "xp": 300
+    }
+  },
+  {
+    "id": "quest_5102",
+    "name": {
+      "en": "Side Quest 27",
+      "fa": "مأموریت جانبی 27"
+    },
+    "type": "SIDE",
+    "chapter": 7,
+    "zone": "zone_07",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2003",
+        "qty": 2
+      }
+    ],
+    "rewards": {
+      "gold": 700,
+      "xp": 350
+    }
+  },
+  {
+    "id": "quest_5103",
+    "name": {
+      "en": "Side Quest 28",
+      "fa": "مأموریت جانبی 28"
+    },
+    "type": "SIDE",
+    "chapter": 8,
+    "zone": "zone_08",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2004",
+        "qty": 3
+      }
+    ],
+    "rewards": {
+      "gold": 800,
+      "xp": 400
+    }
+  },
+  {
+    "id": "quest_5104",
+    "name": {
+      "en": "Side Quest 29",
+      "fa": "مأموریت جانبی 29"
+    },
+    "type": "SIDE",
+    "chapter": 9,
+    "zone": "zone_09",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2005",
+        "qty": 4
+      }
+    ],
+    "rewards": {
+      "gold": 900,
+      "xp": 450
+    }
+  },
+  {
+    "id": "quest_5105",
+    "name": {
+      "en": "Side Quest 30",
+      "fa": "مأموریت جانبی 30"
+    },
+    "type": "SIDE",
+    "chapter": 10,
+    "zone": "zone_10",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2006",
+        "qty": 5
+      }
+    ],
+    "rewards": {
+      "gold": 1000,
+      "xp": 500
+    }
+  },
+  {
+    "id": "quest_5106",
+    "name": {
+      "en": "Side Quest 31",
+      "fa": "مأموریت جانبی 31"
+    },
+    "type": "SIDE",
+    "chapter": 1,
+    "zone": "zone_01",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2007",
+        "qty": 1
+      }
+    ],
+    "rewards": {
+      "gold": 100,
+      "xp": 50
+    }
+  },
+  {
+    "id": "quest_5107",
+    "name": {
+      "en": "Side Quest 32",
+      "fa": "مأموریت جانبی 32"
+    },
+    "type": "SIDE",
+    "chapter": 2,
+    "zone": "zone_02",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2008",
+        "qty": 2
+      }
+    ],
+    "rewards": {
+      "gold": 200,
+      "xp": 100
+    }
+  },
+  {
+    "id": "quest_5108",
+    "name": {
+      "en": "Side Quest 33",
+      "fa": "مأموریت جانبی 33"
+    },
+    "type": "SIDE",
+    "chapter": 3,
+    "zone": "zone_03",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2009",
+        "qty": 3
+      }
+    ],
+    "rewards": {
+      "gold": 300,
+      "xp": 150
+    }
+  },
+  {
+    "id": "quest_5109",
+    "name": {
+      "en": "Side Quest 34",
+      "fa": "مأموریت جانبی 34"
+    },
+    "type": "SIDE",
+    "chapter": 4,
+    "zone": "zone_04",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2010",
+        "qty": 4
+      }
+    ],
+    "rewards": {
+      "gold": 400,
+      "xp": 200
+    }
+  },
+  {
+    "id": "quest_5110",
+    "name": {
+      "en": "Side Quest 35",
+      "fa": "مأموریت جانبی 35"
+    },
+    "type": "SIDE",
+    "chapter": 5,
+    "zone": "zone_05",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2011",
+        "qty": 5
+      }
+    ],
+    "rewards": {
+      "gold": 500,
+      "xp": 250
+    }
+  },
+  {
+    "id": "quest_5111",
+    "name": {
+      "en": "Side Quest 36",
+      "fa": "مأموریت جانبی 36"
+    },
+    "type": "SIDE",
+    "chapter": 6,
+    "zone": "zone_06",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2012",
+        "qty": 1
+      }
+    ],
+    "rewards": {
+      "gold": 600,
+      "xp": 300
+    }
+  },
+  {
+    "id": "quest_5112",
+    "name": {
+      "en": "Side Quest 37",
+      "fa": "مأموریت جانبی 37"
+    },
+    "type": "SIDE",
+    "chapter": 7,
+    "zone": "zone_07",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2001",
+        "qty": 2
+      }
+    ],
+    "rewards": {
+      "gold": 700,
+      "xp": 350
+    }
+  },
+  {
+    "id": "quest_5113",
+    "name": {
+      "en": "Side Quest 38",
+      "fa": "مأموریت جانبی 38"
+    },
+    "type": "SIDE",
+    "chapter": 8,
+    "zone": "zone_08",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2002",
+        "qty": 3
+      }
+    ],
+    "rewards": {
+      "gold": 800,
+      "xp": 400
+    }
+  },
+  {
+    "id": "quest_5114",
+    "name": {
+      "en": "Side Quest 39",
+      "fa": "مأموریت جانبی 39"
+    },
+    "type": "SIDE",
+    "chapter": 9,
+    "zone": "zone_09",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2003",
+        "qty": 4
+      }
+    ],
+    "rewards": {
+      "gold": 900,
+      "xp": 450
+    }
+  },
+  {
+    "id": "quest_5115",
+    "name": {
+      "en": "Side Quest 40",
+      "fa": "مأموریت جانبی 40"
+    },
+    "type": "SIDE",
+    "chapter": 10,
+    "zone": "zone_10",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2004",
+        "qty": 5
+      }
+    ],
+    "rewards": {
+      "gold": 1000,
+      "xp": 500
+    }
+  },
+  {
+    "id": "quest_5116",
+    "name": {
+      "en": "Side Quest 41",
+      "fa": "مأموریت جانبی 41"
+    },
+    "type": "SIDE",
+    "chapter": 1,
+    "zone": "zone_01",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2005",
+        "qty": 1
+      }
+    ],
+    "rewards": {
+      "gold": 100,
+      "xp": 50
+    }
+  },
+  {
+    "id": "quest_5117",
+    "name": {
+      "en": "Side Quest 42",
+      "fa": "مأموریت جانبی 42"
+    },
+    "type": "SIDE",
+    "chapter": 2,
+    "zone": "zone_02",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2006",
+        "qty": 2
+      }
+    ],
+    "rewards": {
+      "gold": 200,
+      "xp": 100
+    }
+  },
+  {
+    "id": "quest_5118",
+    "name": {
+      "en": "Side Quest 43",
+      "fa": "مأموریت جانبی 43"
+    },
+    "type": "SIDE",
+    "chapter": 3,
+    "zone": "zone_03",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2007",
+        "qty": 3
+      }
+    ],
+    "rewards": {
+      "gold": 300,
+      "xp": 150
+    }
+  },
+  {
+    "id": "quest_5119",
+    "name": {
+      "en": "Side Quest 44",
+      "fa": "مأموریت جانبی 44"
+    },
+    "type": "SIDE",
+    "chapter": 4,
+    "zone": "zone_04",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2008",
+        "qty": 4
+      }
+    ],
+    "rewards": {
+      "gold": 400,
+      "xp": 200
+    }
+  },
+  {
+    "id": "quest_5120",
+    "name": {
+      "en": "Side Quest 45",
+      "fa": "مأموریت جانبی 45"
+    },
+    "type": "SIDE",
+    "chapter": 5,
+    "zone": "zone_05",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2009",
+        "qty": 5
+      }
+    ],
+    "rewards": {
+      "gold": 500,
+      "xp": 250
+    }
+  },
+  {
+    "id": "quest_5121",
+    "name": {
+      "en": "Side Quest 46",
+      "fa": "مأموریت جانبی 46"
+    },
+    "type": "SIDE",
+    "chapter": 6,
+    "zone": "zone_06",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2010",
+        "qty": 1
+      }
+    ],
+    "rewards": {
+      "gold": 600,
+      "xp": 300
+    }
+  },
+  {
+    "id": "quest_5122",
+    "name": {
+      "en": "Side Quest 47",
+      "fa": "مأموریت جانبی 47"
+    },
+    "type": "SIDE",
+    "chapter": 7,
+    "zone": "zone_07",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2011",
+        "qty": 2
+      }
+    ],
+    "rewards": {
+      "gold": 700,
+      "xp": 350
+    }
+  },
+  {
+    "id": "quest_5123",
+    "name": {
+      "en": "Side Quest 48",
+      "fa": "مأموریت جانبی 48"
+    },
+    "type": "SIDE",
+    "chapter": 8,
+    "zone": "zone_08",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2012",
+        "qty": 3
+      }
+    ],
+    "rewards": {
+      "gold": 800,
+      "xp": 400
+    }
+  },
+  {
+    "id": "quest_5124",
+    "name": {
+      "en": "Side Quest 49",
+      "fa": "مأموریت جانبی 49"
+    },
+    "type": "SIDE",
+    "chapter": 9,
+    "zone": "zone_09",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2001",
+        "qty": 4
+      }
+    ],
+    "rewards": {
+      "gold": 900,
+      "xp": 450
+    }
+  },
+  {
+    "id": "quest_5125",
+    "name": {
+      "en": "Side Quest 50",
+      "fa": "مأموریت جانبی 50"
+    },
+    "type": "SIDE",
+    "chapter": 10,
+    "zone": "zone_10",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2002",
+        "qty": 5
+      }
+    ],
+    "rewards": {
+      "gold": 1000,
+      "xp": 500
+    }
+  },
+  {
+    "id": "quest_5126",
+    "name": {
+      "en": "Side Quest 51",
+      "fa": "مأموریت جانبی 51"
+    },
+    "type": "SIDE",
+    "chapter": 1,
+    "zone": "zone_01",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2003",
+        "qty": 1
+      }
+    ],
+    "rewards": {
+      "gold": 100,
+      "xp": 50
+    }
+  },
+  {
+    "id": "quest_5127",
+    "name": {
+      "en": "Side Quest 52",
+      "fa": "مأموریت جانبی 52"
+    },
+    "type": "SIDE",
+    "chapter": 2,
+    "zone": "zone_02",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2004",
+        "qty": 2
+      }
+    ],
+    "rewards": {
+      "gold": 200,
+      "xp": 100
+    }
+  },
+  {
+    "id": "quest_5128",
+    "name": {
+      "en": "Side Quest 53",
+      "fa": "مأموریت جانبی 53"
+    },
+    "type": "SIDE",
+    "chapter": 3,
+    "zone": "zone_03",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2005",
+        "qty": 3
+      }
+    ],
+    "rewards": {
+      "gold": 300,
+      "xp": 150
+    }
+  },
+  {
+    "id": "quest_5129",
+    "name": {
+      "en": "Side Quest 54",
+      "fa": "مأموریت جانبی 54"
+    },
+    "type": "SIDE",
+    "chapter": 4,
+    "zone": "zone_04",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2006",
+        "qty": 4
+      }
+    ],
+    "rewards": {
+      "gold": 400,
+      "xp": 200
+    }
+  },
+  {
+    "id": "quest_5130",
+    "name": {
+      "en": "Side Quest 55",
+      "fa": "مأموریت جانبی 55"
+    },
+    "type": "SIDE",
+    "chapter": 5,
+    "zone": "zone_05",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2007",
+        "qty": 5
+      }
+    ],
+    "rewards": {
+      "gold": 500,
+      "xp": 250
+    }
+  },
+  {
+    "id": "quest_5131",
+    "name": {
+      "en": "Side Quest 56",
+      "fa": "مأموریت جانبی 56"
+    },
+    "type": "SIDE",
+    "chapter": 6,
+    "zone": "zone_06",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2008",
+        "qty": 1
+      }
+    ],
+    "rewards": {
+      "gold": 600,
+      "xp": 300
+    }
+  },
+  {
+    "id": "quest_5132",
+    "name": {
+      "en": "Side Quest 57",
+      "fa": "مأموریت جانبی 57"
+    },
+    "type": "SIDE",
+    "chapter": 7,
+    "zone": "zone_07",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2009",
+        "qty": 2
+      }
+    ],
+    "rewards": {
+      "gold": 700,
+      "xp": 350
+    }
+  },
+  {
+    "id": "quest_5133",
+    "name": {
+      "en": "Side Quest 58",
+      "fa": "مأموریت جانبی 58"
+    },
+    "type": "SIDE",
+    "chapter": 8,
+    "zone": "zone_08",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2010",
+        "qty": 3
+      }
+    ],
+    "rewards": {
+      "gold": 800,
+      "xp": 400
+    }
+  },
+  {
+    "id": "quest_5134",
+    "name": {
+      "en": "Side Quest 59",
+      "fa": "مأموریت جانبی 59"
+    },
+    "type": "SIDE",
+    "chapter": 9,
+    "zone": "zone_09",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2011",
+        "qty": 4
+      }
+    ],
+    "rewards": {
+      "gold": 900,
+      "xp": 450
+    }
+  },
+  {
+    "id": "quest_5135",
+    "name": {
+      "en": "Side Quest 60",
+      "fa": "مأموریت جانبی 60"
+    },
+    "type": "SIDE",
+    "chapter": 10,
+    "zone": "zone_10",
+    "objectives": [
+      {
+        "kind": "GATHER",
+        "target": "mat_2012",
+        "qty": 5
+      }
+    ],
+    "rewards": {
+      "gold": 1000,
+      "xp": 500
+    }
+  }
+]

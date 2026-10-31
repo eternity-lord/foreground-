@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">برگزیده آهنگر</string>
+    <string name="settings">تنظیمات</string>
+    <string name="credits">اعتمادات</string>
+    <string name="privacy_note">برگزیده آهنگر کاملاً آفلاین است. هیچ داده‌ای جمع‌آوری یا انتقال نمی‌شود.</string>
+</resources>

@@ -1,0 +1,7850 @@
+[
+  {
+    "id": "item_1000",
+    "name": {
+      "en": "Rusty Dagger T1",
+      "fa": "درجهٔ 1 سلاح سلاح"
+    },
+    "type": "WEAPON",
+    "slot": "WEAPON",
+    "tier": 1,
+    "rarity": "COMMON",
+    "levelReq": 8,
+    "baseStats": {
+      "ATK": 8,
+      "CRIT_PCT": 3.6
+    },
+    "blueprint": {
+      "gold": 50,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2001",
+          "qty": 1
+        },
+        {
+          "id": "mat_2004",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_01",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1001",
+    "name": {
+      "en": "Iron Dagger T1",
+      "fa": "درجهٔ 1 سلاح سلاح"
+    },
+    "type": "WEAPON",
+    "slot": "WEAPON",
+    "tier": 1,
+    "rarity": "COMMON",
+    "levelReq": 8,
+    "baseStats": {
+      "ATK": 8,
+      "CRIT_PCT": 3.6
+    },
+    "blueprint": {
+      "gold": 50,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2001",
+          "qty": 1
+        },
+        {
+          "id": "mat_2004",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_01",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1002",
+    "name": {
+      "en": "Steel Dagger T1",
+      "fa": "درجهٔ 1 سلاح سلاح"
+    },
+    "type": "WEAPON",
+    "slot": "WEAPON",
+    "tier": 1,
+    "rarity": "COMMON",
+    "levelReq": 8,
+    "baseStats": {
+      "ATK": 8,
+      "CRIT_PCT": 3.6
+    },
+    "blueprint": {
+      "gold": 50,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2001",
+          "qty": 1
+        },
+        {
+          "id": "mat_2004",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_01",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1003",
+    "name": {
+      "en": "Rusty Sword T1",
+      "fa": "درجهٔ 1 سلاح سلاح"
+    },
+    "type": "WEAPON",
+    "slot": "WEAPON",
+    "tier": 1,
+    "rarity": "COMMON",
+    "levelReq": 8,
+    "baseStats": {
+      "ATK": 8,
+      "CRIT_PCT": 3.6
+    },
+    "blueprint": {
+      "gold": 50,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2001",
+          "qty": 1
+        },
+        {
+          "id": "mat_2004",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_01",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1004",
+    "name": {
+      "en": "Iron Sword T1",
+      "fa": "درجهٔ 1 سلاح سلاح"
+    },
+    "type": "WEAPON",
+    "slot": "WEAPON",
+    "tier": 1,
+    "rarity": "COMMON",
+    "levelReq": 8,
+    "baseStats": {
+      "ATK": 8,
+      "CRIT_PCT": 3.6
+    },
+    "blueprint": {
+      "gold": 50,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2001",
+          "qty": 1
+        },
+        {
+          "id": "mat_2004",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_01",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1005",
+    "name": {
+      "en": "Padded Gambeson T1",
+      "fa": "درجهٔ 1 زیرکاب"
+    },
+    "type": "ARMOR",
+    "slot": "ARMOR",
+    "tier": 1,
+    "rarity": "COMMON",
+    "levelReq": 8,
+    "baseStats": {
+      "DEF": 6,
+      "HP": 12
+    },
+    "blueprint": {
+      "gold": 50,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2001",
+          "qty": 1
+        },
+        {
+          "id": "mat_2004",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_01",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1006",
+    "name": {
+      "en": "Leather Cuirass T1",
+      "fa": "درجهٔ 1 زیرکاب"
+    },
+    "type": "ARMOR",
+    "slot": "ARMOR",
+    "tier": 1,
+    "rarity": "COMMON",
+    "levelReq": 8,
+    "baseStats": {
+      "DEF": 6,
+      "HP": 12
+    },
+    "blueprint": {
+      "gold": 50,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2001",
+          "qty": 1
+        },
+        {
+          "id": "mat_2004",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_01",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1007",
+    "name": {
+      "en": "Chain Shirt T1",
+      "fa": "درجهٔ 1 زیرکاب"
+    },
+    "type": "ARMOR",
+    "slot": "ARMOR",
+    "tier": 1,
+    "rarity": "COMMON",
+    "levelReq": 8,
+    "baseStats": {
+      "DEF": 6,
+      "HP": 12
+    },
+    "blueprint": {
+      "gold": 50,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2001",
+          "qty": 1
+        },
+        {
+          "id": "mat_2004",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_01",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1008",
+    "name": {
+      "en": "Scale Vest T1",
+      "fa": "درجهٔ 1 زیرکاب"
+    },
+    "type": "ARMOR",
+    "slot": "ARMOR",
+    "tier": 1,
+    "rarity": "COMMON",
+    "levelReq": 8,
+    "baseStats": {
+      "DEF": 6,
+      "HP": 12
+    },
+    "blueprint": {
+      "gold": 50,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2001",
+          "qty": 1
+        },
+        {
+          "id": "mat_2004",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_01",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1009",
+    "name": {
+      "en": "Breastplate T1",
+      "fa": "درجهٔ 1 زیرکاب"
+    },
+    "type": "ARMOR",
+    "slot": "ARMOR",
+    "tier": 1,
+    "rarity": "COMMON",
+    "levelReq": 8,
+    "baseStats": {
+      "DEF": 6,
+      "HP": 12
+    },
+    "blueprint": {
+      "gold": 50,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2001",
+          "qty": 1
+        },
+        {
+          "id": "mat_2004",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_01",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1010",
+    "name": {
+      "en": "Copper Ring T1",
+      "fa": "درجهٔ 1 آسانه"
+    },
+    "type": "ACCESSORY",
+    "slot": "ACCESSORY",
+    "tier": 1,
+    "rarity": "COMMON",
+    "levelReq": 8,
+    "baseStats": {
+      "LUCK": 0.5,
+      "CRIT_DMG": 2
+    },
+    "blueprint": {
+      "gold": 50,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2001",
+          "qty": 1
+        },
+        {
+          "id": "mat_2004",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_01",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1011",
+    "name": {
+      "en": "Iron Ring T1",
+      "fa": "درجهٔ 1 آسانه"
+    },
+    "type": "ACCESSORY",
+    "slot": "ACCESSORY",
+    "tier": 1,
+    "rarity": "COMMON",
+    "levelReq": 8,
+    "baseStats": {
+      "LUCK": 0.5,
+      "CRIT_DMG": 2
+    },
+    "blueprint": {
+      "gold": 50,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2001",
+          "qty": 1
+        },
+        {
+          "id": "mat_2004",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_01",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1012",
+    "name": {
+      "en": "Iron Amulet T1",
+      "fa": "درجهٔ 1 آسانه"
+    },
+    "type": "ACCESSORY",
+    "slot": "ACCESSORY",
+    "tier": 1,
+    "rarity": "COMMON",
+    "levelReq": 8,
+    "baseStats": {
+      "LUCK": 0.5,
+      "CRIT_DMG": 2
+    },
+    "blueprint": {
+      "gold": 50,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2001",
+          "qty": 1
+        },
+        {
+          "id": "mat_2004",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_01",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1013",
+    "name": {
+      "en": "Steel Pendant T1",
+      "fa": "درجهٔ 1 آسانه"
+    },
+    "type": "ACCESSORY",
+    "slot": "ACCESSORY",
+    "tier": 1,
+    "rarity": "COMMON",
+    "levelReq": 8,
+    "baseStats": {
+      "LUCK": 0.5,
+      "CRIT_DMG": 2
+    },
+    "blueprint": {
+      "gold": 50,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2001",
+          "qty": 1
+        },
+        {
+          "id": "mat_2004",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_01",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1014",
+    "name": {
+      "en": "Ruby Talisman T1",
+      "fa": "درجهٔ 1 آسانه"
+    },
+    "type": "ACCESSORY",
+    "slot": "ACCESSORY",
+    "tier": 1,
+    "rarity": "COMMON",
+    "levelReq": 8,
+    "baseStats": {
+      "LUCK": 0.5,
+      "CRIT_DMG": 2
+    },
+    "blueprint": {
+      "gold": 50,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2001",
+          "qty": 1
+        },
+        {
+          "id": "mat_2004",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_01",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1015",
+    "name": {
+      "en": "Rusty Dagger T2",
+      "fa": "درجهٔ 2 سلاح سلاح"
+    },
+    "type": "WEAPON",
+    "slot": "WEAPON",
+    "tier": 2,
+    "rarity": "COMMON",
+    "levelReq": 16,
+    "baseStats": {
+      "ATK": 10,
+      "CRIT_PCT": 4.2
+    },
+    "blueprint": {
+      "gold": 200,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2002",
+          "qty": 2
+        },
+        {
+          "id": "mat_2005",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_02",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1016",
+    "name": {
+      "en": "Iron Dagger T2",
+      "fa": "درجهٔ 2 سلاح سلاح"
+    },
+    "type": "WEAPON",
+    "slot": "WEAPON",
+    "tier": 2,
+    "rarity": "COMMON",
+    "levelReq": 16,
+    "baseStats": {
+      "ATK": 10,
+      "CRIT_PCT": 4.2
+    },
+    "blueprint": {
+      "gold": 200,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2002",
+          "qty": 2
+        },
+        {
+          "id": "mat_2005",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_02",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1017",
+    "name": {
+      "en": "Steel Dagger T2",
+      "fa": "درجهٔ 2 سلاح سلاح"
+    },
+    "type": "WEAPON",
+    "slot": "WEAPON",
+    "tier": 2,
+    "rarity": "COMMON",
+    "levelReq": 16,
+    "baseStats": {
+      "ATK": 10,
+      "CRIT_PCT": 4.2
+    },
+    "blueprint": {
+      "gold": 200,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2002",
+          "qty": 2
+        },
+        {
+          "id": "mat_2005",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_02",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1018",
+    "name": {
+      "en": "Rusty Sword T2",
+      "fa": "درجهٔ 2 سلاح سلاح"
+    },
+    "type": "WEAPON",
+    "slot": "WEAPON",
+    "tier": 2,
+    "rarity": "COMMON",
+    "levelReq": 16,
+    "baseStats": {
+      "ATK": 10,
+      "CRIT_PCT": 4.2
+    },
+    "blueprint": {
+      "gold": 200,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2002",
+          "qty": 2
+        },
+        {
+          "id": "mat_2005",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_02",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1019",
+    "name": {
+      "en": "Iron Sword T2",
+      "fa": "درجهٔ 2 سلاح سلاح"
+    },
+    "type": "WEAPON",
+    "slot": "WEAPON",
+    "tier": 2,
+    "rarity": "COMMON",
+    "levelReq": 16,
+    "baseStats": {
+      "ATK": 10,
+      "CRIT_PCT": 4.2
+    },
+    "blueprint": {
+      "gold": 200,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2002",
+          "qty": 2
+        },
+        {
+          "id": "mat_2005",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_02",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1020",
+    "name": {
+      "en": "Padded Gambeson T2",
+      "fa": "درجهٔ 2 زیرکاب"
+    },
+    "type": "ARMOR",
+    "slot": "ARMOR",
+    "tier": 2,
+    "rarity": "COMMON",
+    "levelReq": 16,
+    "baseStats": {
+      "DEF": 8,
+      "HP": 16
+    },
+    "blueprint": {
+      "gold": 200,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2002",
+          "qty": 2
+        },
+        {
+          "id": "mat_2005",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_02",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1021",
+    "name": {
+      "en": "Leather Cuirass T2",
+      "fa": "درجهٔ 2 زیرکاب"
+    },
+    "type": "ARMOR",
+    "slot": "ARMOR",
+    "tier": 2,
+    "rarity": "COMMON",
+    "levelReq": 16,
+    "baseStats": {
+      "DEF": 8,
+      "HP": 16
+    },
+    "blueprint": {
+      "gold": 200,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2002",
+          "qty": 2
+        },
+        {
+          "id": "mat_2005",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_02",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1022",
+    "name": {
+      "en": "Chain Shirt T2",
+      "fa": "درجهٔ 2 زیرکاب"
+    },
+    "type": "ARMOR",
+    "slot": "ARMOR",
+    "tier": 2,
+    "rarity": "COMMON",
+    "levelReq": 16,
+    "baseStats": {
+      "DEF": 8,
+      "HP": 16
+    },
+    "blueprint": {
+      "gold": 200,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2002",
+          "qty": 2
+        },
+        {
+          "id": "mat_2005",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_02",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1023",
+    "name": {
+      "en": "Scale Vest T2",
+      "fa": "درجهٔ 2 زیرکاب"
+    },
+    "type": "ARMOR",
+    "slot": "ARMOR",
+    "tier": 2,
+    "rarity": "COMMON",
+    "levelReq": 16,
+    "baseStats": {
+      "DEF": 8,
+      "HP": 16
+    },
+    "blueprint": {
+      "gold": 200,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2002",
+          "qty": 2
+        },
+        {
+          "id": "mat_2005",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_02",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1024",
+    "name": {
+      "en": "Breastplate T2",
+      "fa": "درجهٔ 2 زیرکاب"
+    },
+    "type": "ARMOR",
+    "slot": "ARMOR",
+    "tier": 2,
+    "rarity": "COMMON",
+    "levelReq": 16,
+    "baseStats": {
+      "DEF": 8,
+      "HP": 16
+    },
+    "blueprint": {
+      "gold": 200,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2002",
+          "qty": 2
+        },
+        {
+          "id": "mat_2005",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_02",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1025",
+    "name": {
+      "en": "Copper Ring T2",
+      "fa": "درجهٔ 2 آسانه"
+    },
+    "type": "ACCESSORY",
+    "slot": "ACCESSORY",
+    "tier": 2,
+    "rarity": "COMMON",
+    "levelReq": 16,
+    "baseStats": {
+      "LUCK": 1.0,
+      "CRIT_DMG": 4
+    },
+    "blueprint": {
+      "gold": 200,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2002",
+          "qty": 2
+        },
+        {
+          "id": "mat_2005",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_02",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1026",
+    "name": {
+      "en": "Iron Ring T2",
+      "fa": "درجهٔ 2 آسانه"
+    },
+    "type": "ACCESSORY",
+    "slot": "ACCESSORY",
+    "tier": 2,
+    "rarity": "COMMON",
+    "levelReq": 16,
+    "baseStats": {
+      "LUCK": 1.0,
+      "CRIT_DMG": 4
+    },
+    "blueprint": {
+      "gold": 200,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2002",
+          "qty": 2
+        },
+        {
+          "id": "mat_2005",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_02",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1027",
+    "name": {
+      "en": "Iron Amulet T2",
+      "fa": "درجهٔ 2 آسانه"
+    },
+    "type": "ACCESSORY",
+    "slot": "ACCESSORY",
+    "tier": 2,
+    "rarity": "COMMON",
+    "levelReq": 16,
+    "baseStats": {
+      "LUCK": 1.0,
+      "CRIT_DMG": 4
+    },
+    "blueprint": {
+      "gold": 200,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2002",
+          "qty": 2
+        },
+        {
+          "id": "mat_2005",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_02",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1028",
+    "name": {
+      "en": "Steel Pendant T2",
+      "fa": "درجهٔ 2 آسانه"
+    },
+    "type": "ACCESSORY",
+    "slot": "ACCESSORY",
+    "tier": 2,
+    "rarity": "COMMON",
+    "levelReq": 16,
+    "baseStats": {
+      "LUCK": 1.0,
+      "CRIT_DMG": 4
+    },
+    "blueprint": {
+      "gold": 200,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2002",
+          "qty": 2
+        },
+        {
+          "id": "mat_2005",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_02",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1029",
+    "name": {
+      "en": "Ruby Talisman T2",
+      "fa": "درجهٔ 2 آسانه"
+    },
+    "type": "ACCESSORY",
+    "slot": "ACCESSORY",
+    "tier": 2,
+    "rarity": "COMMON",
+    "levelReq": 16,
+    "baseStats": {
+      "LUCK": 1.0,
+      "CRIT_DMG": 4
+    },
+    "blueprint": {
+      "gold": 200,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2002",
+          "qty": 2
+        },
+        {
+          "id": "mat_2005",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_02",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1030",
+    "name": {
+      "en": "Rusty Dagger T3",
+      "fa": "درجهٔ 3 سلاح سلاح"
+    },
+    "type": "WEAPON",
+    "slot": "WEAPON",
+    "tier": 3,
+    "rarity": "UNCOMMON",
+    "levelReq": 24,
+    "baseStats": {
+      "ATK": 13,
+      "CRIT_PCT": 4.8
+    },
+    "blueprint": {
+      "gold": 450,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2003",
+          "qty": 3
+        },
+        {
+          "id": "mat_2006",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_03",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1031",
+    "name": {
+      "en": "Iron Dagger T3",
+      "fa": "درجهٔ 3 سلاح سلاح"
+    },
+    "type": "WEAPON",
+    "slot": "WEAPON",
+    "tier": 3,
+    "rarity": "UNCOMMON",
+    "levelReq": 24,
+    "baseStats": {
+      "ATK": 13,
+      "CRIT_PCT": 4.8
+    },
+    "blueprint": {
+      "gold": 450,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2003",
+          "qty": 3
+        },
+        {
+          "id": "mat_2006",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_03",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1032",
+    "name": {
+      "en": "Steel Dagger T3",
+      "fa": "درجهٔ 3 سلاح سلاح"
+    },
+    "type": "WEAPON",
+    "slot": "WEAPON",
+    "tier": 3,
+    "rarity": "UNCOMMON",
+    "levelReq": 24,
+    "baseStats": {
+      "ATK": 13,
+      "CRIT_PCT": 4.8
+    },
+    "blueprint": {
+      "gold": 450,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2003",
+          "qty": 3
+        },
+        {
+          "id": "mat_2006",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_03",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1033",
+    "name": {
+      "en": "Rusty Sword T3",
+      "fa": "درجهٔ 3 سلاح سلاح"
+    },
+    "type": "WEAPON",
+    "slot": "WEAPON",
+    "tier": 3,
+    "rarity": "UNCOMMON",
+    "levelReq": 24,
+    "baseStats": {
+      "ATK": 13,
+      "CRIT_PCT": 4.8
+    },
+    "blueprint": {
+      "gold": 450,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2003",
+          "qty": 3
+        },
+        {
+          "id": "mat_2006",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_03",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1034",
+    "name": {
+      "en": "Iron Sword T3",
+      "fa": "درجهٔ 3 سلاح سلاح"
+    },
+    "type": "WEAPON",
+    "slot": "WEAPON",
+    "tier": 3,
+    "rarity": "UNCOMMON",
+    "levelReq": 24,
+    "baseStats": {
+      "ATK": 13,
+      "CRIT_PCT": 4.8
+    },
+    "blueprint": {
+      "gold": 450,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2003",
+          "qty": 3
+        },
+        {
+          "id": "mat_2006",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_03",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1035",
+    "name": {
+      "en": "Padded Gambeson T3",
+      "fa": "درجهٔ 3 زیرکاب"
+    },
+    "type": "ARMOR",
+    "slot": "ARMOR",
+    "tier": 3,
+    "rarity": "UNCOMMON",
+    "levelReq": 24,
+    "baseStats": {
+      "DEF": 10,
+      "HP": 20
+    },
+    "blueprint": {
+      "gold": 450,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2003",
+          "qty": 3
+        },
+        {
+          "id": "mat_2006",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_03",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1036",
+    "name": {
+      "en": "Leather Cuirass T3",
+      "fa": "درجهٔ 3 زیرکاب"
+    },
+    "type": "ARMOR",
+    "slot": "ARMOR",
+    "tier": 3,
+    "rarity": "UNCOMMON",
+    "levelReq": 24,
+    "baseStats": {
+      "DEF": 10,
+      "HP": 20
+    },
+    "blueprint": {
+      "gold": 450,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2003",
+          "qty": 3
+        },
+        {
+          "id": "mat_2006",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_03",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1037",
+    "name": {
+      "en": "Chain Shirt T3",
+      "fa": "درجهٔ 3 زیرکاب"
+    },
+    "type": "ARMOR",
+    "slot": "ARMOR",
+    "tier": 3,
+    "rarity": "UNCOMMON",
+    "levelReq": 24,
+    "baseStats": {
+      "DEF": 10,
+      "HP": 20
+    },
+    "blueprint": {
+      "gold": 450,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2003",
+          "qty": 3
+        },
+        {
+          "id": "mat_2006",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_03",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1038",
+    "name": {
+      "en": "Scale Vest T3",
+      "fa": "درجهٔ 3 زیرکاب"
+    },
+    "type": "ARMOR",
+    "slot": "ARMOR",
+    "tier": 3,
+    "rarity": "UNCOMMON",
+    "levelReq": 24,
+    "baseStats": {
+      "DEF": 10,
+      "HP": 20
+    },
+    "blueprint": {
+      "gold": 450,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2003",
+          "qty": 3
+        },
+        {
+          "id": "mat_2006",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_03",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1039",
+    "name": {
+      "en": "Breastplate T3",
+      "fa": "درجهٔ 3 زیرکاب"
+    },
+    "type": "ARMOR",
+    "slot": "ARMOR",
+    "tier": 3,
+    "rarity": "UNCOMMON",
+    "levelReq": 24,
+    "baseStats": {
+      "DEF": 10,
+      "HP": 20
+    },
+    "blueprint": {
+      "gold": 450,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2003",
+          "qty": 3
+        },
+        {
+          "id": "mat_2006",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_03",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1040",
+    "name": {
+      "en": "Copper Ring T3",
+      "fa": "درجهٔ 3 آسانه"
+    },
+    "type": "ACCESSORY",
+    "slot": "ACCESSORY",
+    "tier": 3,
+    "rarity": "UNCOMMON",
+    "levelReq": 24,
+    "baseStats": {
+      "LUCK": 1.5,
+      "CRIT_DMG": 6
+    },
+    "blueprint": {
+      "gold": 450,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2003",
+          "qty": 3
+        },
+        {
+          "id": "mat_2006",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_03",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1041",
+    "name": {
+      "en": "Iron Ring T3",
+      "fa": "درجهٔ 3 آسانه"
+    },
+    "type": "ACCESSORY",
+    "slot": "ACCESSORY",
+    "tier": 3,
+    "rarity": "UNCOMMON",
+    "levelReq": 24,
+    "baseStats": {
+      "LUCK": 1.5,
+      "CRIT_DMG": 6
+    },
+    "blueprint": {
+      "gold": 450,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2003",
+          "qty": 3
+        },
+        {
+          "id": "mat_2006",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_03",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1042",
+    "name": {
+      "en": "Iron Amulet T3",
+      "fa": "درجهٔ 3 آسانه"
+    },
+    "type": "ACCESSORY",
+    "slot": "ACCESSORY",
+    "tier": 3,
+    "rarity": "UNCOMMON",
+    "levelReq": 24,
+    "baseStats": {
+      "LUCK": 1.5,
+      "CRIT_DMG": 6
+    },
+    "blueprint": {
+      "gold": 450,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2003",
+          "qty": 3
+        },
+        {
+          "id": "mat_2006",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_03",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1043",
+    "name": {
+      "en": "Steel Pendant T3",
+      "fa": "درجهٔ 3 آسانه"
+    },
+    "type": "ACCESSORY",
+    "slot": "ACCESSORY",
+    "tier": 3,
+    "rarity": "UNCOMMON",
+    "levelReq": 24,
+    "baseStats": {
+      "LUCK": 1.5,
+      "CRIT_DMG": 6
+    },
+    "blueprint": {
+      "gold": 450,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2003",
+          "qty": 3
+        },
+        {
+          "id": "mat_2006",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_03",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1044",
+    "name": {
+      "en": "Ruby Talisman T3",
+      "fa": "درجهٔ 3 آسانه"
+    },
+    "type": "ACCESSORY",
+    "slot": "ACCESSORY",
+    "tier": 3,
+    "rarity": "UNCOMMON",
+    "levelReq": 24,
+    "baseStats": {
+      "LUCK": 1.5,
+      "CRIT_DMG": 6
+    },
+    "blueprint": {
+      "gold": 450,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2003",
+          "qty": 3
+        },
+        {
+          "id": "mat_2006",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_03",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1045",
+    "name": {
+      "en": "Rusty Dagger T4",
+      "fa": "درجهٔ 4 سلاح سلاح"
+    },
+    "type": "WEAPON",
+    "slot": "WEAPON",
+    "tier": 4,
+    "rarity": "UNCOMMON",
+    "levelReq": 32,
+    "baseStats": {
+      "ATK": 16,
+      "CRIT_PCT": 5.4
+    },
+    "blueprint": {
+      "gold": 800,
+      "forgeSkillMin": 2,
+      "materials": [
+        {
+          "id": "mat_2004",
+          "qty": 4
+        },
+        {
+          "id": "mat_2007",
+          "qty": 2
+        }
+      ]
+    },
+    "zoneDrop": "zone_04",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1046",
+    "name": {
+      "en": "Iron Dagger T4",
+      "fa": "درجهٔ 4 سلاح سلاح"
+    },
+    "type": "WEAPON",
+    "slot": "WEAPON",
+    "tier": 4,
+    "rarity": "UNCOMMON",
+    "levelReq": 32,
+    "baseStats": {
+      "ATK": 16,
+      "CRIT_PCT": 5.4
+    },
+    "blueprint": {
+      "gold": 800,
+      "forgeSkillMin": 2,
+      "materials": [
+        {
+          "id": "mat_2004",
+          "qty": 4
+        },
+        {
+          "id": "mat_2007",
+          "qty": 2
+        }
+      ]
+    },
+    "zoneDrop": "zone_04",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1047",
+    "name": {
+      "en": "Steel Dagger T4",
+      "fa": "درجهٔ 4 سلاح سلاح"
+    },
+    "type": "WEAPON",
+    "slot": "WEAPON",
+    "tier": 4,
+    "rarity": "UNCOMMON",
+    "levelReq": 32,
+    "baseStats": {
+      "ATK": 16,
+      "CRIT_PCT": 5.4
+    },
+    "blueprint": {
+      "gold": 800,
+      "forgeSkillMin": 2,
+      "materials": [
+        {
+          "id": "mat_2004",
+          "qty": 4
+        },
+        {
+          "id": "mat_2007",
+          "qty": 2
+        }
+      ]
+    },
+    "zoneDrop": "zone_04",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1048",
+    "name": {
+      "en": "Rusty Sword T4",
+      "fa": "درجهٔ 4 سلاح سلاح"
+    },
+    "type": "WEAPON",
+    "slot": "WEAPON",
+    "tier": 4,
+    "rarity": "UNCOMMON",
+    "levelReq": 32,
+    "baseStats": {
+      "ATK": 16,
+      "CRIT_PCT": 5.4
+    },
+    "blueprint": {
+      "gold": 800,
+      "forgeSkillMin": 2,
+      "materials": [
+        {
+          "id": "mat_2004",
+          "qty": 4
+        },
+        {
+          "id": "mat_2007",
+          "qty": 2
+        }
+      ]
+    },
+    "zoneDrop": "zone_04",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1049",
+    "name": {
+      "en": "Iron Sword T4",
+      "fa": "درجهٔ 4 سلاح سلاح"
+    },
+    "type": "WEAPON",
+    "slot": "WEAPON",
+    "tier": 4,
+    "rarity": "UNCOMMON",
+    "levelReq": 32,
+    "baseStats": {
+      "ATK": 16,
+      "CRIT_PCT": 5.4
+    },
+    "blueprint": {
+      "gold": 800,
+      "forgeSkillMin": 2,
+      "materials": [
+        {
+          "id": "mat_2004",
+          "qty": 4
+        },
+        {
+          "id": "mat_2007",
+          "qty": 2
+        }
+      ]
+    },
+    "zoneDrop": "zone_04",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1050",
+    "name": {
+      "en": "Padded Gambeson T4",
+      "fa": "درجهٔ 4 زیرکاب"
+    },
+    "type": "ARMOR",
+    "slot": "ARMOR",
+    "tier": 4,
+    "rarity": "UNCOMMON",
+    "levelReq": 32,
+    "baseStats": {
+      "DEF": 12,
+      "HP": 24
+    },
+    "blueprint": {
+      "gold": 800,
+      "forgeSkillMin": 2,
+      "materials": [
+        {
+          "id": "mat_2004",
+          "qty": 4
+        },
+        {
+          "id": "mat_2007",
+          "qty": 2
+        }
+      ]
+    },
+    "zoneDrop": "zone_04",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1051",
+    "name": {
+      "en": "Leather Cuirass T4",
+      "fa": "درجهٔ 4 زیرکاب"
+    },
+    "type": "ARMOR",
+    "slot": "ARMOR",
+    "tier": 4,
+    "rarity": "UNCOMMON",
+    "levelReq": 32,
+    "baseStats": {
+      "DEF": 12,
+      "HP": 24
+    },
+    "blueprint": {
+      "gold": 800,
+      "forgeSkillMin": 2,
+      "materials": [
+        {
+          "id": "mat_2004",
+          "qty": 4
+        },
+        {
+          "id": "mat_2007",
+          "qty": 2
+        }
+      ]
+    },
+    "zoneDrop": "zone_04",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1052",
+    "name": {
+      "en": "Chain Shirt T4",
+      "fa": "درجهٔ 4 زیرکاب"
+    },
+    "type": "ARMOR",
+    "slot": "ARMOR",
+    "tier": 4,
+    "rarity": "UNCOMMON",
+    "levelReq": 32,
+    "baseStats": {
+      "DEF": 12,
+      "HP": 24
+    },
+    "blueprint": {
+      "gold": 800,
+      "forgeSkillMin": 2,
+      "materials": [
+        {
+          "id": "mat_2004",
+          "qty": 4
+        },
+        {
+          "id": "mat_2007",
+          "qty": 2
+        }
+      ]
+    },
+    "zoneDrop": "zone_04",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1053",
+    "name": {
+      "en": "Scale Vest T4",
+      "fa": "درجهٔ 4 زیرکاب"
+    },
+    "type": "ARMOR",
+    "slot": "ARMOR",
+    "tier": 4,
+    "rarity": "UNCOMMON",
+    "levelReq": 32,
+    "baseStats": {
+      "DEF": 12,
+      "HP": 24
+    },
+    "blueprint": {
+      "gold": 800,
+      "forgeSkillMin": 2,
+      "materials": [
+        {
+          "id": "mat_2004",
+          "qty": 4
+        },
+        {
+          "id": "mat_2007",
+          "qty": 2
+        }
+      ]
+    },
+    "zoneDrop": "zone_04",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1054",
+    "name": {
+      "en": "Breastplate T4",
+      "fa": "درجهٔ 4 زیرکاب"
+    },
+    "type": "ARMOR",
+    "slot": "ARMOR",
+    "tier": 4,
+    "rarity": "UNCOMMON",
+    "levelReq": 32,
+    "baseStats": {
+      "DEF": 12,
+      "HP": 24
+    },
+    "blueprint": {
+      "gold": 800,
+      "forgeSkillMin": 2,
+      "materials": [
+        {
+          "id": "mat_2004",
+          "qty": 4
+        },
+        {
+          "id": "mat_2007",
+          "qty": 2
+        }
+      ]
+    },
+    "zoneDrop": "zone_04",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1055",
+    "name": {
+      "en": "Copper Ring T4",
+      "fa": "درجهٔ 4 آسانه"
+    },
+    "type": "ACCESSORY",
+    "slot": "ACCESSORY",
+    "tier": 4,
+    "rarity": "UNCOMMON",
+    "levelReq": 32,
+    "baseStats": {
+      "LUCK": 2.0,
+      "CRIT_DMG": 8
+    },
+    "blueprint": {
+      "gold": 800,
+      "forgeSkillMin": 2,
+      "materials": [
+        {
+          "id": "mat_2004",
+          "qty": 4
+        },
+        {
+          "id": "mat_2007",
+          "qty": 2
+        }
+      ]
+    },
+    "zoneDrop": "zone_04",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1056",
+    "name": {
+      "en": "Iron Ring T4",
+      "fa": "درجهٔ 4 آسانه"
+    },
+    "type": "ACCESSORY",
+    "slot": "ACCESSORY",
+    "tier": 4,
+    "rarity": "UNCOMMON",
+    "levelReq": 32,
+    "baseStats": {
+      "LUCK": 2.0,
+      "CRIT_DMG": 8
+    },
+    "blueprint": {
+      "gold": 800,
+      "forgeSkillMin": 2,
+      "materials": [
+        {
+          "id": "mat_2004",
+          "qty": 4
+        },
+        {
+          "id": "mat_2007",
+          "qty": 2
+        }
+      ]
+    },
+    "zoneDrop": "zone_04",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1057",
+    "name": {
+      "en": "Iron Amulet T4",
+      "fa": "درجهٔ 4 آسانه"
+    },
+    "type": "ACCESSORY",
+    "slot": "ACCESSORY",
+    "tier": 4,
+    "rarity": "UNCOMMON",
+    "levelReq": 32,
+    "baseStats": {
+      "LUCK": 2.0,
+      "CRIT_DMG": 8
+    },
+    "blueprint": {
+      "gold": 800,
+      "forgeSkillMin": 2,
+      "materials": [
+        {
+          "id": "mat_2004",
+          "qty": 4
+        },
+        {
+          "id": "mat_2007",
+          "qty": 2
+        }
+      ]
+    },
+    "zoneDrop": "zone_04",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1058",
+    "name": {
+      "en": "Steel Pendant T4",
+      "fa": "درجهٔ 4 آسانه"
+    },
+    "type": "ACCESSORY",
+    "slot": "ACCESSORY",
+    "tier": 4,
+    "rarity": "UNCOMMON",
+    "levelReq": 32,
+    "baseStats": {
+      "LUCK": 2.0,
+      "CRIT_DMG": 8
+    },
+    "blueprint": {
+      "gold": 800,
+      "forgeSkillMin": 2,
+      "materials": [
+        {
+          "id": "mat_2004",
+          "qty": 4
+        },
+        {
+          "id": "mat_2007",
+          "qty": 2
+        }
+      ]
+    },
+    "zoneDrop": "zone_04",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1059",
+    "name": {
+      "en": "Ruby Talisman T4",
+      "fa": "درجهٔ 4 آسانه"
+    },
+    "type": "ACCESSORY",
+    "slot": "ACCESSORY",
+    "tier": 4,
+    "rarity": "UNCOMMON",
+    "levelReq": 32,
+    "baseStats": {
+      "LUCK": 2.0,
+      "CRIT_DMG": 8
+    },
+    "blueprint": {
+      "gold": 800,
+      "forgeSkillMin": 2,
+      "materials": [
+        {
+          "id": "mat_2004",
+          "qty": 4
+        },
+        {
+          "id": "mat_2007",
+          "qty": 2
+        }
+      ]
+    },
+    "zoneDrop": "zone_04",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1060",
+    "name": {
+      "en": "Rusty Dagger T5",
+      "fa": "درجهٔ 5 سلاح سلاح"
+    },
+    "type": "WEAPON",
+    "slot": "WEAPON",
+    "tier": 5,
+    "rarity": "RARE",
+    "levelReq": 40,
+    "baseStats": {
+      "ATK": 19,
+      "CRIT_PCT": 6.0
+    },
+    "blueprint": {
+      "gold": 1250,
+      "forgeSkillMin": 3,
+      "materials": [
+        {
+          "id": "mat_2005",
+          "qty": 5
+        },
+        {
+          "id": "mat_2008",
+          "qty": 2
+        }
+      ]
+    },
+    "zoneDrop": "zone_05",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1061",
+    "name": {
+      "en": "Iron Dagger T5",
+      "fa": "درجهٔ 5 سلاح سلاح"
+    },
+    "type": "WEAPON",
+    "slot": "WEAPON",
+    "tier": 5,
+    "rarity": "RARE",
+    "levelReq": 40,
+    "baseStats": {
+      "ATK": 19,
+      "CRIT_PCT": 6.0
+    },
+    "blueprint": {
+      "gold": 1250,
+      "forgeSkillMin": 3,
+      "materials": [
+        {
+          "id": "mat_2005",
+          "qty": 5
+        },
+        {
+          "id": "mat_2008",
+          "qty": 2
+        }
+      ]
+    },
+    "zoneDrop": "zone_05",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1062",
+    "name": {
+      "en": "Steel Dagger T5",
+      "fa": "درجهٔ 5 سلاح سلاح"
+    },
+    "type": "WEAPON",
+    "slot": "WEAPON",
+    "tier": 5,
+    "rarity": "RARE",
+    "levelReq": 40,
+    "baseStats": {
+      "ATK": 19,
+      "CRIT_PCT": 6.0
+    },
+    "blueprint": {
+      "gold": 1250,
+      "forgeSkillMin": 3,
+      "materials": [
+        {
+          "id": "mat_2005",
+          "qty": 5
+        },
+        {
+          "id": "mat_2008",
+          "qty": 2
+        }
+      ]
+    },
+    "zoneDrop": "zone_05",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1063",
+    "name": {
+      "en": "Rusty Sword T5",
+      "fa": "درجهٔ 5 سلاح سلاح"
+    },
+    "type": "WEAPON",
+    "slot": "WEAPON",
+    "tier": 5,
+    "rarity": "RARE",
+    "levelReq": 40,
+    "baseStats": {
+      "ATK": 19,
+      "CRIT_PCT": 6.0
+    },
+    "blueprint": {
+      "gold": 1250,
+      "forgeSkillMin": 3,
+      "materials": [
+        {
+          "id": "mat_2005",
+          "qty": 5
+        },
+        {
+          "id": "mat_2008",
+          "qty": 2
+        }
+      ]
+    },
+    "zoneDrop": "zone_05",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1064",
+    "name": {
+      "en": "Iron Sword T5",
+      "fa": "درجهٔ 5 سلاح سلاح"
+    },
+    "type": "WEAPON",
+    "slot": "WEAPON",
+    "tier": 5,
+    "rarity": "RARE",
+    "levelReq": 40,
+    "baseStats": {
+      "ATK": 19,
+      "CRIT_PCT": 6.0
+    },
+    "blueprint": {
+      "gold": 1250,
+      "forgeSkillMin": 3,
+      "materials": [
+        {
+          "id": "mat_2005",
+          "qty": 5
+        },
+        {
+          "id": "mat_2008",
+          "qty": 2
+        }
+      ]
+    },
+    "zoneDrop": "zone_05",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1065",
+    "name": {
+      "en": "Padded Gambeson T5",
+      "fa": "درجهٔ 5 زیرکاب"
+    },
+    "type": "ARMOR",
+    "slot": "ARMOR",
+    "tier": 5,
+    "rarity": "RARE",
+    "levelReq": 40,
+    "baseStats": {
+      "DEF": 14,
+      "HP": 28
+    },
+    "blueprint": {
+      "gold": 1250,
+      "forgeSkillMin": 3,
+      "materials": [
+        {
+          "id": "mat_2005",
+          "qty": 5
+        },
+        {
+          "id": "mat_2008",
+          "qty": 2
+        }
+      ]
+    },
+    "zoneDrop": "zone_05",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1066",
+    "name": {
+      "en": "Leather Cuirass T5",
+      "fa": "درجهٔ 5 زیرکاب"
+    },
+    "type": "ARMOR",
+    "slot": "ARMOR",
+    "tier": 5,
+    "rarity": "RARE",
+    "levelReq": 40,
+    "baseStats": {
+      "DEF": 14,
+      "HP": 28
+    },
+    "blueprint": {
+      "gold": 1250,
+      "forgeSkillMin": 3,
+      "materials": [
+        {
+          "id": "mat_2005",
+          "qty": 5
+        },
+        {
+          "id": "mat_2008",
+          "qty": 2
+        }
+      ]
+    },
+    "zoneDrop": "zone_05",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1067",
+    "name": {
+      "en": "Chain Shirt T5",
+      "fa": "درجهٔ 5 زیرکاب"
+    },
+    "type": "ARMOR",
+    "slot": "ARMOR",
+    "tier": 5,
+    "rarity": "RARE",
+    "levelReq": 40,
+    "baseStats": {
+      "DEF": 14,
+      "HP": 28
+    },
+    "blueprint": {
+      "gold": 1250,
+      "forgeSkillMin": 3,
+      "materials": [
+        {
+          "id": "mat_2005",
+          "qty": 5
+        },
+        {
+          "id": "mat_2008",
+          "qty": 2
+        }
+      ]
+    },
+    "zoneDrop": "zone_05",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1068",
+    "name": {
+      "en": "Scale Vest T5",
+      "fa": "درجهٔ 5 زیرکاب"
+    },
+    "type": "ARMOR",
+    "slot": "ARMOR",
+    "tier": 5,
+    "rarity": "RARE",
+    "levelReq": 40,
+    "baseStats": {
+      "DEF": 14,
+      "HP": 28
+    },
+    "blueprint": {
+      "gold": 1250,
+      "forgeSkillMin": 3,
+      "materials": [
+        {
+          "id": "mat_2005",
+          "qty": 5
+        },
+        {
+          "id": "mat_2008",
+          "qty": 2
+        }
+      ]
+    },
+    "zoneDrop": "zone_05",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1069",
+    "name": {
+      "en": "Breastplate T5",
+      "fa": "درجهٔ 5 زیرکاب"
+    },
+    "type": "ARMOR",
+    "slot": "ARMOR",
+    "tier": 5,
+    "rarity": "RARE",
+    "levelReq": 40,
+    "baseStats": {
+      "DEF": 14,
+      "HP": 28
+    },
+    "blueprint": {
+      "gold": 1250,
+      "forgeSkillMin": 3,
+      "materials": [
+        {
+          "id": "mat_2005",
+          "qty": 5
+        },
+        {
+          "id": "mat_2008",
+          "qty": 2
+        }
+      ]
+    },
+    "zoneDrop": "zone_05",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1070",
+    "name": {
+      "en": "Copper Ring T5",
+      "fa": "درجهٔ 5 آسانه"
+    },
+    "type": "ACCESSORY",
+    "slot": "ACCESSORY",
+    "tier": 5,
+    "rarity": "RARE",
+    "levelReq": 40,
+    "baseStats": {
+      "LUCK": 2.5,
+      "CRIT_DMG": 10
+    },
+    "blueprint": {
+      "gold": 1250,
+      "forgeSkillMin": 3,
+      "materials": [
+        {
+          "id": "mat_2005",
+          "qty": 5
+        },
+        {
+          "id": "mat_2008",
+          "qty": 2
+        }
+      ]
+    },
+    "zoneDrop": "zone_05",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1071",
+    "name": {
+      "en": "Iron Ring T5",
+      "fa": "درجهٔ 5 آسانه"
+    },
+    "type": "ACCESSORY",
+    "slot": "ACCESSORY",
+    "tier": 5,
+    "rarity": "RARE",
+    "levelReq": 40,
+    "baseStats": {
+      "LUCK": 2.5,
+      "CRIT_DMG": 10
+    },
+    "blueprint": {
+      "gold": 1250,
+      "forgeSkillMin": 3,
+      "materials": [
+        {
+          "id": "mat_2005",
+          "qty": 5
+        },
+        {
+          "id": "mat_2008",
+          "qty": 2
+        }
+      ]
+    },
+    "zoneDrop": "zone_05",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1072",
+    "name": {
+      "en": "Iron Amulet T5",
+      "fa": "درجهٔ 5 آسانه"
+    },
+    "type": "ACCESSORY",
+    "slot": "ACCESSORY",
+    "tier": 5,
+    "rarity": "RARE",
+    "levelReq": 40,
+    "baseStats": {
+      "LUCK": 2.5,
+      "CRIT_DMG": 10
+    },
+    "blueprint": {
+      "gold": 1250,
+      "forgeSkillMin": 3,
+      "materials": [
+        {
+          "id": "mat_2005",
+          "qty": 5
+        },
+        {
+          "id": "mat_2008",
+          "qty": 2
+        }
+      ]
+    },
+    "zoneDrop": "zone_05",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1073",
+    "name": {
+      "en": "Steel Pendant T5",
+      "fa": "درجهٔ 5 آسانه"
+    },
+    "type": "ACCESSORY",
+    "slot": "ACCESSORY",
+    "tier": 5,
+    "rarity": "RARE",
+    "levelReq": 40,
+    "baseStats": {
+      "LUCK": 2.5,
+      "CRIT_DMG": 10
+    },
+    "blueprint": {
+      "gold": 1250,
+      "forgeSkillMin": 3,
+      "materials": [
+        {
+          "id": "mat_2005",
+          "qty": 5
+        },
+        {
+          "id": "mat_2008",
+          "qty": 2
+        }
+      ]
+    },
+    "zoneDrop": "zone_05",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1074",
+    "name": {
+      "en": "Ruby Talisman T5",
+      "fa": "درجهٔ 5 آسانه"
+    },
+    "type": "ACCESSORY",
+    "slot": "ACCESSORY",
+    "tier": 5,
+    "rarity": "RARE",
+    "levelReq": 40,
+    "baseStats": {
+      "LUCK": 2.5,
+      "CRIT_DMG": 10
+    },
+    "blueprint": {
+      "gold": 1250,
+      "forgeSkillMin": 3,
+      "materials": [
+        {
+          "id": "mat_2005",
+          "qty": 5
+        },
+        {
+          "id": "mat_2008",
+          "qty": 2
+        }
+      ]
+    },
+    "zoneDrop": "zone_05",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1075",
+    "name": {
+      "en": "Rusty Dagger T6",
+      "fa": "درجهٔ 6 سلاح سلاح"
+    },
+    "type": "WEAPON",
+    "slot": "WEAPON",
+    "tier": 6,
+    "rarity": "RARE",
+    "levelReq": 48,
+    "baseStats": {
+      "ATK": 22,
+      "CRIT_PCT": 6.6
+    },
+    "blueprint": {
+      "gold": 1800,
+      "forgeSkillMin": 4,
+      "materials": [
+        {
+          "id": "mat_2006",
+          "qty": 6
+        },
+        {
+          "id": "mat_2009",
+          "qty": 3
+        }
+      ]
+    },
+    "zoneDrop": "zone_06",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1076",
+    "name": {
+      "en": "Iron Dagger T6",
+      "fa": "درجهٔ 6 سلاح سلاح"
+    },
+    "type": "WEAPON",
+    "slot": "WEAPON",
+    "tier": 6,
+    "rarity": "RARE",
+    "levelReq": 48,
+    "baseStats": {
+      "ATK": 22,
+      "CRIT_PCT": 6.6
+    },
+    "blueprint": {
+      "gold": 1800,
+      "forgeSkillMin": 4,
+      "materials": [
+        {
+          "id": "mat_2006",
+          "qty": 6
+        },
+        {
+          "id": "mat_2009",
+          "qty": 3
+        }
+      ]
+    },
+    "zoneDrop": "zone_06",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1077",
+    "name": {
+      "en": "Steel Dagger T6",
+      "fa": "درجهٔ 6 سلاح سلاح"
+    },
+    "type": "WEAPON",
+    "slot": "WEAPON",
+    "tier": 6,
+    "rarity": "RARE",
+    "levelReq": 48,
+    "baseStats": {
+      "ATK": 22,
+      "CRIT_PCT": 6.6
+    },
+    "blueprint": {
+      "gold": 1800,
+      "forgeSkillMin": 4,
+      "materials": [
+        {
+          "id": "mat_2006",
+          "qty": 6
+        },
+        {
+          "id": "mat_2009",
+          "qty": 3
+        }
+      ]
+    },
+    "zoneDrop": "zone_06",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1078",
+    "name": {
+      "en": "Rusty Sword T6",
+      "fa": "درجهٔ 6 سلاح سلاح"
+    },
+    "type": "WEAPON",
+    "slot": "WEAPON",
+    "tier": 6,
+    "rarity": "RARE",
+    "levelReq": 48,
+    "baseStats": {
+      "ATK": 22,
+      "CRIT_PCT": 6.6
+    },
+    "blueprint": {
+      "gold": 1800,
+      "forgeSkillMin": 4,
+      "materials": [
+        {
+          "id": "mat_2006",
+          "qty": 6
+        },
+        {
+          "id": "mat_2009",
+          "qty": 3
+        }
+      ]
+    },
+    "zoneDrop": "zone_06",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1079",
+    "name": {
+      "en": "Iron Sword T6",
+      "fa": "درجهٔ 6 سلاح سلاح"
+    },
+    "type": "WEAPON",
+    "slot": "WEAPON",
+    "tier": 6,
+    "rarity": "RARE",
+    "levelReq": 48,
+    "baseStats": {
+      "ATK": 22,
+      "CRIT_PCT": 6.6
+    },
+    "blueprint": {
+      "gold": 1800,
+      "forgeSkillMin": 4,
+      "materials": [
+        {
+          "id": "mat_2006",
+          "qty": 6
+        },
+        {
+          "id": "mat_2009",
+          "qty": 3
+        }
+      ]
+    },
+    "zoneDrop": "zone_06",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1080",
+    "name": {
+      "en": "Padded Gambeson T6",
+      "fa": "درجهٔ 6 زیرکاب"
+    },
+    "type": "ARMOR",
+    "slot": "ARMOR",
+    "tier": 6,
+    "rarity": "RARE",
+    "levelReq": 48,
+    "baseStats": {
+      "DEF": 16,
+      "HP": 33
+    },
+    "blueprint": {
+      "gold": 1800,
+      "forgeSkillMin": 4,
+      "materials": [
+        {
+          "id": "mat_2006",
+          "qty": 6
+        },
+        {
+          "id": "mat_2009",
+          "qty": 3
+        }
+      ]
+    },
+    "zoneDrop": "zone_06",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1081",
+    "name": {
+      "en": "Leather Cuirass T6",
+      "fa": "درجهٔ 6 زیرکاب"
+    },
+    "type": "ARMOR",
+    "slot": "ARMOR",
+    "tier": 6,
+    "rarity": "RARE",
+    "levelReq": 48,
+    "baseStats": {
+      "DEF": 16,
+      "HP": 33
+    },
+    "blueprint": {
+      "gold": 1800,
+      "forgeSkillMin": 4,
+      "materials": [
+        {
+          "id": "mat_2006",
+          "qty": 6
+        },
+        {
+          "id": "mat_2009",
+          "qty": 3
+        }
+      ]
+    },
+    "zoneDrop": "zone_06",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1082",
+    "name": {
+      "en": "Chain Shirt T6",
+      "fa": "درجهٔ 6 زیرکاب"
+    },
+    "type": "ARMOR",
+    "slot": "ARMOR",
+    "tier": 6,
+    "rarity": "RARE",
+    "levelReq": 48,
+    "baseStats": {
+      "DEF": 16,
+      "HP": 33
+    },
+    "blueprint": {
+      "gold": 1800,
+      "forgeSkillMin": 4,
+      "materials": [
+        {
+          "id": "mat_2006",
+          "qty": 6
+        },
+        {
+          "id": "mat_2009",
+          "qty": 3
+        }
+      ]
+    },
+    "zoneDrop": "zone_06",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1083",
+    "name": {
+      "en": "Scale Vest T6",
+      "fa": "درجهٔ 6 زیرکاب"
+    },
+    "type": "ARMOR",
+    "slot": "ARMOR",
+    "tier": 6,
+    "rarity": "RARE",
+    "levelReq": 48,
+    "baseStats": {
+      "DEF": 16,
+      "HP": 33
+    },
+    "blueprint": {
+      "gold": 1800,
+      "forgeSkillMin": 4,
+      "materials": [
+        {
+          "id": "mat_2006",
+          "qty": 6
+        },
+        {
+          "id": "mat_2009",
+          "qty": 3
+        }
+      ]
+    },
+    "zoneDrop": "zone_06",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1084",
+    "name": {
+      "en": "Breastplate T6",
+      "fa": "درجهٔ 6 زیرکاب"
+    },
+    "type": "ARMOR",
+    "slot": "ARMOR",
+    "tier": 6,
+    "rarity": "RARE",
+    "levelReq": 48,
+    "baseStats": {
+      "DEF": 16,
+      "HP": 33
+    },
+    "blueprint": {
+      "gold": 1800,
+      "forgeSkillMin": 4,
+      "materials": [
+        {
+          "id": "mat_2006",
+          "qty": 6
+        },
+        {
+          "id": "mat_2009",
+          "qty": 3
+        }
+      ]
+    },
+    "zoneDrop": "zone_06",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1085",
+    "name": {
+      "en": "Copper Ring T6",
+      "fa": "درجهٔ 6 آسانه"
+    },
+    "type": "ACCESSORY",
+    "slot": "ACCESSORY",
+    "tier": 6,
+    "rarity": "RARE",
+    "levelReq": 48,
+    "baseStats": {
+      "LUCK": 3.0,
+      "CRIT_DMG": 12
+    },
+    "blueprint": {
+      "gold": 1800,
+      "forgeSkillMin": 4,
+      "materials": [
+        {
+          "id": "mat_2006",
+          "qty": 6
+        },
+        {
+          "id": "mat_2009",
+          "qty": 3
+        }
+      ]
+    },
+    "zoneDrop": "zone_06",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1086",
+    "name": {
+      "en": "Iron Ring T6",
+      "fa": "درجهٔ 6 آسانه"
+    },
+    "type": "ACCESSORY",
+    "slot": "ACCESSORY",
+    "tier": 6,
+    "rarity": "RARE",
+    "levelReq": 48,
+    "baseStats": {
+      "LUCK": 3.0,
+      "CRIT_DMG": 12
+    },
+    "blueprint": {
+      "gold": 1800,
+      "forgeSkillMin": 4,
+      "materials": [
+        {
+          "id": "mat_2006",
+          "qty": 6
+        },
+        {
+          "id": "mat_2009",
+          "qty": 3
+        }
+      ]
+    },
+    "zoneDrop": "zone_06",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1087",
+    "name": {
+      "en": "Iron Amulet T6",
+      "fa": "درجهٔ 6 آسانه"
+    },
+    "type": "ACCESSORY",
+    "slot": "ACCESSORY",
+    "tier": 6,
+    "rarity": "RARE",
+    "levelReq": 48,
+    "baseStats": {
+      "LUCK": 3.0,
+      "CRIT_DMG": 12
+    },
+    "blueprint": {
+      "gold": 1800,
+      "forgeSkillMin": 4,
+      "materials": [
+        {
+          "id": "mat_2006",
+          "qty": 6
+        },
+        {
+          "id": "mat_2009",
+          "qty": 3
+        }
+      ]
+    },
+    "zoneDrop": "zone_06",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1088",
+    "name": {
+      "en": "Steel Pendant T6",
+      "fa": "درجهٔ 6 آسانه"
+    },
+    "type": "ACCESSORY",
+    "slot": "ACCESSORY",
+    "tier": 6,
+    "rarity": "RARE",
+    "levelReq": 48,
+    "baseStats": {
+      "LUCK": 3.0,
+      "CRIT_DMG": 12
+    },
+    "blueprint": {
+      "gold": 1800,
+      "forgeSkillMin": 4,
+      "materials": [
+        {
+          "id": "mat_2006",
+          "qty": 6
+        },
+        {
+          "id": "mat_2009",
+          "qty": 3
+        }
+      ]
+    },
+    "zoneDrop": "zone_06",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1089",
+    "name": {
+      "en": "Ruby Talisman T6",
+      "fa": "درجهٔ 6 آسانه"
+    },
+    "type": "ACCESSORY",
+    "slot": "ACCESSORY",
+    "tier": 6,
+    "rarity": "RARE",
+    "levelReq": 48,
+    "baseStats": {
+      "LUCK": 3.0,
+      "CRIT_DMG": 12
+    },
+    "blueprint": {
+      "gold": 1800,
+      "forgeSkillMin": 4,
+      "materials": [
+        {
+          "id": "mat_2006",
+          "qty": 6
+        },
+        {
+          "id": "mat_2009",
+          "qty": 3
+        }
+      ]
+    },
+    "zoneDrop": "zone_06",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1090",
+    "name": {
+      "en": "Rusty Dagger T7",
+      "fa": "درجهٔ 7 سلاح سلاح"
+    },
+    "type": "WEAPON",
+    "slot": "WEAPON",
+    "tier": 7,
+    "rarity": "EPIC",
+    "levelReq": 56,
+    "baseStats": {
+      "ATK": 24,
+      "CRIT_PCT": 7.2
+    },
+    "blueprint": {
+      "gold": 2450,
+      "forgeSkillMin": 5,
+      "materials": [
+        {
+          "id": "mat_2007",
+          "qty": 7
+        },
+        {
+          "id": "mat_2010",
+          "qty": 3
+        }
+      ]
+    },
+    "zoneDrop": "zone_07",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1091",
+    "name": {
+      "en": "Iron Dagger T7",
+      "fa": "درجهٔ 7 سلاح سلاح"
+    },
+    "type": "WEAPON",
+    "slot": "WEAPON",
+    "tier": 7,
+    "rarity": "EPIC",
+    "levelReq": 56,
+    "baseStats": {
+      "ATK": 24,
+      "CRIT_PCT": 7.2
+    },
+    "blueprint": {
+      "gold": 2450,
+      "forgeSkillMin": 5,
+      "materials": [
+        {
+          "id": "mat_2007",
+          "qty": 7
+        },
+        {
+          "id": "mat_2010",
+          "qty": 3
+        }
+      ]
+    },
+    "zoneDrop": "zone_07",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1092",
+    "name": {
+      "en": "Steel Dagger T7",
+      "fa": "درجهٔ 7 سلاح سلاح"
+    },
+    "type": "WEAPON",
+    "slot": "WEAPON",
+    "tier": 7,
+    "rarity": "EPIC",
+    "levelReq": 56,
+    "baseStats": {
+      "ATK": 24,
+      "CRIT_PCT": 7.2
+    },
+    "blueprint": {
+      "gold": 2450,
+      "forgeSkillMin": 5,
+      "materials": [
+        {
+          "id": "mat_2007",
+          "qty": 7
+        },
+        {
+          "id": "mat_2010",
+          "qty": 3
+        }
+      ]
+    },
+    "zoneDrop": "zone_07",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1093",
+    "name": {
+      "en": "Rusty Sword T7",
+      "fa": "درجهٔ 7 سلاح سلاح"
+    },
+    "type": "WEAPON",
+    "slot": "WEAPON",
+    "tier": 7,
+    "rarity": "EPIC",
+    "levelReq": 56,
+    "baseStats": {
+      "ATK": 24,
+      "CRIT_PCT": 7.2
+    },
+    "blueprint": {
+      "gold": 2450,
+      "forgeSkillMin": 5,
+      "materials": [
+        {
+          "id": "mat_2007",
+          "qty": 7
+        },
+        {
+          "id": "mat_2010",
+          "qty": 3
+        }
+      ]
+    },
+    "zoneDrop": "zone_07",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1094",
+    "name": {
+      "en": "Iron Sword T7",
+      "fa": "درجهٔ 7 سلاح سلاح"
+    },
+    "type": "WEAPON",
+    "slot": "WEAPON",
+    "tier": 7,
+    "rarity": "EPIC",
+    "levelReq": 56,
+    "baseStats": {
+      "ATK": 24,
+      "CRIT_PCT": 7.2
+    },
+    "blueprint": {
+      "gold": 2450,
+      "forgeSkillMin": 5,
+      "materials": [
+        {
+          "id": "mat_2007",
+          "qty": 7
+        },
+        {
+          "id": "mat_2010",
+          "qty": 3
+        }
+      ]
+    },
+    "zoneDrop": "zone_07",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1095",
+    "name": {
+      "en": "Padded Gambeson T7",
+      "fa": "درجهٔ 7 زیرکاب"
+    },
+    "type": "ARMOR",
+    "slot": "ARMOR",
+    "tier": 7,
+    "rarity": "EPIC",
+    "levelReq": 56,
+    "baseStats": {
+      "DEF": 18,
+      "HP": 37
+    },
+    "blueprint": {
+      "gold": 2450,
+      "forgeSkillMin": 5,
+      "materials": [
+        {
+          "id": "mat_2007",
+          "qty": 7
+        },
+        {
+          "id": "mat_2010",
+          "qty": 3
+        }
+      ]
+    },
+    "zoneDrop": "zone_07",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1096",
+    "name": {
+      "en": "Leather Cuirass T7",
+      "fa": "درجهٔ 7 زیرکاب"
+    },
+    "type": "ARMOR",
+    "slot": "ARMOR",
+    "tier": 7,
+    "rarity": "EPIC",
+    "levelReq": 56,
+    "baseStats": {
+      "DEF": 18,
+      "HP": 37
+    },
+    "blueprint": {
+      "gold": 2450,
+      "forgeSkillMin": 5,
+      "materials": [
+        {
+          "id": "mat_2007",
+          "qty": 7
+        },
+        {
+          "id": "mat_2010",
+          "qty": 3
+        }
+      ]
+    },
+    "zoneDrop": "zone_07",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1097",
+    "name": {
+      "en": "Chain Shirt T7",
+      "fa": "درجهٔ 7 زیرکاب"
+    },
+    "type": "ARMOR",
+    "slot": "ARMOR",
+    "tier": 7,
+    "rarity": "EPIC",
+    "levelReq": 56,
+    "baseStats": {
+      "DEF": 18,
+      "HP": 37
+    },
+    "blueprint": {
+      "gold": 2450,
+      "forgeSkillMin": 5,
+      "materials": [
+        {
+          "id": "mat_2007",
+          "qty": 7
+        },
+        {
+          "id": "mat_2010",
+          "qty": 3
+        }
+      ]
+    },
+    "zoneDrop": "zone_07",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1098",
+    "name": {
+      "en": "Scale Vest T7",
+      "fa": "درجهٔ 7 زیرکاب"
+    },
+    "type": "ARMOR",
+    "slot": "ARMOR",
+    "tier": 7,
+    "rarity": "EPIC",
+    "levelReq": 56,
+    "baseStats": {
+      "DEF": 18,
+      "HP": 37
+    },
+    "blueprint": {
+      "gold": 2450,
+      "forgeSkillMin": 5,
+      "materials": [
+        {
+          "id": "mat_2007",
+          "qty": 7
+        },
+        {
+          "id": "mat_2010",
+          "qty": 3
+        }
+      ]
+    },
+    "zoneDrop": "zone_07",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1099",
+    "name": {
+      "en": "Breastplate T7",
+      "fa": "درجهٔ 7 زیرکاب"
+    },
+    "type": "ARMOR",
+    "slot": "ARMOR",
+    "tier": 7,
+    "rarity": "EPIC",
+    "levelReq": 56,
+    "baseStats": {
+      "DEF": 18,
+      "HP": 37
+    },
+    "blueprint": {
+      "gold": 2450,
+      "forgeSkillMin": 5,
+      "materials": [
+        {
+          "id": "mat_2007",
+          "qty": 7
+        },
+        {
+          "id": "mat_2010",
+          "qty": 3
+        }
+      ]
+    },
+    "zoneDrop": "zone_07",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1100",
+    "name": {
+      "en": "Copper Ring T7",
+      "fa": "درجهٔ 7 آسانه"
+    },
+    "type": "ACCESSORY",
+    "slot": "ACCESSORY",
+    "tier": 7,
+    "rarity": "EPIC",
+    "levelReq": 56,
+    "baseStats": {
+      "LUCK": 3.5,
+      "CRIT_DMG": 14
+    },
+    "blueprint": {
+      "gold": 2450,
+      "forgeSkillMin": 5,
+      "materials": [
+        {
+          "id": "mat_2007",
+          "qty": 7
+        },
+        {
+          "id": "mat_2010",
+          "qty": 3
+        }
+      ]
+    },
+    "zoneDrop": "zone_07",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1101",
+    "name": {
+      "en": "Iron Ring T7",
+      "fa": "درجهٔ 7 آسانه"
+    },
+    "type": "ACCESSORY",
+    "slot": "ACCESSORY",
+    "tier": 7,
+    "rarity": "EPIC",
+    "levelReq": 56,
+    "baseStats": {
+      "LUCK": 3.5,
+      "CRIT_DMG": 14
+    },
+    "blueprint": {
+      "gold": 2450,
+      "forgeSkillMin": 5,
+      "materials": [
+        {
+          "id": "mat_2007",
+          "qty": 7
+        },
+        {
+          "id": "mat_2010",
+          "qty": 3
+        }
+      ]
+    },
+    "zoneDrop": "zone_07",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1102",
+    "name": {
+      "en": "Iron Amulet T7",
+      "fa": "درجهٔ 7 آسانه"
+    },
+    "type": "ACCESSORY",
+    "slot": "ACCESSORY",
+    "tier": 7,
+    "rarity": "EPIC",
+    "levelReq": 56,
+    "baseStats": {
+      "LUCK": 3.5,
+      "CRIT_DMG": 14
+    },
+    "blueprint": {
+      "gold": 2450,
+      "forgeSkillMin": 5,
+      "materials": [
+        {
+          "id": "mat_2007",
+          "qty": 7
+        },
+        {
+          "id": "mat_2010",
+          "qty": 3
+        }
+      ]
+    },
+    "zoneDrop": "zone_07",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1103",
+    "name": {
+      "en": "Steel Pendant T7",
+      "fa": "درجهٔ 7 آسانه"
+    },
+    "type": "ACCESSORY",
+    "slot": "ACCESSORY",
+    "tier": 7,
+    "rarity": "EPIC",
+    "levelReq": 56,
+    "baseStats": {
+      "LUCK": 3.5,
+      "CRIT_DMG": 14
+    },
+    "blueprint": {
+      "gold": 2450,
+      "forgeSkillMin": 5,
+      "materials": [
+        {
+          "id": "mat_2007",
+          "qty": 7
+        },
+        {
+          "id": "mat_2010",
+          "qty": 3
+        }
+      ]
+    },
+    "zoneDrop": "zone_07",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1104",
+    "name": {
+      "en": "Ruby Talisman T7",
+      "fa": "درجهٔ 7 آسانه"
+    },
+    "type": "ACCESSORY",
+    "slot": "ACCESSORY",
+    "tier": 7,
+    "rarity": "EPIC",
+    "levelReq": 56,
+    "baseStats": {
+      "LUCK": 3.5,
+      "CRIT_DMG": 14
+    },
+    "blueprint": {
+      "gold": 2450,
+      "forgeSkillMin": 5,
+      "materials": [
+        {
+          "id": "mat_2007",
+          "qty": 7
+        },
+        {
+          "id": "mat_2010",
+          "qty": 3
+        }
+      ]
+    },
+    "zoneDrop": "zone_07",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1105",
+    "name": {
+      "en": "Rusty Dagger T8",
+      "fa": "درجهٔ 8 سلاح سلاح"
+    },
+    "type": "WEAPON",
+    "slot": "WEAPON",
+    "tier": 8,
+    "rarity": "EPIC",
+    "levelReq": 64,
+    "baseStats": {
+      "ATK": 27,
+      "CRIT_PCT": 7.8
+    },
+    "blueprint": {
+      "gold": 3200,
+      "forgeSkillMin": 6,
+      "materials": [
+        {
+          "id": "mat_2008",
+          "qty": 8
+        },
+        {
+          "id": "mat_2011",
+          "qty": 4
+        }
+      ]
+    },
+    "zoneDrop": "zone_08",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1106",
+    "name": {
+      "en": "Iron Dagger T8",
+      "fa": "درجهٔ 8 سلاح سلاح"
+    },
+    "type": "WEAPON",
+    "slot": "WEAPON",
+    "tier": 8,
+    "rarity": "EPIC",
+    "levelReq": 64,
+    "baseStats": {
+      "ATK": 27,
+      "CRIT_PCT": 7.8
+    },
+    "blueprint": {
+      "gold": 3200,
+      "forgeSkillMin": 6,
+      "materials": [
+        {
+          "id": "mat_2008",
+          "qty": 8
+        },
+        {
+          "id": "mat_2011",
+          "qty": 4
+        }
+      ]
+    },
+    "zoneDrop": "zone_08",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1107",
+    "name": {
+      "en": "Steel Dagger T8",
+      "fa": "درجهٔ 8 سلاح سلاح"
+    },
+    "type": "WEAPON",
+    "slot": "WEAPON",
+    "tier": 8,
+    "rarity": "EPIC",
+    "levelReq": 64,
+    "baseStats": {
+      "ATK": 27,
+      "CRIT_PCT": 7.8
+    },
+    "blueprint": {
+      "gold": 3200,
+      "forgeSkillMin": 6,
+      "materials": [
+        {
+          "id": "mat_2008",
+          "qty": 8
+        },
+        {
+          "id": "mat_2011",
+          "qty": 4
+        }
+      ]
+    },
+    "zoneDrop": "zone_08",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1108",
+    "name": {
+      "en": "Rusty Sword T8",
+      "fa": "درجهٔ 8 سلاح سلاح"
+    },
+    "type": "WEAPON",
+    "slot": "WEAPON",
+    "tier": 8,
+    "rarity": "EPIC",
+    "levelReq": 64,
+    "baseStats": {
+      "ATK": 27,
+      "CRIT_PCT": 7.8
+    },
+    "blueprint": {
+      "gold": 3200,
+      "forgeSkillMin": 6,
+      "materials": [
+        {
+          "id": "mat_2008",
+          "qty": 8
+        },
+        {
+          "id": "mat_2011",
+          "qty": 4
+        }
+      ]
+    },
+    "zoneDrop": "zone_08",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1109",
+    "name": {
+      "en": "Iron Sword T8",
+      "fa": "درجهٔ 8 سلاح سلاح"
+    },
+    "type": "WEAPON",
+    "slot": "WEAPON",
+    "tier": 8,
+    "rarity": "EPIC",
+    "levelReq": 64,
+    "baseStats": {
+      "ATK": 27,
+      "CRIT_PCT": 7.8
+    },
+    "blueprint": {
+      "gold": 3200,
+      "forgeSkillMin": 6,
+      "materials": [
+        {
+          "id": "mat_2008",
+          "qty": 8
+        },
+        {
+          "id": "mat_2011",
+          "qty": 4
+        }
+      ]
+    },
+    "zoneDrop": "zone_08",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1110",
+    "name": {
+      "en": "Padded Gambeson T8",
+      "fa": "درجهٔ 8 زیرکاب"
+    },
+    "type": "ARMOR",
+    "slot": "ARMOR",
+    "tier": 8,
+    "rarity": "EPIC",
+    "levelReq": 64,
+    "baseStats": {
+      "DEF": 20,
+      "HP": 41
+    },
+    "blueprint": {
+      "gold": 3200,
+      "forgeSkillMin": 6,
+      "materials": [
+        {
+          "id": "mat_2008",
+          "qty": 8
+        },
+        {
+          "id": "mat_2011",
+          "qty": 4
+        }
+      ]
+    },
+    "zoneDrop": "zone_08",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1111",
+    "name": {
+      "en": "Leather Cuirass T8",
+      "fa": "درجهٔ 8 زیرکاب"
+    },
+    "type": "ARMOR",
+    "slot": "ARMOR",
+    "tier": 8,
+    "rarity": "EPIC",
+    "levelReq": 64,
+    "baseStats": {
+      "DEF": 20,
+      "HP": 41
+    },
+    "blueprint": {
+      "gold": 3200,
+      "forgeSkillMin": 6,
+      "materials": [
+        {
+          "id": "mat_2008",
+          "qty": 8
+        },
+        {
+          "id": "mat_2011",
+          "qty": 4
+        }
+      ]
+    },
+    "zoneDrop": "zone_08",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1112",
+    "name": {
+      "en": "Chain Shirt T8",
+      "fa": "درجهٔ 8 زیرکاب"
+    },
+    "type": "ARMOR",
+    "slot": "ARMOR",
+    "tier": 8,
+    "rarity": "EPIC",
+    "levelReq": 64,
+    "baseStats": {
+      "DEF": 20,
+      "HP": 41
+    },
+    "blueprint": {
+      "gold": 3200,
+      "forgeSkillMin": 6,
+      "materials": [
+        {
+          "id": "mat_2008",
+          "qty": 8
+        },
+        {
+          "id": "mat_2011",
+          "qty": 4
+        }
+      ]
+    },
+    "zoneDrop": "zone_08",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1113",
+    "name": {
+      "en": "Scale Vest T8",
+      "fa": "درجهٔ 8 زیرکاب"
+    },
+    "type": "ARMOR",
+    "slot": "ARMOR",
+    "tier": 8,
+    "rarity": "EPIC",
+    "levelReq": 64,
+    "baseStats": {
+      "DEF": 20,
+      "HP": 41
+    },
+    "blueprint": {
+      "gold": 3200,
+      "forgeSkillMin": 6,
+      "materials": [
+        {
+          "id": "mat_2008",
+          "qty": 8
+        },
+        {
+          "id": "mat_2011",
+          "qty": 4
+        }
+      ]
+    },
+    "zoneDrop": "zone_08",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1114",
+    "name": {
+      "en": "Breastplate T8",
+      "fa": "درجهٔ 8 زیرکاب"
+    },
+    "type": "ARMOR",
+    "slot": "ARMOR",
+    "tier": 8,
+    "rarity": "EPIC",
+    "levelReq": 64,
+    "baseStats": {
+      "DEF": 20,
+      "HP": 41
+    },
+    "blueprint": {
+      "gold": 3200,
+      "forgeSkillMin": 6,
+      "materials": [
+        {
+          "id": "mat_2008",
+          "qty": 8
+        },
+        {
+          "id": "mat_2011",
+          "qty": 4
+        }
+      ]
+    },
+    "zoneDrop": "zone_08",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1115",
+    "name": {
+      "en": "Copper Ring T8",
+      "fa": "درجهٔ 8 آسانه"
+    },
+    "type": "ACCESSORY",
+    "slot": "ACCESSORY",
+    "tier": 8,
+    "rarity": "EPIC",
+    "levelReq": 64,
+    "baseStats": {
+      "LUCK": 4.0,
+      "CRIT_DMG": 16
+    },
+    "blueprint": {
+      "gold": 3200,
+      "forgeSkillMin": 6,
+      "materials": [
+        {
+          "id": "mat_2008",
+          "qty": 8
+        },
+        {
+          "id": "mat_2011",
+          "qty": 4
+        }
+      ]
+    },
+    "zoneDrop": "zone_08",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1116",
+    "name": {
+      "en": "Iron Ring T8",
+      "fa": "درجهٔ 8 آسانه"
+    },
+    "type": "ACCESSORY",
+    "slot": "ACCESSORY",
+    "tier": 8,
+    "rarity": "EPIC",
+    "levelReq": 64,
+    "baseStats": {
+      "LUCK": 4.0,
+      "CRIT_DMG": 16
+    },
+    "blueprint": {
+      "gold": 3200,
+      "forgeSkillMin": 6,
+      "materials": [
+        {
+          "id": "mat_2008",
+          "qty": 8
+        },
+        {
+          "id": "mat_2011",
+          "qty": 4
+        }
+      ]
+    },
+    "zoneDrop": "zone_08",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1117",
+    "name": {
+      "en": "Iron Amulet T8",
+      "fa": "درجهٔ 8 آسانه"
+    },
+    "type": "ACCESSORY",
+    "slot": "ACCESSORY",
+    "tier": 8,
+    "rarity": "EPIC",
+    "levelReq": 64,
+    "baseStats": {
+      "LUCK": 4.0,
+      "CRIT_DMG": 16
+    },
+    "blueprint": {
+      "gold": 3200,
+      "forgeSkillMin": 6,
+      "materials": [
+        {
+          "id": "mat_2008",
+          "qty": 8
+        },
+        {
+          "id": "mat_2011",
+          "qty": 4
+        }
+      ]
+    },
+    "zoneDrop": "zone_08",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1118",
+    "name": {
+      "en": "Steel Pendant T8",
+      "fa": "درجهٔ 8 آسانه"
+    },
+    "type": "ACCESSORY",
+    "slot": "ACCESSORY",
+    "tier": 8,
+    "rarity": "EPIC",
+    "levelReq": 64,
+    "baseStats": {
+      "LUCK": 4.0,
+      "CRIT_DMG": 16
+    },
+    "blueprint": {
+      "gold": 3200,
+      "forgeSkillMin": 6,
+      "materials": [
+        {
+          "id": "mat_2008",
+          "qty": 8
+        },
+        {
+          "id": "mat_2011",
+          "qty": 4
+        }
+      ]
+    },
+    "zoneDrop": "zone_08",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1119",
+    "name": {
+      "en": "Ruby Talisman T8",
+      "fa": "درجهٔ 8 آسانه"
+    },
+    "type": "ACCESSORY",
+    "slot": "ACCESSORY",
+    "tier": 8,
+    "rarity": "EPIC",
+    "levelReq": 64,
+    "baseStats": {
+      "LUCK": 4.0,
+      "CRIT_DMG": 16
+    },
+    "blueprint": {
+      "gold": 3200,
+      "forgeSkillMin": 6,
+      "materials": [
+        {
+          "id": "mat_2008",
+          "qty": 8
+        },
+        {
+          "id": "mat_2011",
+          "qty": 4
+        }
+      ]
+    },
+    "zoneDrop": "zone_08",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1120",
+    "name": {
+      "en": "Rusty Dagger T9",
+      "fa": "درجهٔ 9 سلاح سلاح"
+    },
+    "type": "WEAPON",
+    "slot": "WEAPON",
+    "tier": 9,
+    "rarity": "LEGENDARY",
+    "levelReq": 72,
+    "baseStats": {
+      "ATK": 30,
+      "CRIT_PCT": 8.4
+    },
+    "blueprint": {
+      "gold": 4050,
+      "forgeSkillMin": 7,
+      "materials": [
+        {
+          "id": "mat_2009",
+          "qty": 9
+        },
+        {
+          "id": "mat_2000",
+          "qty": 4
+        }
+      ]
+    },
+    "zoneDrop": "zone_09",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1121",
+    "name": {
+      "en": "Iron Dagger T9",
+      "fa": "درجهٔ 9 سلاح سلاح"
+    },
+    "type": "WEAPON",
+    "slot": "WEAPON",
+    "tier": 9,
+    "rarity": "LEGENDARY",
+    "levelReq": 72,
+    "baseStats": {
+      "ATK": 30,
+      "CRIT_PCT": 8.4
+    },
+    "blueprint": {
+      "gold": 4050,
+      "forgeSkillMin": 7,
+      "materials": [
+        {
+          "id": "mat_2009",
+          "qty": 9
+        },
+        {
+          "id": "mat_2000",
+          "qty": 4
+        }
+      ]
+    },
+    "zoneDrop": "zone_09",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1122",
+    "name": {
+      "en": "Steel Dagger T9",
+      "fa": "درجهٔ 9 سلاح سلاح"
+    },
+    "type": "WEAPON",
+    "slot": "WEAPON",
+    "tier": 9,
+    "rarity": "LEGENDARY",
+    "levelReq": 72,
+    "baseStats": {
+      "ATK": 30,
+      "CRIT_PCT": 8.4
+    },
+    "blueprint": {
+      "gold": 4050,
+      "forgeSkillMin": 7,
+      "materials": [
+        {
+          "id": "mat_2009",
+          "qty": 9
+        },
+        {
+          "id": "mat_2000",
+          "qty": 4
+        }
+      ]
+    },
+    "zoneDrop": "zone_09",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1123",
+    "name": {
+      "en": "Rusty Sword T9",
+      "fa": "درجهٔ 9 سلاح سلاح"
+    },
+    "type": "WEAPON",
+    "slot": "WEAPON",
+    "tier": 9,
+    "rarity": "LEGENDARY",
+    "levelReq": 72,
+    "baseStats": {
+      "ATK": 30,
+      "CRIT_PCT": 8.4
+    },
+    "blueprint": {
+      "gold": 4050,
+      "forgeSkillMin": 7,
+      "materials": [
+        {
+          "id": "mat_2009",
+          "qty": 9
+        },
+        {
+          "id": "mat_2000",
+          "qty": 4
+        }
+      ]
+    },
+    "zoneDrop": "zone_09",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1124",
+    "name": {
+      "en": "Iron Sword T9",
+      "fa": "درجهٔ 9 سلاح سلاح"
+    },
+    "type": "WEAPON",
+    "slot": "WEAPON",
+    "tier": 9,
+    "rarity": "LEGENDARY",
+    "levelReq": 72,
+    "baseStats": {
+      "ATK": 30,
+      "CRIT_PCT": 8.4
+    },
+    "blueprint": {
+      "gold": 4050,
+      "forgeSkillMin": 7,
+      "materials": [
+        {
+          "id": "mat_2009",
+          "qty": 9
+        },
+        {
+          "id": "mat_2000",
+          "qty": 4
+        }
+      ]
+    },
+    "zoneDrop": "zone_09",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1125",
+    "name": {
+      "en": "Padded Gambeson T9",
+      "fa": "درجهٔ 9 زیرکاب"
+    },
+    "type": "ARMOR",
+    "slot": "ARMOR",
+    "tier": 9,
+    "rarity": "LEGENDARY",
+    "levelReq": 72,
+    "baseStats": {
+      "DEF": 22,
+      "HP": 45
+    },
+    "blueprint": {
+      "gold": 4050,
+      "forgeSkillMin": 7,
+      "materials": [
+        {
+          "id": "mat_2009",
+          "qty": 9
+        },
+        {
+          "id": "mat_2000",
+          "qty": 4
+        }
+      ]
+    },
+    "zoneDrop": "zone_09",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1126",
+    "name": {
+      "en": "Leather Cuirass T9",
+      "fa": "درجهٔ 9 زیرکاب"
+    },
+    "type": "ARMOR",
+    "slot": "ARMOR",
+    "tier": 9,
+    "rarity": "LEGENDARY",
+    "levelReq": 72,
+    "baseStats": {
+      "DEF": 22,
+      "HP": 45
+    },
+    "blueprint": {
+      "gold": 4050,
+      "forgeSkillMin": 7,
+      "materials": [
+        {
+          "id": "mat_2009",
+          "qty": 9
+        },
+        {
+          "id": "mat_2000",
+          "qty": 4
+        }
+      ]
+    },
+    "zoneDrop": "zone_09",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1127",
+    "name": {
+      "en": "Chain Shirt T9",
+      "fa": "درجهٔ 9 زیرکاب"
+    },
+    "type": "ARMOR",
+    "slot": "ARMOR",
+    "tier": 9,
+    "rarity": "LEGENDARY",
+    "levelReq": 72,
+    "baseStats": {
+      "DEF": 22,
+      "HP": 45
+    },
+    "blueprint": {
+      "gold": 4050,
+      "forgeSkillMin": 7,
+      "materials": [
+        {
+          "id": "mat_2009",
+          "qty": 9
+        },
+        {
+          "id": "mat_2000",
+          "qty": 4
+        }
+      ]
+    },
+    "zoneDrop": "zone_09",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1128",
+    "name": {
+      "en": "Scale Vest T9",
+      "fa": "درجهٔ 9 زیرکاب"
+    },
+    "type": "ARMOR",
+    "slot": "ARMOR",
+    "tier": 9,
+    "rarity": "LEGENDARY",
+    "levelReq": 72,
+    "baseStats": {
+      "DEF": 22,
+      "HP": 45
+    },
+    "blueprint": {
+      "gold": 4050,
+      "forgeSkillMin": 7,
+      "materials": [
+        {
+          "id": "mat_2009",
+          "qty": 9
+        },
+        {
+          "id": "mat_2000",
+          "qty": 4
+        }
+      ]
+    },
+    "zoneDrop": "zone_09",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1129",
+    "name": {
+      "en": "Breastplate T9",
+      "fa": "درجهٔ 9 زیرکاب"
+    },
+    "type": "ARMOR",
+    "slot": "ARMOR",
+    "tier": 9,
+    "rarity": "LEGENDARY",
+    "levelReq": 72,
+    "baseStats": {
+      "DEF": 22,
+      "HP": 45
+    },
+    "blueprint": {
+      "gold": 4050,
+      "forgeSkillMin": 7,
+      "materials": [
+        {
+          "id": "mat_2009",
+          "qty": 9
+        },
+        {
+          "id": "mat_2000",
+          "qty": 4
+        }
+      ]
+    },
+    "zoneDrop": "zone_09",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1130",
+    "name": {
+      "en": "Copper Ring T9",
+      "fa": "درجهٔ 9 آسانه"
+    },
+    "type": "ACCESSORY",
+    "slot": "ACCESSORY",
+    "tier": 9,
+    "rarity": "LEGENDARY",
+    "levelReq": 72,
+    "baseStats": {
+      "LUCK": 4.5,
+      "CRIT_DMG": 18
+    },
+    "blueprint": {
+      "gold": 4050,
+      "forgeSkillMin": 7,
+      "materials": [
+        {
+          "id": "mat_2009",
+          "qty": 9
+        },
+        {
+          "id": "mat_2000",
+          "qty": 4
+        }
+      ]
+    },
+    "zoneDrop": "zone_09",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1131",
+    "name": {
+      "en": "Iron Ring T9",
+      "fa": "درجهٔ 9 آسانه"
+    },
+    "type": "ACCESSORY",
+    "slot": "ACCESSORY",
+    "tier": 9,
+    "rarity": "LEGENDARY",
+    "levelReq": 72,
+    "baseStats": {
+      "LUCK": 4.5,
+      "CRIT_DMG": 18
+    },
+    "blueprint": {
+      "gold": 4050,
+      "forgeSkillMin": 7,
+      "materials": [
+        {
+          "id": "mat_2009",
+          "qty": 9
+        },
+        {
+          "id": "mat_2000",
+          "qty": 4
+        }
+      ]
+    },
+    "zoneDrop": "zone_09",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1132",
+    "name": {
+      "en": "Iron Amulet T9",
+      "fa": "درجهٔ 9 آسانه"
+    },
+    "type": "ACCESSORY",
+    "slot": "ACCESSORY",
+    "tier": 9,
+    "rarity": "LEGENDARY",
+    "levelReq": 72,
+    "baseStats": {
+      "LUCK": 4.5,
+      "CRIT_DMG": 18
+    },
+    "blueprint": {
+      "gold": 4050,
+      "forgeSkillMin": 7,
+      "materials": [
+        {
+          "id": "mat_2009",
+          "qty": 9
+        },
+        {
+          "id": "mat_2000",
+          "qty": 4
+        }
+      ]
+    },
+    "zoneDrop": "zone_09",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1133",
+    "name": {
+      "en": "Steel Pendant T9",
+      "fa": "درجهٔ 9 آسانه"
+    },
+    "type": "ACCESSORY",
+    "slot": "ACCESSORY",
+    "tier": 9,
+    "rarity": "LEGENDARY",
+    "levelReq": 72,
+    "baseStats": {
+      "LUCK": 4.5,
+      "CRIT_DMG": 18
+    },
+    "blueprint": {
+      "gold": 4050,
+      "forgeSkillMin": 7,
+      "materials": [
+        {
+          "id": "mat_2009",
+          "qty": 9
+        },
+        {
+          "id": "mat_2000",
+          "qty": 4
+        }
+      ]
+    },
+    "zoneDrop": "zone_09",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1134",
+    "name": {
+      "en": "Ruby Talisman T9",
+      "fa": "درجهٔ 9 آسانه"
+    },
+    "type": "ACCESSORY",
+    "slot": "ACCESSORY",
+    "tier": 9,
+    "rarity": "LEGENDARY",
+    "levelReq": 72,
+    "baseStats": {
+      "LUCK": 4.5,
+      "CRIT_DMG": 18
+    },
+    "blueprint": {
+      "gold": 4050,
+      "forgeSkillMin": 7,
+      "materials": [
+        {
+          "id": "mat_2009",
+          "qty": 9
+        },
+        {
+          "id": "mat_2000",
+          "qty": 4
+        }
+      ]
+    },
+    "zoneDrop": "zone_09",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1135",
+    "name": {
+      "en": "Rusty Dagger T10",
+      "fa": "درجهٔ 10 سلاح سلاح"
+    },
+    "type": "WEAPON",
+    "slot": "WEAPON",
+    "tier": 10,
+    "rarity": "LEGENDARY",
+    "levelReq": 80,
+    "baseStats": {
+      "ATK": 33,
+      "CRIT_PCT": 9.0
+    },
+    "blueprint": {
+      "gold": 5000,
+      "forgeSkillMin": 8,
+      "materials": [
+        {
+          "id": "mat_2010",
+          "qty": 10
+        },
+        {
+          "id": "mat_2001",
+          "qty": 5
+        }
+      ]
+    },
+    "zoneDrop": "zone_10",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1136",
+    "name": {
+      "en": "Iron Dagger T10",
+      "fa": "درجهٔ 10 سلاح سلاح"
+    },
+    "type": "WEAPON",
+    "slot": "WEAPON",
+    "tier": 10,
+    "rarity": "LEGENDARY",
+    "levelReq": 80,
+    "baseStats": {
+      "ATK": 33,
+      "CRIT_PCT": 9.0
+    },
+    "blueprint": {
+      "gold": 5000,
+      "forgeSkillMin": 8,
+      "materials": [
+        {
+          "id": "mat_2010",
+          "qty": 10
+        },
+        {
+          "id": "mat_2001",
+          "qty": 5
+        }
+      ]
+    },
+    "zoneDrop": "zone_10",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1137",
+    "name": {
+      "en": "Steel Dagger T10",
+      "fa": "درجهٔ 10 سلاح سلاح"
+    },
+    "type": "WEAPON",
+    "slot": "WEAPON",
+    "tier": 10,
+    "rarity": "LEGENDARY",
+    "levelReq": 80,
+    "baseStats": {
+      "ATK": 33,
+      "CRIT_PCT": 9.0
+    },
+    "blueprint": {
+      "gold": 5000,
+      "forgeSkillMin": 8,
+      "materials": [
+        {
+          "id": "mat_2010",
+          "qty": 10
+        },
+        {
+          "id": "mat_2001",
+          "qty": 5
+        }
+      ]
+    },
+    "zoneDrop": "zone_10",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1138",
+    "name": {
+      "en": "Rusty Sword T10",
+      "fa": "درجهٔ 10 سلاح سلاح"
+    },
+    "type": "WEAPON",
+    "slot": "WEAPON",
+    "tier": 10,
+    "rarity": "LEGENDARY",
+    "levelReq": 80,
+    "baseStats": {
+      "ATK": 33,
+      "CRIT_PCT": 9.0
+    },
+    "blueprint": {
+      "gold": 5000,
+      "forgeSkillMin": 8,
+      "materials": [
+        {
+          "id": "mat_2010",
+          "qty": 10
+        },
+        {
+          "id": "mat_2001",
+          "qty": 5
+        }
+      ]
+    },
+    "zoneDrop": "zone_10",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1139",
+    "name": {
+      "en": "Iron Sword T10",
+      "fa": "درجهٔ 10 سلاح سلاح"
+    },
+    "type": "WEAPON",
+    "slot": "WEAPON",
+    "tier": 10,
+    "rarity": "LEGENDARY",
+    "levelReq": 80,
+    "baseStats": {
+      "ATK": 33,
+      "CRIT_PCT": 9.0
+    },
+    "blueprint": {
+      "gold": 5000,
+      "forgeSkillMin": 8,
+      "materials": [
+        {
+          "id": "mat_2010",
+          "qty": 10
+        },
+        {
+          "id": "mat_2001",
+          "qty": 5
+        }
+      ]
+    },
+    "zoneDrop": "zone_10",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1140",
+    "name": {
+      "en": "Padded Gambeson T10",
+      "fa": "درجهٔ 10 زیرکاب"
+    },
+    "type": "ARMOR",
+    "slot": "ARMOR",
+    "tier": 10,
+    "rarity": "LEGENDARY",
+    "levelReq": 80,
+    "baseStats": {
+      "DEF": 24,
+      "HP": 49
+    },
+    "blueprint": {
+      "gold": 5000,
+      "forgeSkillMin": 8,
+      "materials": [
+        {
+          "id": "mat_2010",
+          "qty": 10
+        },
+        {
+          "id": "mat_2001",
+          "qty": 5
+        }
+      ]
+    },
+    "zoneDrop": "zone_10",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1141",
+    "name": {
+      "en": "Leather Cuirass T10",
+      "fa": "درجهٔ 10 زیرکاب"
+    },
+    "type": "ARMOR",
+    "slot": "ARMOR",
+    "tier": 10,
+    "rarity": "LEGENDARY",
+    "levelReq": 80,
+    "baseStats": {
+      "DEF": 24,
+      "HP": 49
+    },
+    "blueprint": {
+      "gold": 5000,
+      "forgeSkillMin": 8,
+      "materials": [
+        {
+          "id": "mat_2010",
+          "qty": 10
+        },
+        {
+          "id": "mat_2001",
+          "qty": 5
+        }
+      ]
+    },
+    "zoneDrop": "zone_10",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1142",
+    "name": {
+      "en": "Chain Shirt T10",
+      "fa": "درجهٔ 10 زیرکاب"
+    },
+    "type": "ARMOR",
+    "slot": "ARMOR",
+    "tier": 10,
+    "rarity": "LEGENDARY",
+    "levelReq": 80,
+    "baseStats": {
+      "DEF": 24,
+      "HP": 49
+    },
+    "blueprint": {
+      "gold": 5000,
+      "forgeSkillMin": 8,
+      "materials": [
+        {
+          "id": "mat_2010",
+          "qty": 10
+        },
+        {
+          "id": "mat_2001",
+          "qty": 5
+        }
+      ]
+    },
+    "zoneDrop": "zone_10",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1143",
+    "name": {
+      "en": "Scale Vest T10",
+      "fa": "درجهٔ 10 زیرکاب"
+    },
+    "type": "ARMOR",
+    "slot": "ARMOR",
+    "tier": 10,
+    "rarity": "LEGENDARY",
+    "levelReq": 80,
+    "baseStats": {
+      "DEF": 24,
+      "HP": 49
+    },
+    "blueprint": {
+      "gold": 5000,
+      "forgeSkillMin": 8,
+      "materials": [
+        {
+          "id": "mat_2010",
+          "qty": 10
+        },
+        {
+          "id": "mat_2001",
+          "qty": 5
+        }
+      ]
+    },
+    "zoneDrop": "zone_10",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1144",
+    "name": {
+      "en": "Breastplate T10",
+      "fa": "درجهٔ 10 زیرکاب"
+    },
+    "type": "ARMOR",
+    "slot": "ARMOR",
+    "tier": 10,
+    "rarity": "LEGENDARY",
+    "levelReq": 80,
+    "baseStats": {
+      "DEF": 24,
+      "HP": 49
+    },
+    "blueprint": {
+      "gold": 5000,
+      "forgeSkillMin": 8,
+      "materials": [
+        {
+          "id": "mat_2010",
+          "qty": 10
+        },
+        {
+          "id": "mat_2001",
+          "qty": 5
+        }
+      ]
+    },
+    "zoneDrop": "zone_10",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1145",
+    "name": {
+      "en": "Copper Ring T10",
+      "fa": "درجهٔ 10 آسانه"
+    },
+    "type": "ACCESSORY",
+    "slot": "ACCESSORY",
+    "tier": 10,
+    "rarity": "LEGENDARY",
+    "levelReq": 80,
+    "baseStats": {
+      "LUCK": 5.0,
+      "CRIT_DMG": 20
+    },
+    "blueprint": {
+      "gold": 5000,
+      "forgeSkillMin": 8,
+      "materials": [
+        {
+          "id": "mat_2010",
+          "qty": 10
+        },
+        {
+          "id": "mat_2001",
+          "qty": 5
+        }
+      ]
+    },
+    "zoneDrop": "zone_10",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1146",
+    "name": {
+      "en": "Iron Ring T10",
+      "fa": "درجهٔ 10 آسانه"
+    },
+    "type": "ACCESSORY",
+    "slot": "ACCESSORY",
+    "tier": 10,
+    "rarity": "LEGENDARY",
+    "levelReq": 80,
+    "baseStats": {
+      "LUCK": 5.0,
+      "CRIT_DMG": 20
+    },
+    "blueprint": {
+      "gold": 5000,
+      "forgeSkillMin": 8,
+      "materials": [
+        {
+          "id": "mat_2010",
+          "qty": 10
+        },
+        {
+          "id": "mat_2001",
+          "qty": 5
+        }
+      ]
+    },
+    "zoneDrop": "zone_10",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1147",
+    "name": {
+      "en": "Iron Amulet T10",
+      "fa": "درجهٔ 10 آسانه"
+    },
+    "type": "ACCESSORY",
+    "slot": "ACCESSORY",
+    "tier": 10,
+    "rarity": "LEGENDARY",
+    "levelReq": 80,
+    "baseStats": {
+      "LUCK": 5.0,
+      "CRIT_DMG": 20
+    },
+    "blueprint": {
+      "gold": 5000,
+      "forgeSkillMin": 8,
+      "materials": [
+        {
+          "id": "mat_2010",
+          "qty": 10
+        },
+        {
+          "id": "mat_2001",
+          "qty": 5
+        }
+      ]
+    },
+    "zoneDrop": "zone_10",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1148",
+    "name": {
+      "en": "Steel Pendant T10",
+      "fa": "درجهٔ 10 آسانه"
+    },
+    "type": "ACCESSORY",
+    "slot": "ACCESSORY",
+    "tier": 10,
+    "rarity": "LEGENDARY",
+    "levelReq": 80,
+    "baseStats": {
+      "LUCK": 5.0,
+      "CRIT_DMG": 20
+    },
+    "blueprint": {
+      "gold": 5000,
+      "forgeSkillMin": 8,
+      "materials": [
+        {
+          "id": "mat_2010",
+          "qty": 10
+        },
+        {
+          "id": "mat_2001",
+          "qty": 5
+        }
+      ]
+    },
+    "zoneDrop": "zone_10",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1149",
+    "name": {
+      "en": "Ruby Talisman T10",
+      "fa": "درجهٔ 10 آسانه"
+    },
+    "type": "ACCESSORY",
+    "slot": "ACCESSORY",
+    "tier": 10,
+    "rarity": "LEGENDARY",
+    "levelReq": 80,
+    "baseStats": {
+      "LUCK": 5.0,
+      "CRIT_DMG": 20
+    },
+    "blueprint": {
+      "gold": 5000,
+      "forgeSkillMin": 8,
+      "materials": [
+        {
+          "id": "mat_2010",
+          "qty": 10
+        },
+        {
+          "id": "mat_2001",
+          "qty": 5
+        }
+      ]
+    },
+    "zoneDrop": "zone_10",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1150",
+    "name": {
+      "en": "Rusty Dagger T11",
+      "fa": "درجهٔ 11 سلاح سلاح"
+    },
+    "type": "WEAPON",
+    "slot": "WEAPON",
+    "tier": 11,
+    "rarity": "MYTHIC",
+    "levelReq": 88,
+    "baseStats": {
+      "ATK": 36,
+      "CRIT_PCT": 9.6
+    },
+    "blueprint": {
+      "gold": 6050,
+      "forgeSkillMin": 9,
+      "materials": [
+        {
+          "id": "mat_2011",
+          "qty": 11
+        },
+        {
+          "id": "mat_2002",
+          "qty": 5
+        }
+      ]
+    },
+    "zoneDrop": "zone_01",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1151",
+    "name": {
+      "en": "Iron Dagger T11",
+      "fa": "درجهٔ 11 سلاح سلاح"
+    },
+    "type": "WEAPON",
+    "slot": "WEAPON",
+    "tier": 11,
+    "rarity": "MYTHIC",
+    "levelReq": 88,
+    "baseStats": {
+      "ATK": 36,
+      "CRIT_PCT": 9.6
+    },
+    "blueprint": {
+      "gold": 6050,
+      "forgeSkillMin": 9,
+      "materials": [
+        {
+          "id": "mat_2011",
+          "qty": 11
+        },
+        {
+          "id": "mat_2002",
+          "qty": 5
+        }
+      ]
+    },
+    "zoneDrop": "zone_01",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1152",
+    "name": {
+      "en": "Steel Dagger T11",
+      "fa": "درجهٔ 11 سلاح سلاح"
+    },
+    "type": "WEAPON",
+    "slot": "WEAPON",
+    "tier": 11,
+    "rarity": "MYTHIC",
+    "levelReq": 88,
+    "baseStats": {
+      "ATK": 36,
+      "CRIT_PCT": 9.6
+    },
+    "blueprint": {
+      "gold": 6050,
+      "forgeSkillMin": 9,
+      "materials": [
+        {
+          "id": "mat_2011",
+          "qty": 11
+        },
+        {
+          "id": "mat_2002",
+          "qty": 5
+        }
+      ]
+    },
+    "zoneDrop": "zone_01",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1153",
+    "name": {
+      "en": "Rusty Sword T11",
+      "fa": "درجهٔ 11 سلاح سلاح"
+    },
+    "type": "WEAPON",
+    "slot": "WEAPON",
+    "tier": 11,
+    "rarity": "MYTHIC",
+    "levelReq": 88,
+    "baseStats": {
+      "ATK": 36,
+      "CRIT_PCT": 9.6
+    },
+    "blueprint": {
+      "gold": 6050,
+      "forgeSkillMin": 9,
+      "materials": [
+        {
+          "id": "mat_2011",
+          "qty": 11
+        },
+        {
+          "id": "mat_2002",
+          "qty": 5
+        }
+      ]
+    },
+    "zoneDrop": "zone_01",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1154",
+    "name": {
+      "en": "Iron Sword T11",
+      "fa": "درجهٔ 11 سلاح سلاح"
+    },
+    "type": "WEAPON",
+    "slot": "WEAPON",
+    "tier": 11,
+    "rarity": "MYTHIC",
+    "levelReq": 88,
+    "baseStats": {
+      "ATK": 36,
+      "CRIT_PCT": 9.6
+    },
+    "blueprint": {
+      "gold": 6050,
+      "forgeSkillMin": 9,
+      "materials": [
+        {
+          "id": "mat_2011",
+          "qty": 11
+        },
+        {
+          "id": "mat_2002",
+          "qty": 5
+        }
+      ]
+    },
+    "zoneDrop": "zone_01",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1155",
+    "name": {
+      "en": "Padded Gambeson T11",
+      "fa": "درجهٔ 11 زیرکاب"
+    },
+    "type": "ARMOR",
+    "slot": "ARMOR",
+    "tier": 11,
+    "rarity": "MYTHIC",
+    "levelReq": 88,
+    "baseStats": {
+      "DEF": 27,
+      "HP": 54
+    },
+    "blueprint": {
+      "gold": 6050,
+      "forgeSkillMin": 9,
+      "materials": [
+        {
+          "id": "mat_2011",
+          "qty": 11
+        },
+        {
+          "id": "mat_2002",
+          "qty": 5
+        }
+      ]
+    },
+    "zoneDrop": "zone_01",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1156",
+    "name": {
+      "en": "Leather Cuirass T11",
+      "fa": "درجهٔ 11 زیرکاب"
+    },
+    "type": "ARMOR",
+    "slot": "ARMOR",
+    "tier": 11,
+    "rarity": "MYTHIC",
+    "levelReq": 88,
+    "baseStats": {
+      "DEF": 27,
+      "HP": 54
+    },
+    "blueprint": {
+      "gold": 6050,
+      "forgeSkillMin": 9,
+      "materials": [
+        {
+          "id": "mat_2011",
+          "qty": 11
+        },
+        {
+          "id": "mat_2002",
+          "qty": 5
+        }
+      ]
+    },
+    "zoneDrop": "zone_01",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1157",
+    "name": {
+      "en": "Chain Shirt T11",
+      "fa": "درجهٔ 11 زیرکاب"
+    },
+    "type": "ARMOR",
+    "slot": "ARMOR",
+    "tier": 11,
+    "rarity": "MYTHIC",
+    "levelReq": 88,
+    "baseStats": {
+      "DEF": 27,
+      "HP": 54
+    },
+    "blueprint": {
+      "gold": 6050,
+      "forgeSkillMin": 9,
+      "materials": [
+        {
+          "id": "mat_2011",
+          "qty": 11
+        },
+        {
+          "id": "mat_2002",
+          "qty": 5
+        }
+      ]
+    },
+    "zoneDrop": "zone_01",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1158",
+    "name": {
+      "en": "Scale Vest T11",
+      "fa": "درجهٔ 11 زیرکاب"
+    },
+    "type": "ARMOR",
+    "slot": "ARMOR",
+    "tier": 11,
+    "rarity": "MYTHIC",
+    "levelReq": 88,
+    "baseStats": {
+      "DEF": 27,
+      "HP": 54
+    },
+    "blueprint": {
+      "gold": 6050,
+      "forgeSkillMin": 9,
+      "materials": [
+        {
+          "id": "mat_2011",
+          "qty": 11
+        },
+        {
+          "id": "mat_2002",
+          "qty": 5
+        }
+      ]
+    },
+    "zoneDrop": "zone_01",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1159",
+    "name": {
+      "en": "Breastplate T11",
+      "fa": "درجهٔ 11 زیرکاب"
+    },
+    "type": "ARMOR",
+    "slot": "ARMOR",
+    "tier": 11,
+    "rarity": "MYTHIC",
+    "levelReq": 88,
+    "baseStats": {
+      "DEF": 27,
+      "HP": 54
+    },
+    "blueprint": {
+      "gold": 6050,
+      "forgeSkillMin": 9,
+      "materials": [
+        {
+          "id": "mat_2011",
+          "qty": 11
+        },
+        {
+          "id": "mat_2002",
+          "qty": 5
+        }
+      ]
+    },
+    "zoneDrop": "zone_01",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1160",
+    "name": {
+      "en": "Copper Ring T11",
+      "fa": "درجهٔ 11 آسانه"
+    },
+    "type": "ACCESSORY",
+    "slot": "ACCESSORY",
+    "tier": 11,
+    "rarity": "MYTHIC",
+    "levelReq": 88,
+    "baseStats": {
+      "LUCK": 5.5,
+      "CRIT_DMG": 22
+    },
+    "blueprint": {
+      "gold": 6050,
+      "forgeSkillMin": 9,
+      "materials": [
+        {
+          "id": "mat_2011",
+          "qty": 11
+        },
+        {
+          "id": "mat_2002",
+          "qty": 5
+        }
+      ]
+    },
+    "zoneDrop": "zone_01",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1161",
+    "name": {
+      "en": "Iron Ring T11",
+      "fa": "درجهٔ 11 آسانه"
+    },
+    "type": "ACCESSORY",
+    "slot": "ACCESSORY",
+    "tier": 11,
+    "rarity": "MYTHIC",
+    "levelReq": 88,
+    "baseStats": {
+      "LUCK": 5.5,
+      "CRIT_DMG": 22
+    },
+    "blueprint": {
+      "gold": 6050,
+      "forgeSkillMin": 9,
+      "materials": [
+        {
+          "id": "mat_2011",
+          "qty": 11
+        },
+        {
+          "id": "mat_2002",
+          "qty": 5
+        }
+      ]
+    },
+    "zoneDrop": "zone_01",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1162",
+    "name": {
+      "en": "Iron Amulet T11",
+      "fa": "درجهٔ 11 آسانه"
+    },
+    "type": "ACCESSORY",
+    "slot": "ACCESSORY",
+    "tier": 11,
+    "rarity": "MYTHIC",
+    "levelReq": 88,
+    "baseStats": {
+      "LUCK": 5.5,
+      "CRIT_DMG": 22
+    },
+    "blueprint": {
+      "gold": 6050,
+      "forgeSkillMin": 9,
+      "materials": [
+        {
+          "id": "mat_2011",
+          "qty": 11
+        },
+        {
+          "id": "mat_2002",
+          "qty": 5
+        }
+      ]
+    },
+    "zoneDrop": "zone_01",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1163",
+    "name": {
+      "en": "Steel Pendant T11",
+      "fa": "درجهٔ 11 آسانه"
+    },
+    "type": "ACCESSORY",
+    "slot": "ACCESSORY",
+    "tier": 11,
+    "rarity": "MYTHIC",
+    "levelReq": 88,
+    "baseStats": {
+      "LUCK": 5.5,
+      "CRIT_DMG": 22
+    },
+    "blueprint": {
+      "gold": 6050,
+      "forgeSkillMin": 9,
+      "materials": [
+        {
+          "id": "mat_2011",
+          "qty": 11
+        },
+        {
+          "id": "mat_2002",
+          "qty": 5
+        }
+      ]
+    },
+    "zoneDrop": "zone_01",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1164",
+    "name": {
+      "en": "Ruby Talisman T11",
+      "fa": "درجهٔ 11 آسانه"
+    },
+    "type": "ACCESSORY",
+    "slot": "ACCESSORY",
+    "tier": 11,
+    "rarity": "MYTHIC",
+    "levelReq": 88,
+    "baseStats": {
+      "LUCK": 5.5,
+      "CRIT_DMG": 22
+    },
+    "blueprint": {
+      "gold": 6050,
+      "forgeSkillMin": 9,
+      "materials": [
+        {
+          "id": "mat_2011",
+          "qty": 11
+        },
+        {
+          "id": "mat_2002",
+          "qty": 5
+        }
+      ]
+    },
+    "zoneDrop": "zone_01",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1165",
+    "name": {
+      "en": "Rusty Dagger T12",
+      "fa": "درجهٔ 12 سلاح سلاح"
+    },
+    "type": "WEAPON",
+    "slot": "WEAPON",
+    "tier": 12,
+    "rarity": "MYTHIC",
+    "levelReq": 96,
+    "baseStats": {
+      "ATK": 38,
+      "CRIT_PCT": 10.2
+    },
+    "blueprint": {
+      "gold": 7200,
+      "forgeSkillMin": 10,
+      "materials": [
+        {
+          "id": "mat_2012",
+          "qty": 12
+        },
+        {
+          "id": "mat_2003",
+          "qty": 6
+        }
+      ]
+    },
+    "zoneDrop": "zone_02",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1166",
+    "name": {
+      "en": "Iron Dagger T12",
+      "fa": "درجهٔ 12 سلاح سلاح"
+    },
+    "type": "WEAPON",
+    "slot": "WEAPON",
+    "tier": 12,
+    "rarity": "MYTHIC",
+    "levelReq": 96,
+    "baseStats": {
+      "ATK": 38,
+      "CRIT_PCT": 10.2
+    },
+    "blueprint": {
+      "gold": 7200,
+      "forgeSkillMin": 10,
+      "materials": [
+        {
+          "id": "mat_2012",
+          "qty": 12
+        },
+        {
+          "id": "mat_2003",
+          "qty": 6
+        }
+      ]
+    },
+    "zoneDrop": "zone_02",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1167",
+    "name": {
+      "en": "Steel Dagger T12",
+      "fa": "درجهٔ 12 سلاح سلاح"
+    },
+    "type": "WEAPON",
+    "slot": "WEAPON",
+    "tier": 12,
+    "rarity": "MYTHIC",
+    "levelReq": 96,
+    "baseStats": {
+      "ATK": 38,
+      "CRIT_PCT": 10.2
+    },
+    "blueprint": {
+      "gold": 7200,
+      "forgeSkillMin": 10,
+      "materials": [
+        {
+          "id": "mat_2012",
+          "qty": 12
+        },
+        {
+          "id": "mat_2003",
+          "qty": 6
+        }
+      ]
+    },
+    "zoneDrop": "zone_02",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1168",
+    "name": {
+      "en": "Rusty Sword T12",
+      "fa": "درجهٔ 12 سلاح سلاح"
+    },
+    "type": "WEAPON",
+    "slot": "WEAPON",
+    "tier": 12,
+    "rarity": "MYTHIC",
+    "levelReq": 96,
+    "baseStats": {
+      "ATK": 38,
+      "CRIT_PCT": 10.2
+    },
+    "blueprint": {
+      "gold": 7200,
+      "forgeSkillMin": 10,
+      "materials": [
+        {
+          "id": "mat_2012",
+          "qty": 12
+        },
+        {
+          "id": "mat_2003",
+          "qty": 6
+        }
+      ]
+    },
+    "zoneDrop": "zone_02",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1169",
+    "name": {
+      "en": "Iron Sword T12",
+      "fa": "درجهٔ 12 سلاح سلاح"
+    },
+    "type": "WEAPON",
+    "slot": "WEAPON",
+    "tier": 12,
+    "rarity": "MYTHIC",
+    "levelReq": 96,
+    "baseStats": {
+      "ATK": 38,
+      "CRIT_PCT": 10.2
+    },
+    "blueprint": {
+      "gold": 7200,
+      "forgeSkillMin": 10,
+      "materials": [
+        {
+          "id": "mat_2012",
+          "qty": 12
+        },
+        {
+          "id": "mat_2003",
+          "qty": 6
+        }
+      ]
+    },
+    "zoneDrop": "zone_02",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1170",
+    "name": {
+      "en": "Padded Gambeson T12",
+      "fa": "درجهٔ 12 زیرکاب"
+    },
+    "type": "ARMOR",
+    "slot": "ARMOR",
+    "tier": 12,
+    "rarity": "MYTHIC",
+    "levelReq": 96,
+    "baseStats": {
+      "DEF": 29,
+      "HP": 58
+    },
+    "blueprint": {
+      "gold": 7200,
+      "forgeSkillMin": 10,
+      "materials": [
+        {
+          "id": "mat_2012",
+          "qty": 12
+        },
+        {
+          "id": "mat_2003",
+          "qty": 6
+        }
+      ]
+    },
+    "zoneDrop": "zone_02",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1171",
+    "name": {
+      "en": "Leather Cuirass T12",
+      "fa": "درجهٔ 12 زیرکاب"
+    },
+    "type": "ARMOR",
+    "slot": "ARMOR",
+    "tier": 12,
+    "rarity": "MYTHIC",
+    "levelReq": 96,
+    "baseStats": {
+      "DEF": 29,
+      "HP": 58
+    },
+    "blueprint": {
+      "gold": 7200,
+      "forgeSkillMin": 10,
+      "materials": [
+        {
+          "id": "mat_2012",
+          "qty": 12
+        },
+        {
+          "id": "mat_2003",
+          "qty": 6
+        }
+      ]
+    },
+    "zoneDrop": "zone_02",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1172",
+    "name": {
+      "en": "Chain Shirt T12",
+      "fa": "درجهٔ 12 زیرکاب"
+    },
+    "type": "ARMOR",
+    "slot": "ARMOR",
+    "tier": 12,
+    "rarity": "MYTHIC",
+    "levelReq": 96,
+    "baseStats": {
+      "DEF": 29,
+      "HP": 58
+    },
+    "blueprint": {
+      "gold": 7200,
+      "forgeSkillMin": 10,
+      "materials": [
+        {
+          "id": "mat_2012",
+          "qty": 12
+        },
+        {
+          "id": "mat_2003",
+          "qty": 6
+        }
+      ]
+    },
+    "zoneDrop": "zone_02",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1173",
+    "name": {
+      "en": "Scale Vest T12",
+      "fa": "درجهٔ 12 زیرکاب"
+    },
+    "type": "ARMOR",
+    "slot": "ARMOR",
+    "tier": 12,
+    "rarity": "MYTHIC",
+    "levelReq": 96,
+    "baseStats": {
+      "DEF": 29,
+      "HP": 58
+    },
+    "blueprint": {
+      "gold": 7200,
+      "forgeSkillMin": 10,
+      "materials": [
+        {
+          "id": "mat_2012",
+          "qty": 12
+        },
+        {
+          "id": "mat_2003",
+          "qty": 6
+        }
+      ]
+    },
+    "zoneDrop": "zone_02",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1174",
+    "name": {
+      "en": "Breastplate T12",
+      "fa": "درجهٔ 12 زیرکاب"
+    },
+    "type": "ARMOR",
+    "slot": "ARMOR",
+    "tier": 12,
+    "rarity": "MYTHIC",
+    "levelReq": 96,
+    "baseStats": {
+      "DEF": 29,
+      "HP": 58
+    },
+    "blueprint": {
+      "gold": 7200,
+      "forgeSkillMin": 10,
+      "materials": [
+        {
+          "id": "mat_2012",
+          "qty": 12
+        },
+        {
+          "id": "mat_2003",
+          "qty": 6
+        }
+      ]
+    },
+    "zoneDrop": "zone_02",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1175",
+    "name": {
+      "en": "Copper Ring T12",
+      "fa": "درجهٔ 12 آسانه"
+    },
+    "type": "ACCESSORY",
+    "slot": "ACCESSORY",
+    "tier": 12,
+    "rarity": "MYTHIC",
+    "levelReq": 96,
+    "baseStats": {
+      "LUCK": 6.0,
+      "CRIT_DMG": 24
+    },
+    "blueprint": {
+      "gold": 7200,
+      "forgeSkillMin": 10,
+      "materials": [
+        {
+          "id": "mat_2012",
+          "qty": 12
+        },
+        {
+          "id": "mat_2003",
+          "qty": 6
+        }
+      ]
+    },
+    "zoneDrop": "zone_02",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1176",
+    "name": {
+      "en": "Iron Ring T12",
+      "fa": "درجهٔ 12 آسانه"
+    },
+    "type": "ACCESSORY",
+    "slot": "ACCESSORY",
+    "tier": 12,
+    "rarity": "MYTHIC",
+    "levelReq": 96,
+    "baseStats": {
+      "LUCK": 6.0,
+      "CRIT_DMG": 24
+    },
+    "blueprint": {
+      "gold": 7200,
+      "forgeSkillMin": 10,
+      "materials": [
+        {
+          "id": "mat_2012",
+          "qty": 12
+        },
+        {
+          "id": "mat_2003",
+          "qty": 6
+        }
+      ]
+    },
+    "zoneDrop": "zone_02",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1177",
+    "name": {
+      "en": "Iron Amulet T12",
+      "fa": "درجهٔ 12 آسانه"
+    },
+    "type": "ACCESSORY",
+    "slot": "ACCESSORY",
+    "tier": 12,
+    "rarity": "MYTHIC",
+    "levelReq": 96,
+    "baseStats": {
+      "LUCK": 6.0,
+      "CRIT_DMG": 24
+    },
+    "blueprint": {
+      "gold": 7200,
+      "forgeSkillMin": 10,
+      "materials": [
+        {
+          "id": "mat_2012",
+          "qty": 12
+        },
+        {
+          "id": "mat_2003",
+          "qty": 6
+        }
+      ]
+    },
+    "zoneDrop": "zone_02",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1178",
+    "name": {
+      "en": "Steel Pendant T12",
+      "fa": "درجهٔ 12 آسانه"
+    },
+    "type": "ACCESSORY",
+    "slot": "ACCESSORY",
+    "tier": 12,
+    "rarity": "MYTHIC",
+    "levelReq": 96,
+    "baseStats": {
+      "LUCK": 6.0,
+      "CRIT_DMG": 24
+    },
+    "blueprint": {
+      "gold": 7200,
+      "forgeSkillMin": 10,
+      "materials": [
+        {
+          "id": "mat_2012",
+          "qty": 12
+        },
+        {
+          "id": "mat_2003",
+          "qty": 6
+        }
+      ]
+    },
+    "zoneDrop": "zone_02",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1179",
+    "name": {
+      "en": "Ruby Talisman T12",
+      "fa": "درجهٔ 12 آسانه"
+    },
+    "type": "ACCESSORY",
+    "slot": "ACCESSORY",
+    "tier": 12,
+    "rarity": "MYTHIC",
+    "levelReq": 96,
+    "baseStats": {
+      "LUCK": 6.0,
+      "CRIT_DMG": 24
+    },
+    "blueprint": {
+      "gold": 7200,
+      "forgeSkillMin": 10,
+      "materials": [
+        {
+          "id": "mat_2012",
+          "qty": 12
+        },
+        {
+          "id": "mat_2003",
+          "qty": 6
+        }
+      ]
+    },
+    "zoneDrop": "zone_02",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1180",
+    "name": {
+      "en": "Minor Health Potion T1",
+      "fa": "شراب سلامت کوچک درجهٔ 1"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 1,
+    "rarity": "COMMON",
+    "levelReq": 6,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 25,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2001",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_01",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1181",
+    "name": {
+      "en": "Health Potion T1",
+      "fa": "شراب سلامت درجهٔ 1"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 1,
+    "rarity": "COMMON",
+    "levelReq": 6,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 25,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2001",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_01",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1182",
+    "name": {
+      "en": "Greater Health Potion T1",
+      "fa": "شراب سلامت بزرگ درجهٔ 1"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 1,
+    "rarity": "COMMON",
+    "levelReq": 6,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 25,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2001",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_01",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1183",
+    "name": {
+      "en": "Minor Mana Potion T1",
+      "fa": "شراب منا کوچک درجهٔ 1"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 1,
+    "rarity": "COMMON",
+    "levelReq": 6,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 25,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2001",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_01",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1184",
+    "name": {
+      "en": "Mana Potion T1",
+      "fa": "شراب منا درجهٔ 1"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 1,
+    "rarity": "COMMON",
+    "levelReq": 6,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 25,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2001",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_01",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1185",
+    "name": {
+      "en": "Antidote T1",
+      "fa": "تیریاک درجهٔ 1"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 1,
+    "rarity": "COMMON",
+    "levelReq": 6,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 25,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2001",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_01",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1186",
+    "name": {
+      "en": "Forge Oil T1",
+      "fa": "روغن آهنگر درجهٔ 1"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 1,
+    "rarity": "COMMON",
+    "levelReq": 6,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 25,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2001",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_01",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1187",
+    "name": {
+      "en": "Smith's Chalk T1",
+      "fa": "چک آهنگر درجهٔ 1"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 1,
+    "rarity": "COMMON",
+    "levelReq": 6,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 25,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2001",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_01",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1188",
+    "name": {
+      "en": "Minor Health Potion T2",
+      "fa": "شراب سلامت کوچک درجهٔ 2"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 2,
+    "rarity": "COMMON",
+    "levelReq": 12,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 50,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2002",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_02",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1189",
+    "name": {
+      "en": "Health Potion T2",
+      "fa": "شراب سلامت درجهٔ 2"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 2,
+    "rarity": "COMMON",
+    "levelReq": 12,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 50,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2002",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_02",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1190",
+    "name": {
+      "en": "Greater Health Potion T2",
+      "fa": "شراب سلامت بزرگ درجهٔ 2"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 2,
+    "rarity": "COMMON",
+    "levelReq": 12,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 50,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2002",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_02",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1191",
+    "name": {
+      "en": "Minor Mana Potion T2",
+      "fa": "شراب منا کوچک درجهٔ 2"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 2,
+    "rarity": "COMMON",
+    "levelReq": 12,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 50,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2002",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_02",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1192",
+    "name": {
+      "en": "Mana Potion T2",
+      "fa": "شراب منا درجهٔ 2"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 2,
+    "rarity": "COMMON",
+    "levelReq": 12,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 50,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2002",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_02",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1193",
+    "name": {
+      "en": "Antidote T2",
+      "fa": "تیریاک درجهٔ 2"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 2,
+    "rarity": "COMMON",
+    "levelReq": 12,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 50,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2002",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_02",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1194",
+    "name": {
+      "en": "Forge Oil T2",
+      "fa": "روغن آهنگر درجهٔ 2"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 2,
+    "rarity": "COMMON",
+    "levelReq": 12,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 50,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2002",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_02",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1195",
+    "name": {
+      "en": "Smith's Chalk T2",
+      "fa": "چک آهنگر درجهٔ 2"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 2,
+    "rarity": "COMMON",
+    "levelReq": 12,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 50,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2002",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_02",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1196",
+    "name": {
+      "en": "Minor Health Potion T3",
+      "fa": "شراب سلامت کوچک درجهٔ 3"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 3,
+    "rarity": "UNCOMMON",
+    "levelReq": 18,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 75,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2003",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_03",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1197",
+    "name": {
+      "en": "Health Potion T3",
+      "fa": "شراب سلامت درجهٔ 3"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 3,
+    "rarity": "UNCOMMON",
+    "levelReq": 18,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 75,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2003",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_03",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1198",
+    "name": {
+      "en": "Greater Health Potion T3",
+      "fa": "شراب سلامت بزرگ درجهٔ 3"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 3,
+    "rarity": "UNCOMMON",
+    "levelReq": 18,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 75,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2003",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_03",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1199",
+    "name": {
+      "en": "Minor Mana Potion T3",
+      "fa": "شراب منا کوچک درجهٔ 3"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 3,
+    "rarity": "UNCOMMON",
+    "levelReq": 18,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 75,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2003",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_03",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1200",
+    "name": {
+      "en": "Mana Potion T3",
+      "fa": "شراب منا درجهٔ 3"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 3,
+    "rarity": "UNCOMMON",
+    "levelReq": 18,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 75,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2003",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_03",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1201",
+    "name": {
+      "en": "Antidote T3",
+      "fa": "تیریاک درجهٔ 3"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 3,
+    "rarity": "UNCOMMON",
+    "levelReq": 18,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 75,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2003",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_03",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1202",
+    "name": {
+      "en": "Forge Oil T3",
+      "fa": "روغن آهنگر درجهٔ 3"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 3,
+    "rarity": "UNCOMMON",
+    "levelReq": 18,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 75,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2003",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_03",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1203",
+    "name": {
+      "en": "Smith's Chalk T3",
+      "fa": "چک آهنگر درجهٔ 3"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 3,
+    "rarity": "UNCOMMON",
+    "levelReq": 18,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 75,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2003",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_03",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1204",
+    "name": {
+      "en": "Minor Health Potion T4",
+      "fa": "شراب سلامت کوچک درجهٔ 4"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 4,
+    "rarity": "UNCOMMON",
+    "levelReq": 24,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 100,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2004",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_04",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1205",
+    "name": {
+      "en": "Health Potion T4",
+      "fa": "شراب سلامت درجهٔ 4"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 4,
+    "rarity": "UNCOMMON",
+    "levelReq": 24,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 100,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2004",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_04",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1206",
+    "name": {
+      "en": "Greater Health Potion T4",
+      "fa": "شراب سلامت بزرگ درجهٔ 4"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 4,
+    "rarity": "UNCOMMON",
+    "levelReq": 24,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 100,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2004",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_04",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1207",
+    "name": {
+      "en": "Minor Mana Potion T4",
+      "fa": "شراب منا کوچک درجهٔ 4"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 4,
+    "rarity": "UNCOMMON",
+    "levelReq": 24,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 100,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2004",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_04",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1208",
+    "name": {
+      "en": "Mana Potion T4",
+      "fa": "شراب منا درجهٔ 4"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 4,
+    "rarity": "UNCOMMON",
+    "levelReq": 24,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 100,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2004",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_04",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1209",
+    "name": {
+      "en": "Antidote T4",
+      "fa": "تیریاک درجهٔ 4"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 4,
+    "rarity": "UNCOMMON",
+    "levelReq": 24,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 100,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2004",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_04",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1210",
+    "name": {
+      "en": "Forge Oil T4",
+      "fa": "روغن آهنگر درجهٔ 4"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 4,
+    "rarity": "UNCOMMON",
+    "levelReq": 24,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 100,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2004",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_04",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1211",
+    "name": {
+      "en": "Smith's Chalk T4",
+      "fa": "چک آهنگر درجهٔ 4"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 4,
+    "rarity": "UNCOMMON",
+    "levelReq": 24,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 100,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2004",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_04",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1212",
+    "name": {
+      "en": "Minor Health Potion T5",
+      "fa": "شراب سلامت کوچک درجهٔ 5"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 5,
+    "rarity": "RARE",
+    "levelReq": 30,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 125,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2005",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_05",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1213",
+    "name": {
+      "en": "Health Potion T5",
+      "fa": "شراب سلامت درجهٔ 5"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 5,
+    "rarity": "RARE",
+    "levelReq": 30,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 125,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2005",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_05",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1214",
+    "name": {
+      "en": "Greater Health Potion T5",
+      "fa": "شراب سلامت بزرگ درجهٔ 5"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 5,
+    "rarity": "RARE",
+    "levelReq": 30,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 125,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2005",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_05",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1215",
+    "name": {
+      "en": "Minor Mana Potion T5",
+      "fa": "شراب منا کوچک درجهٔ 5"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 5,
+    "rarity": "RARE",
+    "levelReq": 30,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 125,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2005",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_05",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1216",
+    "name": {
+      "en": "Mana Potion T5",
+      "fa": "شراب منا درجهٔ 5"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 5,
+    "rarity": "RARE",
+    "levelReq": 30,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 125,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2005",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_05",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1217",
+    "name": {
+      "en": "Antidote T5",
+      "fa": "تیریاک درجهٔ 5"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 5,
+    "rarity": "RARE",
+    "levelReq": 30,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 125,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2005",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_05",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1218",
+    "name": {
+      "en": "Forge Oil T5",
+      "fa": "روغن آهنگر درجهٔ 5"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 5,
+    "rarity": "RARE",
+    "levelReq": 30,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 125,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2005",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_05",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1219",
+    "name": {
+      "en": "Smith's Chalk T5",
+      "fa": "چک آهنگر درجهٔ 5"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 5,
+    "rarity": "RARE",
+    "levelReq": 30,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 125,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2005",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_05",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1220",
+    "name": {
+      "en": "Minor Health Potion T6",
+      "fa": "شراب سلامت کوچک درجهٔ 6"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 6,
+    "rarity": "RARE",
+    "levelReq": 36,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 150,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2006",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_06",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1221",
+    "name": {
+      "en": "Health Potion T6",
+      "fa": "شراب سلامت درجهٔ 6"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 6,
+    "rarity": "RARE",
+    "levelReq": 36,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 150,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2006",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_06",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1222",
+    "name": {
+      "en": "Greater Health Potion T6",
+      "fa": "شراب سلامت بزرگ درجهٔ 6"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 6,
+    "rarity": "RARE",
+    "levelReq": 36,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 150,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2006",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_06",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1223",
+    "name": {
+      "en": "Minor Mana Potion T6",
+      "fa": "شراب منا کوچک درجهٔ 6"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 6,
+    "rarity": "RARE",
+    "levelReq": 36,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 150,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2006",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_06",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1224",
+    "name": {
+      "en": "Mana Potion T6",
+      "fa": "شراب منا درجهٔ 6"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 6,
+    "rarity": "RARE",
+    "levelReq": 36,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 150,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2006",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_06",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1225",
+    "name": {
+      "en": "Antidote T6",
+      "fa": "تیریاک درجهٔ 6"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 6,
+    "rarity": "RARE",
+    "levelReq": 36,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 150,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2006",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_06",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1226",
+    "name": {
+      "en": "Forge Oil T6",
+      "fa": "روغن آهنگر درجهٔ 6"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 6,
+    "rarity": "RARE",
+    "levelReq": 36,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 150,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2006",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_06",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1227",
+    "name": {
+      "en": "Smith's Chalk T6",
+      "fa": "چک آهنگر درجهٔ 6"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 6,
+    "rarity": "RARE",
+    "levelReq": 36,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 150,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2006",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_06",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1228",
+    "name": {
+      "en": "Minor Health Potion T7",
+      "fa": "شراب سلامت کوچک درجهٔ 7"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 7,
+    "rarity": "EPIC",
+    "levelReq": 42,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 175,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2007",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_07",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1229",
+    "name": {
+      "en": "Health Potion T7",
+      "fa": "شراب سلامت درجهٔ 7"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 7,
+    "rarity": "EPIC",
+    "levelReq": 42,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 175,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2007",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_07",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1230",
+    "name": {
+      "en": "Greater Health Potion T7",
+      "fa": "شراب سلامت بزرگ درجهٔ 7"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 7,
+    "rarity": "EPIC",
+    "levelReq": 42,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 175,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2007",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_07",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1231",
+    "name": {
+      "en": "Minor Mana Potion T7",
+      "fa": "شراب منا کوچک درجهٔ 7"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 7,
+    "rarity": "EPIC",
+    "levelReq": 42,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 175,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2007",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_07",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1232",
+    "name": {
+      "en": "Mana Potion T7",
+      "fa": "شراب منا درجهٔ 7"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 7,
+    "rarity": "EPIC",
+    "levelReq": 42,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 175,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2007",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_07",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1233",
+    "name": {
+      "en": "Antidote T7",
+      "fa": "تیریاک درجهٔ 7"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 7,
+    "rarity": "EPIC",
+    "levelReq": 42,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 175,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2007",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_07",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1234",
+    "name": {
+      "en": "Forge Oil T7",
+      "fa": "روغن آهنگر درجهٔ 7"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 7,
+    "rarity": "EPIC",
+    "levelReq": 42,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 175,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2007",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_07",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1235",
+    "name": {
+      "en": "Smith's Chalk T7",
+      "fa": "چک آهنگر درجهٔ 7"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 7,
+    "rarity": "EPIC",
+    "levelReq": 42,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 175,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2007",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_07",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1236",
+    "name": {
+      "en": "Minor Health Potion T8",
+      "fa": "شراب سلامت کوچک درجهٔ 8"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 8,
+    "rarity": "EPIC",
+    "levelReq": 48,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 200,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2008",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_08",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1237",
+    "name": {
+      "en": "Health Potion T8",
+      "fa": "شراب سلامت درجهٔ 8"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 8,
+    "rarity": "EPIC",
+    "levelReq": 48,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 200,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2008",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_08",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1238",
+    "name": {
+      "en": "Greater Health Potion T8",
+      "fa": "شراب سلامت بزرگ درجهٔ 8"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 8,
+    "rarity": "EPIC",
+    "levelReq": 48,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 200,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2008",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_08",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1239",
+    "name": {
+      "en": "Minor Mana Potion T8",
+      "fa": "شراب منا کوچک درجهٔ 8"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 8,
+    "rarity": "EPIC",
+    "levelReq": 48,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 200,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2008",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_08",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1240",
+    "name": {
+      "en": "Mana Potion T8",
+      "fa": "شراب منا درجهٔ 8"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 8,
+    "rarity": "EPIC",
+    "levelReq": 48,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 200,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2008",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_08",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1241",
+    "name": {
+      "en": "Antidote T8",
+      "fa": "تیریاک درجهٔ 8"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 8,
+    "rarity": "EPIC",
+    "levelReq": 48,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 200,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2008",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_08",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1242",
+    "name": {
+      "en": "Forge Oil T8",
+      "fa": "روغن آهنگر درجهٔ 8"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 8,
+    "rarity": "EPIC",
+    "levelReq": 48,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 200,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2008",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_08",
+    "classes": [
+      "ALL"
+    ]
+  },
+  {
+    "id": "item_1243",
+    "name": {
+      "en": "Smith's Chalk T8",
+      "fa": "چک آهنگر درجهٔ 8"
+    },
+    "type": "CONSUMABLE",
+    "slot": null,
+    "tier": 8,
+    "rarity": "EPIC",
+    "levelReq": 48,
+    "baseStats": {},
+    "blueprint": {
+      "gold": 200,
+      "forgeSkillMin": 1,
+      "materials": [
+        {
+          "id": "mat_2008",
+          "qty": 1
+        }
+      ]
+    },
+    "zoneDrop": "zone_08",
+    "classes": [
+      "ALL"
+    ]
+  }
+]

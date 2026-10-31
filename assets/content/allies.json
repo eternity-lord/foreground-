@@ -1,0 +1,67 @@
+[
+  {
+    "id": "ally_01",
+    "name": {
+      "en": "Lyra the Swift",
+      "fa": "لیرا سریع‌چالن"
+    },
+    "class": "ROGUE",
+    "portrait": "ally_lyra",
+    "skills": [
+      "skill_3000",
+      "skill_3001"
+    ]
+  },
+  {
+    "id": "ally_02",
+    "name": {
+      "en": "Mina the Shy",
+      "fa": "مينا خجالت‌کش"
+    },
+    "class": "MAGE",
+    "portrait": "ally_mina",
+    "skills": [
+      "skill_3010",
+      "skill_3011"
+    ]
+  },
+  {
+    "id": "ally_03",
+    "name": {
+      "en": "Torin the Veteran",
+      "fa": "تورین کهن"
+    },
+    "class": "KNIGHT",
+    "portrait": "ally_torin",
+    "skills": [
+      "skill_3020",
+      "skill_3021"
+    ]
+  },
+  {
+    "id": "ally_04",
+    "name": {
+      "en": "Dari the Merchant",
+      "fa": "داری تاجر"
+    },
+    "class": "RANGER",
+    "portrait": "ally_dari",
+    "skills": [
+      "skill_3030",
+      "skill_3031"
+    ]
+  },
+  {
+    "id": "ally_05",
+    "name": {
+      "en": "Master Vulcan",
+      "fa": "استاد وولکان"
+    },
+    "class": "VULCAN_HEIR",
+    "portrait": "ally_vulcan",
+    "skills": [
+      "skill_3040",
+      "skill_3041"
+    ]
+  }
+]

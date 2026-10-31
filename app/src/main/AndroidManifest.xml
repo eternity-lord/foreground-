@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.forgebound.game">
+
+    <!--
+      Section 3 rule: the shipped app declares NO INTERNET permission and
+      makes no network calls at runtime. Only vibration (optional haptics)
+      is declared. All assets are bundled offline.
+    -->
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <application
+        android:name=".ForgeboundApplication"
+        android:allowBackup="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Forgebound"
+        android:resizeableActivity="true"
+        android:hardwareAccelerated="true">
+
+        <!-- Locked to landscape per Section 1 (game concept). -->
+        <activity
+            android:name=".ui.MainActivity"
+            android:screenOrientation="sensorLandscape"
+            android:configChanges="keyboard|keyboardHidden|navigation|orientation|screenSize|uiMode|smallestScreenSize|screenLayout|density|layoutDirection"
+            android:exported="true"
+            android:theme="@style/Theme.Forgebound.Splash"
+            android:windowSoftInputMode="adjustResize">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- Section 13: process-death / rotation-safe; state restored via ViewModel + Room. -->
+    </application>
+
+</manifest>

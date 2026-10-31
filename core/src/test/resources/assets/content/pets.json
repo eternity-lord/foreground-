@@ -1,0 +1,68 @@
+[
+  {
+    "id": "pet_01",
+    "name": {
+      "en": "Cinder Pup",
+      "fa": "سگ خاکستر"
+    },
+    "rarity": "RARE",
+    "bonus": {
+      "dropRate": 0.05
+    }
+  },
+  {
+    "id": "pet_02",
+    "name": {
+      "en": "Frost Kit",
+      "fa": "گربه یخی"
+    },
+    "rarity": "RARE",
+    "bonus": {
+      "evasion": 0.03
+    }
+  },
+  {
+    "id": "pet_03",
+    "name": {
+      "en": "Spark Moth",
+      "fa": "پروانه برق"
+    },
+    "rarity": "EPIC",
+    "bonus": {
+      "forgeSpeed": 0.1
+    }
+  },
+  {
+    "id": "pet_04",
+    "name": {
+      "en": "Obsidian Snail",
+      "fa": "مار مولکو‌ها سیاها"
+    },
+    "rarity": "EPIC",
+    "bonus": {
+      "damageReduction": 0.05
+    }
+  },
+  {
+    "id": "pet_05",
+    "name": {
+      "en": "Void Mote",
+      "fa": "ذره خلاء"
+    },
+    "rarity": "LEGENDARY",
+    "bonus": {
+      "critChance": 0.04
+    }
+  },
+  {
+    "id": "pet_06",
+    "name": {
+      "en": "Aethel Ember",
+      "fa": "آتل أمبر"
+    },
+    "rarity": "MYTHIC",
+    "bonus": {
+      "allStats": 0.08
+    }
+  }
+]

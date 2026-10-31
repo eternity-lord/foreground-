@@ -1,0 +1,2162 @@
+[
+  {
+    "id": "ach_6000",
+    "name": {
+      "en": "Achievement 1",
+      "fa": "دستاورد 1"
+    },
+    "category": "COMBAT",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_0",
+      "qty": 10
+    },
+    "reward": {
+      "gold": 100,
+      "xp": 50,
+      "points": 1
+    }
+  },
+  {
+    "id": "ach_6001",
+    "name": {
+      "en": "Achievement 2",
+      "fa": "دستاورد 2"
+    },
+    "category": "FORGING",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_1",
+      "qty": 20
+    },
+    "reward": {
+      "gold": 200,
+      "xp": 100,
+      "points": 2
+    }
+  },
+  {
+    "id": "ach_6002",
+    "name": {
+      "en": "Achievement 3",
+      "fa": "دستاورد 3"
+    },
+    "category": "EXPLORATION",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_2",
+      "qty": 30
+    },
+    "reward": {
+      "gold": 300,
+      "xp": 150,
+      "points": 3
+    }
+  },
+  {
+    "id": "ach_6003",
+    "name": {
+      "en": "Achievement 4",
+      "fa": "دستاورد 4"
+    },
+    "category": "COLLECTION",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_3",
+      "qty": 40
+    },
+    "reward": {
+      "gold": 400,
+      "xp": 200,
+      "points": 4
+    }
+  },
+  {
+    "id": "ach_6004",
+    "name": {
+      "en": "Achievement 5",
+      "fa": "دستاورد 5"
+    },
+    "category": "COMBAT",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_4",
+      "qty": 50
+    },
+    "reward": {
+      "gold": 500,
+      "xp": 250,
+      "points": 5
+    }
+  },
+  {
+    "id": "ach_6005",
+    "name": {
+      "en": "Achievement 6",
+      "fa": "دستاورد 6"
+    },
+    "category": "FORGING",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_5",
+      "qty": 60
+    },
+    "reward": {
+      "gold": 600,
+      "xp": 300,
+      "points": 6
+    }
+  },
+  {
+    "id": "ach_6006",
+    "name": {
+      "en": "Achievement 7",
+      "fa": "دستاورد 7"
+    },
+    "category": "EXPLORATION",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_6",
+      "qty": 70
+    },
+    "reward": {
+      "gold": 700,
+      "xp": 350,
+      "points": 7
+    }
+  },
+  {
+    "id": "ach_6007",
+    "name": {
+      "en": "Achievement 8",
+      "fa": "دستاورد 8"
+    },
+    "category": "COLLECTION",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_7",
+      "qty": 80
+    },
+    "reward": {
+      "gold": 800,
+      "xp": 400,
+      "points": 8
+    }
+  },
+  {
+    "id": "ach_6008",
+    "name": {
+      "en": "Achievement 9",
+      "fa": "دستاورد 9"
+    },
+    "category": "COMBAT",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_8",
+      "qty": 90
+    },
+    "reward": {
+      "gold": 900,
+      "xp": 450,
+      "points": 9
+    }
+  },
+  {
+    "id": "ach_6009",
+    "name": {
+      "en": "Achievement 10",
+      "fa": "دستاورد 10"
+    },
+    "category": "FORGING",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_9",
+      "qty": 100
+    },
+    "reward": {
+      "gold": 1000,
+      "xp": 500,
+      "points": 10
+    }
+  },
+  {
+    "id": "ach_6010",
+    "name": {
+      "en": "Achievement 11",
+      "fa": "دستاورد 11"
+    },
+    "category": "EXPLORATION",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_10",
+      "qty": 110
+    },
+    "reward": {
+      "gold": 1100,
+      "xp": 550,
+      "points": 11
+    }
+  },
+  {
+    "id": "ach_6011",
+    "name": {
+      "en": "Achievement 12",
+      "fa": "دستاورد 12"
+    },
+    "category": "COLLECTION",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_11",
+      "qty": 120
+    },
+    "reward": {
+      "gold": 1200,
+      "xp": 600,
+      "points": 12
+    }
+  },
+  {
+    "id": "ach_6012",
+    "name": {
+      "en": "Achievement 13",
+      "fa": "دستاورد 13"
+    },
+    "category": "COMBAT",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_12",
+      "qty": 130
+    },
+    "reward": {
+      "gold": 1300,
+      "xp": 650,
+      "points": 13
+    }
+  },
+  {
+    "id": "ach_6013",
+    "name": {
+      "en": "Achievement 14",
+      "fa": "دستاورد 14"
+    },
+    "category": "FORGING",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_13",
+      "qty": 140
+    },
+    "reward": {
+      "gold": 1400,
+      "xp": 700,
+      "points": 14
+    }
+  },
+  {
+    "id": "ach_6014",
+    "name": {
+      "en": "Achievement 15",
+      "fa": "دستاورد 15"
+    },
+    "category": "EXPLORATION",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_14",
+      "qty": 150
+    },
+    "reward": {
+      "gold": 1500,
+      "xp": 750,
+      "points": 15
+    }
+  },
+  {
+    "id": "ach_6015",
+    "name": {
+      "en": "Achievement 16",
+      "fa": "دستاورد 16"
+    },
+    "category": "COLLECTION",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_15",
+      "qty": 160
+    },
+    "reward": {
+      "gold": 1600,
+      "xp": 800,
+      "points": 16
+    }
+  },
+  {
+    "id": "ach_6016",
+    "name": {
+      "en": "Achievement 17",
+      "fa": "دستاورد 17"
+    },
+    "category": "COMBAT",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_16",
+      "qty": 170
+    },
+    "reward": {
+      "gold": 1700,
+      "xp": 850,
+      "points": 17
+    }
+  },
+  {
+    "id": "ach_6017",
+    "name": {
+      "en": "Achievement 18",
+      "fa": "دستاورد 18"
+    },
+    "category": "FORGING",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_17",
+      "qty": 180
+    },
+    "reward": {
+      "gold": 1800,
+      "xp": 900,
+      "points": 18
+    }
+  },
+  {
+    "id": "ach_6018",
+    "name": {
+      "en": "Achievement 19",
+      "fa": "دستاورد 19"
+    },
+    "category": "EXPLORATION",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_18",
+      "qty": 190
+    },
+    "reward": {
+      "gold": 1900,
+      "xp": 950,
+      "points": 19
+    }
+  },
+  {
+    "id": "ach_6019",
+    "name": {
+      "en": "Achievement 20",
+      "fa": "دستاورد 20"
+    },
+    "category": "COLLECTION",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_19",
+      "qty": 200
+    },
+    "reward": {
+      "gold": 2000,
+      "xp": 1000,
+      "points": 20
+    }
+  },
+  {
+    "id": "ach_6020",
+    "name": {
+      "en": "Achievement 21",
+      "fa": "دستاورد 21"
+    },
+    "category": "COMBAT",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_20",
+      "qty": 210
+    },
+    "reward": {
+      "gold": 2100,
+      "xp": 1050,
+      "points": 21
+    }
+  },
+  {
+    "id": "ach_6021",
+    "name": {
+      "en": "Achievement 22",
+      "fa": "دستاورد 22"
+    },
+    "category": "FORGING",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_21",
+      "qty": 220
+    },
+    "reward": {
+      "gold": 2200,
+      "xp": 1100,
+      "points": 22
+    }
+  },
+  {
+    "id": "ach_6022",
+    "name": {
+      "en": "Achievement 23",
+      "fa": "دستاورد 23"
+    },
+    "category": "EXPLORATION",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_22",
+      "qty": 230
+    },
+    "reward": {
+      "gold": 2300,
+      "xp": 1150,
+      "points": 23
+    }
+  },
+  {
+    "id": "ach_6023",
+    "name": {
+      "en": "Achievement 24",
+      "fa": "دستاورد 24"
+    },
+    "category": "COLLECTION",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_23",
+      "qty": 240
+    },
+    "reward": {
+      "gold": 2400,
+      "xp": 1200,
+      "points": 24
+    }
+  },
+  {
+    "id": "ach_6024",
+    "name": {
+      "en": "Achievement 25",
+      "fa": "دستاورد 25"
+    },
+    "category": "COMBAT",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_24",
+      "qty": 250
+    },
+    "reward": {
+      "gold": 2500,
+      "xp": 1250,
+      "points": 25
+    }
+  },
+  {
+    "id": "ach_6025",
+    "name": {
+      "en": "Achievement 26",
+      "fa": "دستاورد 26"
+    },
+    "category": "FORGING",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_25",
+      "qty": 260
+    },
+    "reward": {
+      "gold": 2600,
+      "xp": 1300,
+      "points": 26
+    }
+  },
+  {
+    "id": "ach_6026",
+    "name": {
+      "en": "Achievement 27",
+      "fa": "دستاورد 27"
+    },
+    "category": "EXPLORATION",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_26",
+      "qty": 270
+    },
+    "reward": {
+      "gold": 2700,
+      "xp": 1350,
+      "points": 27
+    }
+  },
+  {
+    "id": "ach_6027",
+    "name": {
+      "en": "Achievement 28",
+      "fa": "دستاورد 28"
+    },
+    "category": "COLLECTION",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_27",
+      "qty": 280
+    },
+    "reward": {
+      "gold": 2800,
+      "xp": 1400,
+      "points": 28
+    }
+  },
+  {
+    "id": "ach_6028",
+    "name": {
+      "en": "Achievement 29",
+      "fa": "دستاورد 29"
+    },
+    "category": "COMBAT",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_28",
+      "qty": 290
+    },
+    "reward": {
+      "gold": 2900,
+      "xp": 1450,
+      "points": 29
+    }
+  },
+  {
+    "id": "ach_6029",
+    "name": {
+      "en": "Achievement 30",
+      "fa": "دستاورد 30"
+    },
+    "category": "FORGING",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_29",
+      "qty": 300
+    },
+    "reward": {
+      "gold": 3000,
+      "xp": 1500,
+      "points": 30
+    }
+  },
+  {
+    "id": "ach_6030",
+    "name": {
+      "en": "Achievement 31",
+      "fa": "دستاورد 31"
+    },
+    "category": "EXPLORATION",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_30",
+      "qty": 310
+    },
+    "reward": {
+      "gold": 3100,
+      "xp": 1550,
+      "points": 31
+    }
+  },
+  {
+    "id": "ach_6031",
+    "name": {
+      "en": "Achievement 32",
+      "fa": "دستاورد 32"
+    },
+    "category": "COLLECTION",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_31",
+      "qty": 320
+    },
+    "reward": {
+      "gold": 3200,
+      "xp": 1600,
+      "points": 32
+    }
+  },
+  {
+    "id": "ach_6032",
+    "name": {
+      "en": "Achievement 33",
+      "fa": "دستاورد 33"
+    },
+    "category": "COMBAT",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_32",
+      "qty": 330
+    },
+    "reward": {
+      "gold": 3300,
+      "xp": 1650,
+      "points": 33
+    }
+  },
+  {
+    "id": "ach_6033",
+    "name": {
+      "en": "Achievement 34",
+      "fa": "دستاورد 34"
+    },
+    "category": "FORGING",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_33",
+      "qty": 340
+    },
+    "reward": {
+      "gold": 3400,
+      "xp": 1700,
+      "points": 34
+    }
+  },
+  {
+    "id": "ach_6034",
+    "name": {
+      "en": "Achievement 35",
+      "fa": "دستاورد 35"
+    },
+    "category": "EXPLORATION",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_34",
+      "qty": 350
+    },
+    "reward": {
+      "gold": 3500,
+      "xp": 1750,
+      "points": 35
+    }
+  },
+  {
+    "id": "ach_6035",
+    "name": {
+      "en": "Achievement 36",
+      "fa": "دستاورد 36"
+    },
+    "category": "COLLECTION",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_35",
+      "qty": 360
+    },
+    "reward": {
+      "gold": 3600,
+      "xp": 1800,
+      "points": 36
+    }
+  },
+  {
+    "id": "ach_6036",
+    "name": {
+      "en": "Achievement 37",
+      "fa": "دستاورد 37"
+    },
+    "category": "COMBAT",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_36",
+      "qty": 370
+    },
+    "reward": {
+      "gold": 3700,
+      "xp": 1850,
+      "points": 37
+    }
+  },
+  {
+    "id": "ach_6037",
+    "name": {
+      "en": "Achievement 38",
+      "fa": "دستاورد 38"
+    },
+    "category": "FORGING",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_37",
+      "qty": 380
+    },
+    "reward": {
+      "gold": 3800,
+      "xp": 1900,
+      "points": 38
+    }
+  },
+  {
+    "id": "ach_6038",
+    "name": {
+      "en": "Achievement 39",
+      "fa": "دستاورد 39"
+    },
+    "category": "EXPLORATION",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_38",
+      "qty": 390
+    },
+    "reward": {
+      "gold": 3900,
+      "xp": 1950,
+      "points": 39
+    }
+  },
+  {
+    "id": "ach_6039",
+    "name": {
+      "en": "Achievement 40",
+      "fa": "دستاورد 40"
+    },
+    "category": "COLLECTION",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_39",
+      "qty": 400
+    },
+    "reward": {
+      "gold": 4000,
+      "xp": 2000,
+      "points": 40
+    }
+  },
+  {
+    "id": "ach_6040",
+    "name": {
+      "en": "Achievement 41",
+      "fa": "دستاورد 41"
+    },
+    "category": "COMBAT",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_40",
+      "qty": 410
+    },
+    "reward": {
+      "gold": 4100,
+      "xp": 2050,
+      "points": 41
+    }
+  },
+  {
+    "id": "ach_6041",
+    "name": {
+      "en": "Achievement 42",
+      "fa": "دستاورد 42"
+    },
+    "category": "FORGING",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_41",
+      "qty": 420
+    },
+    "reward": {
+      "gold": 4200,
+      "xp": 2100,
+      "points": 42
+    }
+  },
+  {
+    "id": "ach_6042",
+    "name": {
+      "en": "Achievement 43",
+      "fa": "دستاورد 43"
+    },
+    "category": "EXPLORATION",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_42",
+      "qty": 430
+    },
+    "reward": {
+      "gold": 4300,
+      "xp": 2150,
+      "points": 43
+    }
+  },
+  {
+    "id": "ach_6043",
+    "name": {
+      "en": "Achievement 44",
+      "fa": "دستاورد 44"
+    },
+    "category": "COLLECTION",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_43",
+      "qty": 440
+    },
+    "reward": {
+      "gold": 4400,
+      "xp": 2200,
+      "points": 44
+    }
+  },
+  {
+    "id": "ach_6044",
+    "name": {
+      "en": "Achievement 45",
+      "fa": "دستاورد 45"
+    },
+    "category": "COMBAT",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_44",
+      "qty": 450
+    },
+    "reward": {
+      "gold": 4500,
+      "xp": 2250,
+      "points": 45
+    }
+  },
+  {
+    "id": "ach_6045",
+    "name": {
+      "en": "Achievement 46",
+      "fa": "دستاورد 46"
+    },
+    "category": "FORGING",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_45",
+      "qty": 460
+    },
+    "reward": {
+      "gold": 4600,
+      "xp": 2300,
+      "points": 46
+    }
+  },
+  {
+    "id": "ach_6046",
+    "name": {
+      "en": "Achievement 47",
+      "fa": "دستاورد 47"
+    },
+    "category": "EXPLORATION",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_46",
+      "qty": 470
+    },
+    "reward": {
+      "gold": 4700,
+      "xp": 2350,
+      "points": 47
+    }
+  },
+  {
+    "id": "ach_6047",
+    "name": {
+      "en": "Achievement 48",
+      "fa": "دستاورد 48"
+    },
+    "category": "COLLECTION",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_47",
+      "qty": 480
+    },
+    "reward": {
+      "gold": 4800,
+      "xp": 2400,
+      "points": 48
+    }
+  },
+  {
+    "id": "ach_6048",
+    "name": {
+      "en": "Achievement 49",
+      "fa": "دستاورد 49"
+    },
+    "category": "COMBAT",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_48",
+      "qty": 490
+    },
+    "reward": {
+      "gold": 4900,
+      "xp": 2450,
+      "points": 49
+    }
+  },
+  {
+    "id": "ach_6049",
+    "name": {
+      "en": "Achievement 50",
+      "fa": "دستاورد 50"
+    },
+    "category": "FORGING",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_49",
+      "qty": 500
+    },
+    "reward": {
+      "gold": 5000,
+      "xp": 2500,
+      "points": 50
+    }
+  },
+  {
+    "id": "ach_6050",
+    "name": {
+      "en": "Achievement 51",
+      "fa": "دستاورد 51"
+    },
+    "category": "EXPLORATION",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_50",
+      "qty": 10
+    },
+    "reward": {
+      "gold": 5100,
+      "xp": 2550,
+      "points": 51
+    }
+  },
+  {
+    "id": "ach_6051",
+    "name": {
+      "en": "Achievement 52",
+      "fa": "دستاورد 52"
+    },
+    "category": "COLLECTION",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_51",
+      "qty": 20
+    },
+    "reward": {
+      "gold": 5200,
+      "xp": 2600,
+      "points": 52
+    }
+  },
+  {
+    "id": "ach_6052",
+    "name": {
+      "en": "Achievement 53",
+      "fa": "دستاورد 53"
+    },
+    "category": "COMBAT",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_52",
+      "qty": 30
+    },
+    "reward": {
+      "gold": 5300,
+      "xp": 2650,
+      "points": 53
+    }
+  },
+  {
+    "id": "ach_6053",
+    "name": {
+      "en": "Achievement 54",
+      "fa": "دستاورد 54"
+    },
+    "category": "FORGING",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_53",
+      "qty": 40
+    },
+    "reward": {
+      "gold": 5400,
+      "xp": 2700,
+      "points": 54
+    }
+  },
+  {
+    "id": "ach_6054",
+    "name": {
+      "en": "Achievement 55",
+      "fa": "دستاورد 55"
+    },
+    "category": "EXPLORATION",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_54",
+      "qty": 50
+    },
+    "reward": {
+      "gold": 5500,
+      "xp": 2750,
+      "points": 55
+    }
+  },
+  {
+    "id": "ach_6055",
+    "name": {
+      "en": "Achievement 56",
+      "fa": "دستاورد 56"
+    },
+    "category": "COLLECTION",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_55",
+      "qty": 60
+    },
+    "reward": {
+      "gold": 5600,
+      "xp": 2800,
+      "points": 56
+    }
+  },
+  {
+    "id": "ach_6056",
+    "name": {
+      "en": "Achievement 57",
+      "fa": "دستاورد 57"
+    },
+    "category": "COMBAT",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_56",
+      "qty": 70
+    },
+    "reward": {
+      "gold": 5700,
+      "xp": 2850,
+      "points": 57
+    }
+  },
+  {
+    "id": "ach_6057",
+    "name": {
+      "en": "Achievement 58",
+      "fa": "دستاورد 58"
+    },
+    "category": "FORGING",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_57",
+      "qty": 80
+    },
+    "reward": {
+      "gold": 5800,
+      "xp": 2900,
+      "points": 58
+    }
+  },
+  {
+    "id": "ach_6058",
+    "name": {
+      "en": "Achievement 59",
+      "fa": "دستاورد 59"
+    },
+    "category": "EXPLORATION",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_58",
+      "qty": 90
+    },
+    "reward": {
+      "gold": 5900,
+      "xp": 2950,
+      "points": 59
+    }
+  },
+  {
+    "id": "ach_6059",
+    "name": {
+      "en": "Achievement 60",
+      "fa": "دستاورد 60"
+    },
+    "category": "COLLECTION",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_59",
+      "qty": 100
+    },
+    "reward": {
+      "gold": 6000,
+      "xp": 3000,
+      "points": 60
+    }
+  },
+  {
+    "id": "ach_6060",
+    "name": {
+      "en": "Achievement 61",
+      "fa": "دستاورد 61"
+    },
+    "category": "COMBAT",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_60",
+      "qty": 110
+    },
+    "reward": {
+      "gold": 6100,
+      "xp": 3050,
+      "points": 61
+    }
+  },
+  {
+    "id": "ach_6061",
+    "name": {
+      "en": "Achievement 62",
+      "fa": "دستاورد 62"
+    },
+    "category": "FORGING",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_61",
+      "qty": 120
+    },
+    "reward": {
+      "gold": 6200,
+      "xp": 3100,
+      "points": 62
+    }
+  },
+  {
+    "id": "ach_6062",
+    "name": {
+      "en": "Achievement 63",
+      "fa": "دستاورد 63"
+    },
+    "category": "EXPLORATION",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_62",
+      "qty": 130
+    },
+    "reward": {
+      "gold": 6300,
+      "xp": 3150,
+      "points": 63
+    }
+  },
+  {
+    "id": "ach_6063",
+    "name": {
+      "en": "Achievement 64",
+      "fa": "دستاورد 64"
+    },
+    "category": "COLLECTION",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_63",
+      "qty": 140
+    },
+    "reward": {
+      "gold": 6400,
+      "xp": 3200,
+      "points": 64
+    }
+  },
+  {
+    "id": "ach_6064",
+    "name": {
+      "en": "Achievement 65",
+      "fa": "دستاورد 65"
+    },
+    "category": "COMBAT",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_64",
+      "qty": 150
+    },
+    "reward": {
+      "gold": 6500,
+      "xp": 3250,
+      "points": 65
+    }
+  },
+  {
+    "id": "ach_6065",
+    "name": {
+      "en": "Achievement 66",
+      "fa": "دستاورد 66"
+    },
+    "category": "FORGING",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_65",
+      "qty": 160
+    },
+    "reward": {
+      "gold": 6600,
+      "xp": 3300,
+      "points": 66
+    }
+  },
+  {
+    "id": "ach_6066",
+    "name": {
+      "en": "Achievement 67",
+      "fa": "دستاورد 67"
+    },
+    "category": "EXPLORATION",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_66",
+      "qty": 170
+    },
+    "reward": {
+      "gold": 6700,
+      "xp": 3350,
+      "points": 67
+    }
+  },
+  {
+    "id": "ach_6067",
+    "name": {
+      "en": "Achievement 68",
+      "fa": "دستاورد 68"
+    },
+    "category": "COLLECTION",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_67",
+      "qty": 180
+    },
+    "reward": {
+      "gold": 6800,
+      "xp": 3400,
+      "points": 68
+    }
+  },
+  {
+    "id": "ach_6068",
+    "name": {
+      "en": "Achievement 69",
+      "fa": "دستاورد 69"
+    },
+    "category": "COMBAT",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_68",
+      "qty": 190
+    },
+    "reward": {
+      "gold": 6900,
+      "xp": 3450,
+      "points": 69
+    }
+  },
+  {
+    "id": "ach_6069",
+    "name": {
+      "en": "Achievement 70",
+      "fa": "دستاورد 70"
+    },
+    "category": "FORGING",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_69",
+      "qty": 200
+    },
+    "reward": {
+      "gold": 7000,
+      "xp": 3500,
+      "points": 70
+    }
+  },
+  {
+    "id": "ach_6070",
+    "name": {
+      "en": "Achievement 71",
+      "fa": "دستاورد 71"
+    },
+    "category": "EXPLORATION",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_70",
+      "qty": 210
+    },
+    "reward": {
+      "gold": 7100,
+      "xp": 3550,
+      "points": 71
+    }
+  },
+  {
+    "id": "ach_6071",
+    "name": {
+      "en": "Achievement 72",
+      "fa": "دستاورد 72"
+    },
+    "category": "COLLECTION",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_71",
+      "qty": 220
+    },
+    "reward": {
+      "gold": 7200,
+      "xp": 3600,
+      "points": 72
+    }
+  },
+  {
+    "id": "ach_6072",
+    "name": {
+      "en": "Achievement 73",
+      "fa": "دستاورد 73"
+    },
+    "category": "COMBAT",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_72",
+      "qty": 230
+    },
+    "reward": {
+      "gold": 7300,
+      "xp": 3650,
+      "points": 73
+    }
+  },
+  {
+    "id": "ach_6073",
+    "name": {
+      "en": "Achievement 74",
+      "fa": "دستاورد 74"
+    },
+    "category": "FORGING",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_73",
+      "qty": 240
+    },
+    "reward": {
+      "gold": 7400,
+      "xp": 3700,
+      "points": 74
+    }
+  },
+  {
+    "id": "ach_6074",
+    "name": {
+      "en": "Achievement 75",
+      "fa": "دستاورد 75"
+    },
+    "category": "EXPLORATION",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_74",
+      "qty": 250
+    },
+    "reward": {
+      "gold": 7500,
+      "xp": 3750,
+      "points": 75
+    }
+  },
+  {
+    "id": "ach_6075",
+    "name": {
+      "en": "Achievement 76",
+      "fa": "دستاورد 76"
+    },
+    "category": "COLLECTION",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_75",
+      "qty": 260
+    },
+    "reward": {
+      "gold": 7600,
+      "xp": 3800,
+      "points": 76
+    }
+  },
+  {
+    "id": "ach_6076",
+    "name": {
+      "en": "Achievement 77",
+      "fa": "دستاورد 77"
+    },
+    "category": "COMBAT",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_76",
+      "qty": 270
+    },
+    "reward": {
+      "gold": 7700,
+      "xp": 3850,
+      "points": 77
+    }
+  },
+  {
+    "id": "ach_6077",
+    "name": {
+      "en": "Achievement 78",
+      "fa": "دستاورد 78"
+    },
+    "category": "FORGING",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_77",
+      "qty": 280
+    },
+    "reward": {
+      "gold": 7800,
+      "xp": 3900,
+      "points": 78
+    }
+  },
+  {
+    "id": "ach_6078",
+    "name": {
+      "en": "Achievement 79",
+      "fa": "دستاورد 79"
+    },
+    "category": "EXPLORATION",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_78",
+      "qty": 290
+    },
+    "reward": {
+      "gold": 7900,
+      "xp": 3950,
+      "points": 79
+    }
+  },
+  {
+    "id": "ach_6079",
+    "name": {
+      "en": "Achievement 80",
+      "fa": "دستاورد 80"
+    },
+    "category": "COLLECTION",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_79",
+      "qty": 300
+    },
+    "reward": {
+      "gold": 8000,
+      "xp": 4000,
+      "points": 80
+    }
+  },
+  {
+    "id": "ach_6080",
+    "name": {
+      "en": "Achievement 81",
+      "fa": "دستاورد 81"
+    },
+    "category": "COMBAT",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_80",
+      "qty": 310
+    },
+    "reward": {
+      "gold": 8100,
+      "xp": 4050,
+      "points": 81
+    }
+  },
+  {
+    "id": "ach_6081",
+    "name": {
+      "en": "Achievement 82",
+      "fa": "دستاورد 82"
+    },
+    "category": "FORGING",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_81",
+      "qty": 320
+    },
+    "reward": {
+      "gold": 8200,
+      "xp": 4100,
+      "points": 82
+    }
+  },
+  {
+    "id": "ach_6082",
+    "name": {
+      "en": "Achievement 83",
+      "fa": "دستاورد 83"
+    },
+    "category": "EXPLORATION",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_82",
+      "qty": 330
+    },
+    "reward": {
+      "gold": 8300,
+      "xp": 4150,
+      "points": 83
+    }
+  },
+  {
+    "id": "ach_6083",
+    "name": {
+      "en": "Achievement 84",
+      "fa": "دستاورد 84"
+    },
+    "category": "COLLECTION",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_83",
+      "qty": 340
+    },
+    "reward": {
+      "gold": 8400,
+      "xp": 4200,
+      "points": 84
+    }
+  },
+  {
+    "id": "ach_6084",
+    "name": {
+      "en": "Achievement 85",
+      "fa": "دستاورد 85"
+    },
+    "category": "COMBAT",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_84",
+      "qty": 350
+    },
+    "reward": {
+      "gold": 8500,
+      "xp": 4250,
+      "points": 85
+    }
+  },
+  {
+    "id": "ach_6085",
+    "name": {
+      "en": "Achievement 86",
+      "fa": "دستاورد 86"
+    },
+    "category": "FORGING",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_85",
+      "qty": 360
+    },
+    "reward": {
+      "gold": 8600,
+      "xp": 4300,
+      "points": 86
+    }
+  },
+  {
+    "id": "ach_6086",
+    "name": {
+      "en": "Achievement 87",
+      "fa": "دستاورد 87"
+    },
+    "category": "EXPLORATION",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_86",
+      "qty": 370
+    },
+    "reward": {
+      "gold": 8700,
+      "xp": 4350,
+      "points": 87
+    }
+  },
+  {
+    "id": "ach_6087",
+    "name": {
+      "en": "Achievement 88",
+      "fa": "دستاورد 88"
+    },
+    "category": "COLLECTION",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_87",
+      "qty": 380
+    },
+    "reward": {
+      "gold": 8800,
+      "xp": 4400,
+      "points": 88
+    }
+  },
+  {
+    "id": "ach_6088",
+    "name": {
+      "en": "Achievement 89",
+      "fa": "دستاورد 89"
+    },
+    "category": "COMBAT",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_88",
+      "qty": 390
+    },
+    "reward": {
+      "gold": 8900,
+      "xp": 4450,
+      "points": 89
+    }
+  },
+  {
+    "id": "ach_6089",
+    "name": {
+      "en": "Achievement 90",
+      "fa": "دستاورد 90"
+    },
+    "category": "FORGING",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_89",
+      "qty": 400
+    },
+    "reward": {
+      "gold": 9000,
+      "xp": 4500,
+      "points": 90
+    }
+  },
+  {
+    "id": "ach_6090",
+    "name": {
+      "en": "Achievement 91",
+      "fa": "دستاورد 91"
+    },
+    "category": "EXPLORATION",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_90",
+      "qty": 410
+    },
+    "reward": {
+      "gold": 9100,
+      "xp": 4550,
+      "points": 91
+    }
+  },
+  {
+    "id": "ach_6091",
+    "name": {
+      "en": "Achievement 92",
+      "fa": "دستاورد 92"
+    },
+    "category": "COLLECTION",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_91",
+      "qty": 420
+    },
+    "reward": {
+      "gold": 9200,
+      "xp": 4600,
+      "points": 92
+    }
+  },
+  {
+    "id": "ach_6092",
+    "name": {
+      "en": "Achievement 93",
+      "fa": "دستاورد 93"
+    },
+    "category": "COMBAT",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_92",
+      "qty": 430
+    },
+    "reward": {
+      "gold": 9300,
+      "xp": 4650,
+      "points": 93
+    }
+  },
+  {
+    "id": "ach_6093",
+    "name": {
+      "en": "Achievement 94",
+      "fa": "دستاورد 94"
+    },
+    "category": "FORGING",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_93",
+      "qty": 440
+    },
+    "reward": {
+      "gold": 9400,
+      "xp": 4700,
+      "points": 94
+    }
+  },
+  {
+    "id": "ach_6094",
+    "name": {
+      "en": "Achievement 95",
+      "fa": "دستاورد 95"
+    },
+    "category": "EXPLORATION",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_94",
+      "qty": 450
+    },
+    "reward": {
+      "gold": 9500,
+      "xp": 4750,
+      "points": 95
+    }
+  },
+  {
+    "id": "ach_6095",
+    "name": {
+      "en": "Achievement 96",
+      "fa": "دستاورد 96"
+    },
+    "category": "COLLECTION",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_95",
+      "qty": 460
+    },
+    "reward": {
+      "gold": 9600,
+      "xp": 4800,
+      "points": 96
+    }
+  },
+  {
+    "id": "ach_6096",
+    "name": {
+      "en": "Achievement 97",
+      "fa": "دستاورد 97"
+    },
+    "category": "COMBAT",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_96",
+      "qty": 470
+    },
+    "reward": {
+      "gold": 9700,
+      "xp": 4850,
+      "points": 97
+    }
+  },
+  {
+    "id": "ach_6097",
+    "name": {
+      "en": "Achievement 98",
+      "fa": "دستاورد 98"
+    },
+    "category": "FORGING",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_97",
+      "qty": 480
+    },
+    "reward": {
+      "gold": 9800,
+      "xp": 4900,
+      "points": 98
+    }
+  },
+  {
+    "id": "ach_6098",
+    "name": {
+      "en": "Achievement 99",
+      "fa": "دستاورد 99"
+    },
+    "category": "EXPLORATION",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_98",
+      "qty": 490
+    },
+    "reward": {
+      "gold": 9900,
+      "xp": 4950,
+      "points": 99
+    }
+  },
+  {
+    "id": "ach_6099",
+    "name": {
+      "en": "Achievement 100",
+      "fa": "دستاورد 100"
+    },
+    "category": "COLLECTION",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_99",
+      "qty": 500
+    },
+    "reward": {
+      "gold": 10000,
+      "xp": 5000,
+      "points": 100
+    }
+  },
+  {
+    "id": "ach_6100",
+    "name": {
+      "en": "Achievement 101",
+      "fa": "دستاورد 101"
+    },
+    "category": "COMBAT",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_100",
+      "qty": 10
+    },
+    "reward": {
+      "gold": 10100,
+      "xp": 5050,
+      "points": 101
+    }
+  },
+  {
+    "id": "ach_6101",
+    "name": {
+      "en": "Achievement 102",
+      "fa": "دستاورد 102"
+    },
+    "category": "FORGING",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_101",
+      "qty": 20
+    },
+    "reward": {
+      "gold": 10200,
+      "xp": 5100,
+      "points": 102
+    }
+  },
+  {
+    "id": "ach_6102",
+    "name": {
+      "en": "Achievement 103",
+      "fa": "دستاورد 103"
+    },
+    "category": "EXPLORATION",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_102",
+      "qty": 30
+    },
+    "reward": {
+      "gold": 10300,
+      "xp": 5150,
+      "points": 103
+    }
+  },
+  {
+    "id": "ach_6103",
+    "name": {
+      "en": "Achievement 104",
+      "fa": "دستاورد 104"
+    },
+    "category": "COLLECTION",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_103",
+      "qty": 40
+    },
+    "reward": {
+      "gold": 10400,
+      "xp": 5200,
+      "points": 104
+    }
+  },
+  {
+    "id": "ach_6104",
+    "name": {
+      "en": "Achievement 105",
+      "fa": "دستاورد 105"
+    },
+    "category": "COMBAT",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_104",
+      "qty": 50
+    },
+    "reward": {
+      "gold": 10500,
+      "xp": 5250,
+      "points": 105
+    }
+  },
+  {
+    "id": "ach_6105",
+    "name": {
+      "en": "Achievement 106",
+      "fa": "دستاورد 106"
+    },
+    "category": "FORGING",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_105",
+      "qty": 60
+    },
+    "reward": {
+      "gold": 10600,
+      "xp": 5300,
+      "points": 106
+    }
+  },
+  {
+    "id": "ach_6106",
+    "name": {
+      "en": "Achievement 107",
+      "fa": "دستاورد 107"
+    },
+    "category": "EXPLORATION",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_106",
+      "qty": 70
+    },
+    "reward": {
+      "gold": 10700,
+      "xp": 5350,
+      "points": 107
+    }
+  },
+  {
+    "id": "ach_6107",
+    "name": {
+      "en": "Achievement 108",
+      "fa": "دستاورد 108"
+    },
+    "category": "COLLECTION",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_107",
+      "qty": 80
+    },
+    "reward": {
+      "gold": 10800,
+      "xp": 5400,
+      "points": 108
+    }
+  },
+  {
+    "id": "ach_6108",
+    "name": {
+      "en": "Achievement 109",
+      "fa": "دستاورد 109"
+    },
+    "category": "COMBAT",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_108",
+      "qty": 90
+    },
+    "reward": {
+      "gold": 10900,
+      "xp": 5450,
+      "points": 109
+    }
+  },
+  {
+    "id": "ach_6109",
+    "name": {
+      "en": "Achievement 110",
+      "fa": "دستاورد 110"
+    },
+    "category": "FORGING",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_109",
+      "qty": 100
+    },
+    "reward": {
+      "gold": 11000,
+      "xp": 5500,
+      "points": 110
+    }
+  },
+  {
+    "id": "ach_6110",
+    "name": {
+      "en": "Achievement 111",
+      "fa": "دستاورد 111"
+    },
+    "category": "EXPLORATION",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_110",
+      "qty": 110
+    },
+    "reward": {
+      "gold": 11100,
+      "xp": 5550,
+      "points": 111
+    }
+  },
+  {
+    "id": "ach_6111",
+    "name": {
+      "en": "Achievement 112",
+      "fa": "دستاورد 112"
+    },
+    "category": "COLLECTION",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_111",
+      "qty": 120
+    },
+    "reward": {
+      "gold": 11200,
+      "xp": 5600,
+      "points": 112
+    }
+  },
+  {
+    "id": "ach_6112",
+    "name": {
+      "en": "Achievement 113",
+      "fa": "دستاورد 113"
+    },
+    "category": "COMBAT",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_112",
+      "qty": 130
+    },
+    "reward": {
+      "gold": 11300,
+      "xp": 5650,
+      "points": 113
+    }
+  },
+  {
+    "id": "ach_6113",
+    "name": {
+      "en": "Achievement 114",
+      "fa": "دستاورد 114"
+    },
+    "category": "FORGING",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_113",
+      "qty": 140
+    },
+    "reward": {
+      "gold": 11400,
+      "xp": 5700,
+      "points": 114
+    }
+  },
+  {
+    "id": "ach_6114",
+    "name": {
+      "en": "Achievement 115",
+      "fa": "دستاورد 115"
+    },
+    "category": "EXPLORATION",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_114",
+      "qty": 150
+    },
+    "reward": {
+      "gold": 11500,
+      "xp": 5750,
+      "points": 115
+    }
+  },
+  {
+    "id": "ach_6115",
+    "name": {
+      "en": "Achievement 116",
+      "fa": "دستاورد 116"
+    },
+    "category": "COLLECTION",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_115",
+      "qty": 160
+    },
+    "reward": {
+      "gold": 11600,
+      "xp": 5800,
+      "points": 116
+    }
+  },
+  {
+    "id": "ach_6116",
+    "name": {
+      "en": "Achievement 117",
+      "fa": "دستاورد 117"
+    },
+    "category": "COMBAT",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_116",
+      "qty": 170
+    },
+    "reward": {
+      "gold": 11700,
+      "xp": 5850,
+      "points": 117
+    }
+  },
+  {
+    "id": "ach_6117",
+    "name": {
+      "en": "Achievement 118",
+      "fa": "دستاورد 118"
+    },
+    "category": "FORGING",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_117",
+      "qty": 180
+    },
+    "reward": {
+      "gold": 11800,
+      "xp": 5900,
+      "points": 118
+    }
+  },
+  {
+    "id": "ach_6118",
+    "name": {
+      "en": "Achievement 119",
+      "fa": "دستاورد 119"
+    },
+    "category": "EXPLORATION",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_118",
+      "qty": 190
+    },
+    "reward": {
+      "gold": 11900,
+      "xp": 5950,
+      "points": 119
+    }
+  },
+  {
+    "id": "ach_6119",
+    "name": {
+      "en": "Achievement 120",
+      "fa": "دستاورد 120"
+    },
+    "category": "COLLECTION",
+    "condition": {
+      "kind": "COUNT",
+      "target": "generic_119",
+      "qty": 200
+    },
+    "reward": {
+      "gold": 12000,
+      "xp": 6000,
+      "points": 120
+    }
+  }
+]

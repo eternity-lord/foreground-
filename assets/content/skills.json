@@ -1,0 +1,1974 @@
+[
+  {
+    "id": "skill_3000",
+    "name": {
+      "en": "Heavy Strike",
+      "fa": "ضربه سنگین"
+    },
+    "class": "SHARED",
+    "type": "ACTIVE",
+    "levelReq": 1,
+    "description": {
+      "en": "A powerful melee attack, 150% ATK damage.",
+      "fa": "ضربه سنگین با ۱۵۰٪ دمیج."
+    },
+    "effects": {
+      "damageMult": 1.5,
+      "cooldown": 3.0
+    }
+  },
+  {
+    "id": "skill_3001",
+    "name": {
+      "en": "Quick Step",
+      "fa": "گام سریع"
+    },
+    "class": "SHARED",
+    "type": "ACTIVE",
+    "levelReq": 1,
+    "description": {
+      "en": "Dodge forward with iframes.",
+      "fa": "گام سریع با فریم‌های پنهان."
+    },
+    "effects": {
+      "evasion": 0.5,
+      "duration": 0.6
+    }
+  },
+  {
+    "id": "skill_3002",
+    "name": {
+      "en": "Guard Stance",
+      "fa": "نگهبانی"
+    },
+    "class": "SHARED",
+    "type": "PASSIVE",
+    "levelReq": 4,
+    "description": {
+      "en": "Reduces incoming damage by 15%.",
+      "fa": "نگهبانی، ۱۵٪ کاهش دمیج."
+    },
+    "effects": {
+      "damageReduction": 0.15
+    }
+  },
+  {
+    "id": "skill_3003",
+    "name": {
+      "en": "Focus",
+      "fa": "تمرکز"
+    },
+    "class": "SHARED",
+    "type": "PASSIVE",
+    "levelReq": 8,
+    "description": {
+      "en": "Critical hit chance +5%.",
+      "fa": "تمرکز، +۵٪ کریتیک."
+    },
+    "effects": {
+      "critChance": 0.05
+    }
+  },
+  {
+    "id": "skill_3004",
+    "name": {
+      "en": "Second Wind",
+      "fa": "نفس دوم"
+    },
+    "class": "SHARED",
+    "type": "ACTIVE",
+    "levelReq": 12,
+    "description": {
+      "en": "Heal 20% max HP over 3s.",
+      "fa": "ب در ۳ ثانیه می‌آید."
+    },
+    "effects": {
+      "healPct": 0.2,
+      "duration": 3.0
+    }
+  },
+  {
+    "id": "skill_3005",
+    "name": {
+      "en": "Appraise",
+      "fa": "شناسایی"
+    },
+    "class": "SHARED",
+    "type": "PASSIVE",
+    "levelReq": 16,
+    "description": {
+      "en": "Drop rate +10%.",
+      "fa": "شناسایی، +۱۰٪ غنیمت."
+    },
+    "effects": {
+      "dropRate": 0.1
+    }
+  },
+  {
+    "id": "skill_3006",
+    "name": {
+      "en": "Battle Cry",
+      "fa": "سرود جنگ"
+    },
+    "class": "SHARED",
+    "type": "ACTIVE",
+    "levelReq": 20,
+    "description": {
+      "en": "Taunt enemies, +25% threat for 8s.",
+      "fa": "سرود جنگ، ۸ ثانیه تهدید +۲۵٪."
+    },
+    "effects": {
+      "taunt": 8.0
+    }
+  },
+  {
+    "id": "skill_3007",
+    "name": {
+      "en": "Meditation",
+      "fa": "مراقبته"
+    },
+    "class": "SHARED",
+    "type": "PASSIVE",
+    "levelReq": 24,
+    "description": {
+      "en": "MP regeneration +2.",
+      "fa": "مراقبته، بازیابی منا +۲."
+    },
+    "effects": {
+      "mpRegen": 2.0
+    }
+  },
+  {
+    "id": "skill_3008",
+    "name": {
+      "en": "Shield Bash",
+      "fa": "ضربه سپر"
+    },
+    "class": "KNIGHT",
+    "type": "ACTIVE",
+    "levelReq": 10,
+    "description": {
+      "en": "Bash with shield, stun 1.5s.",
+      "fa": "ضربه سپر، بیهنجاری ۱.۵ ثانیه."
+    },
+    "effects": {
+      "stun": 1.5,
+      "damageMult": 1.0
+    }
+  },
+  {
+    "id": "skill_3009",
+    "name": {
+      "en": "Valiant Leap II",
+      "fa": "پرش شجاعت دو"
+    },
+    "class": "KNIGHT",
+    "type": "ACTIVE",
+    "levelReq": 15,
+    "description": {
+      "en": "Leap to enemy, 120% ATK.",
+      "fa": "پرش به دشمن، ۱۲۰٪ دمیج."
+    },
+    "effects": {
+      "damageMult": 1.2
+    }
+  },
+  {
+    "id": "skill_3010",
+    "name": {
+      "en": "Defend Others III",
+      "fa": "دفاع از دیگران سه"
+    },
+    "class": "KNIGHT",
+    "type": "ACTIVE",
+    "levelReq": 20,
+    "description": {
+      "en": "Redirect 50% ally damage to self.",
+      "fa": "دفاع از دیگران، ۵۰٪ دمیج به خود."
+    },
+    "effects": {
+      "redirectPct": 0.5
+    }
+  },
+  {
+    "id": "skill_3011",
+    "name": {
+      "en": "Iron Will IV",
+      "fa": "اراده آهن چهار"
+    },
+    "class": "KNIGHT",
+    "type": "PASSIVE",
+    "levelReq": 25,
+    "description": {
+      "en": "Stun resistance +40%.",
+      "fa": "اراده آهن، +۴۰٪ مقاومت بیهنجاری."
+    },
+    "effects": {
+      "stunResist": 0.4
+    }
+  },
+  {
+    "id": "skill_3012",
+    "name": {
+      "en": "Sword Oath V",
+      "fa": "قسم شمشیر پنج"
+    },
+    "class": "KNIGHT",
+    "type": "PASSIVE",
+    "levelReq": 30,
+    "description": {
+      "en": "Sword attacks +20% damage.",
+      "fa": "قسم شمشیر، +۲۰٪ دمیج اسلحهٔ شمشیر."
+    },
+    "effects": {
+      "damageMult": 1.2
+    }
+  },
+  {
+    "id": "skill_3013",
+    "name": {
+      "en": "Shield Bash V",
+      "fa": "ضربه سپر پنج"
+    },
+    "class": "KNIGHT",
+    "type": "ACTIVE",
+    "levelReq": 15,
+    "description": {
+      "en": "Bash with shield, stun 1.5s.",
+      "fa": "ضربه سپر، بیهنجاری ۱.۵ ثانیه."
+    },
+    "effects": {
+      "stun": 1.5,
+      "damageMult": 1.0
+    }
+  },
+  {
+    "id": "skill_3014",
+    "name": {
+      "en": "Valiant Leap V",
+      "fa": "پرش شجاعت پنج"
+    },
+    "class": "KNIGHT",
+    "type": "ACTIVE",
+    "levelReq": 20,
+    "description": {
+      "en": "Leap to enemy, 120% ATK.",
+      "fa": "پرش به دشمن، ۱۲۰٪ دمیج."
+    },
+    "effects": {
+      "damageMult": 1.2
+    }
+  },
+  {
+    "id": "skill_3015",
+    "name": {
+      "en": "Defend Others V",
+      "fa": "دفاع از دیگران پنج"
+    },
+    "class": "KNIGHT",
+    "type": "ACTIVE",
+    "levelReq": 25,
+    "description": {
+      "en": "Redirect 50% ally damage to self.",
+      "fa": "دفاع از دیگران، ۵۰٪ دمیج به خود."
+    },
+    "effects": {
+      "redirectPct": 0.5
+    }
+  },
+  {
+    "id": "skill_3016",
+    "name": {
+      "en": "Iron Will V",
+      "fa": "اراده آهن پنج"
+    },
+    "class": "KNIGHT",
+    "type": "PASSIVE",
+    "levelReq": 30,
+    "description": {
+      "en": "Stun resistance +40%.",
+      "fa": "اراده آهن، +۴۰٪ مقاومت بیهنجاری."
+    },
+    "effects": {
+      "stunResist": 0.4
+    }
+  },
+  {
+    "id": "skill_3017",
+    "name": {
+      "en": "Sword Oath V",
+      "fa": "قسم شمشیر پنج"
+    },
+    "class": "KNIGHT",
+    "type": "PASSIVE",
+    "levelReq": 35,
+    "description": {
+      "en": "Sword attacks +20% damage.",
+      "fa": "قسم شمشیر، +۲۰٪ دمیج اسلحهٔ شمشیر."
+    },
+    "effects": {
+      "damageMult": 1.2
+    }
+  },
+  {
+    "id": "skill_3018",
+    "name": {
+      "en": "Shield Bash V",
+      "fa": "ضربه سپر پنج"
+    },
+    "class": "KNIGHT",
+    "type": "ACTIVE",
+    "levelReq": 20,
+    "description": {
+      "en": "Bash with shield, stun 1.5s.",
+      "fa": "ضربه سپر، بیهنجاری ۱.۵ ثانیه."
+    },
+    "effects": {
+      "stun": 1.5,
+      "damageMult": 1.0
+    }
+  },
+  {
+    "id": "skill_3019",
+    "name": {
+      "en": "Valiant Leap V",
+      "fa": "پرش شجاعت پنج"
+    },
+    "class": "KNIGHT",
+    "type": "ACTIVE",
+    "levelReq": 25,
+    "description": {
+      "en": "Leap to enemy, 120% ATK.",
+      "fa": "پرش به دشمن، ۱۲۰٪ دمیج."
+    },
+    "effects": {
+      "damageMult": 1.2
+    }
+  },
+  {
+    "id": "skill_3020",
+    "name": {
+      "en": "Defend Others V",
+      "fa": "دفاع از دیگران پنج"
+    },
+    "class": "KNIGHT",
+    "type": "ACTIVE",
+    "levelReq": 30,
+    "description": {
+      "en": "Redirect 50% ally damage to self.",
+      "fa": "دفاع از دیگران، ۵۰٪ دمیج به خود."
+    },
+    "effects": {
+      "redirectPct": 0.5
+    }
+  },
+  {
+    "id": "skill_3021",
+    "name": {
+      "en": "Iron Will V",
+      "fa": "اراده آهن پنج"
+    },
+    "class": "KNIGHT",
+    "type": "PASSIVE",
+    "levelReq": 35,
+    "description": {
+      "en": "Stun resistance +40%.",
+      "fa": "اراده آهن، +۴۰٪ مقاومت بیهنجاری."
+    },
+    "effects": {
+      "stunResist": 0.4
+    }
+  },
+  {
+    "id": "skill_3022",
+    "name": {
+      "en": "Sword Oath V",
+      "fa": "قسم شمشیر پنج"
+    },
+    "class": "KNIGHT",
+    "type": "PASSIVE",
+    "levelReq": 40,
+    "description": {
+      "en": "Sword attacks +20% damage.",
+      "fa": "قسم شمشیر، +۲۰٪ دمیج اسلحهٔ شمشیر."
+    },
+    "effects": {
+      "damageMult": 1.2
+    }
+  },
+  {
+    "id": "skill_3023",
+    "name": {
+      "en": "Shield Bash V",
+      "fa": "ضربه سپر پنج"
+    },
+    "class": "KNIGHT",
+    "type": "ACTIVE",
+    "levelReq": 25,
+    "description": {
+      "en": "Bash with shield, stun 1.5s.",
+      "fa": "ضربه سپر، بیهنجاری ۱.۵ ثانیه."
+    },
+    "effects": {
+      "stun": 1.5,
+      "damageMult": 1.0
+    }
+  },
+  {
+    "id": "skill_3024",
+    "name": {
+      "en": "Valiant Leap V",
+      "fa": "پرش شجاعت پنج"
+    },
+    "class": "KNIGHT",
+    "type": "ACTIVE",
+    "levelReq": 30,
+    "description": {
+      "en": "Leap to enemy, 120% ATK.",
+      "fa": "پرش به دشمن، ۱۲۰٪ دمیج."
+    },
+    "effects": {
+      "damageMult": 1.2
+    }
+  },
+  {
+    "id": "skill_3025",
+    "name": {
+      "en": "Defend Others V",
+      "fa": "دفاع از دیگران پنج"
+    },
+    "class": "KNIGHT",
+    "type": "ACTIVE",
+    "levelReq": 35,
+    "description": {
+      "en": "Redirect 50% ally damage to self.",
+      "fa": "دفاع از دیگران، ۵۰٪ دمیج به خود."
+    },
+    "effects": {
+      "redirectPct": 0.5
+    }
+  },
+  {
+    "id": "skill_3026",
+    "name": {
+      "en": "Iron Will V",
+      "fa": "اراده آهن پنج"
+    },
+    "class": "KNIGHT",
+    "type": "PASSIVE",
+    "levelReq": 40,
+    "description": {
+      "en": "Stun resistance +40%.",
+      "fa": "اراده آهن، +۴۰٪ مقاومت بیهنجاری."
+    },
+    "effects": {
+      "stunResist": 0.4
+    }
+  },
+  {
+    "id": "skill_3027",
+    "name": {
+      "en": "Sword Oath V",
+      "fa": "قسم شمشیر پنج"
+    },
+    "class": "KNIGHT",
+    "type": "PASSIVE",
+    "levelReq": 45,
+    "description": {
+      "en": "Sword attacks +20% damage.",
+      "fa": "قسم شمشیر، +۲۰٪ دمیج اسلحهٔ شمشیر."
+    },
+    "effects": {
+      "damageMult": 1.2
+    }
+  },
+  {
+    "id": "skill_3028",
+    "name": {
+      "en": "Backstab",
+      "fa": "ضربه پشت سر"
+    },
+    "class": "ROGUE",
+    "type": "ACTIVE",
+    "levelReq": 10,
+    "description": {
+      "en": "300% ATK if striking from behind.",
+      "fa": "ضربه پشت سر، ۳۰۰٪ دمیج."
+    },
+    "effects": {
+      "damageMult": 3.0
+    }
+  },
+  {
+    "id": "skill_3029",
+    "name": {
+      "en": "Smoke Bomb II",
+      "fa": "بمب دود دو"
+    },
+    "class": "ROGUE",
+    "type": "ACTIVE",
+    "levelReq": 15,
+    "description": {
+      "en": "Stealth 6s, evasion +60%.",
+      "fa": "بمب دود، ۶ ثانیه مخفی، +۶٪ فرار."
+    },
+    "effects": {
+      "evasion": 0.6,
+      "duration": 6.0
+    }
+  },
+  {
+    "id": "skill_3030",
+    "name": {
+      "en": "Poison Blade III",
+      "fa": "شمشیر سمی سه"
+    },
+    "class": "ROGUE",
+    "type": "ACTIVE",
+    "levelReq": 20,
+    "description": {
+      "en": "Bleed for 8s.",
+      "fa": "شمشیر سمی، خونریزی ۸ ثانیه."
+    },
+    "effects": {
+      "bleed": 8.0,
+      "damageMult": 1.1
+    }
+  },
+  {
+    "id": "skill_3031",
+    "name": {
+      "en": "Shadow Step IV",
+      "fa": "پا سایه چهار"
+    },
+    "class": "ROGUE",
+    "type": "PASSIVE",
+    "levelReq": 25,
+    "description": {
+      "en": "Crit +8% while stealthed.",
+      "fa": "پا سایه، +۸٪ کریتیک در مخفی."
+    },
+    "effects": {
+      "critChance": 0.08
+    }
+  },
+  {
+    "id": "skill_3032",
+    "name": {
+      "en": "Assassinate V",
+      "fa": "قتلراجعه پنج"
+    },
+    "class": "ROGUE",
+    "type": "PASSIVE",
+    "levelReq": 30,
+    "description": {
+      "en": "+50% damage to targets below 30% HP.",
+      "fa": "قتلراجعه، +۵۰٪ دمیج زیر ۳۰٪ جان."
+    },
+    "effects": {
+      "executeMult": 1.5,
+      "hpThreshold": 0.3
+    }
+  },
+  {
+    "id": "skill_3033",
+    "name": {
+      "en": "Backstab V",
+      "fa": "ضربه پشت سر پنج"
+    },
+    "class": "ROGUE",
+    "type": "ACTIVE",
+    "levelReq": 15,
+    "description": {
+      "en": "300% ATK if striking from behind.",
+      "fa": "ضربه پشت سر، ۳۰۰٪ دمیج."
+    },
+    "effects": {
+      "damageMult": 3.0
+    }
+  },
+  {
+    "id": "skill_3034",
+    "name": {
+      "en": "Smoke Bomb V",
+      "fa": "بمب دود پنج"
+    },
+    "class": "ROGUE",
+    "type": "ACTIVE",
+    "levelReq": 20,
+    "description": {
+      "en": "Stealth 6s, evasion +60%.",
+      "fa": "بمب دود، ۶ ثانیه مخفی، +۶٪ فرار."
+    },
+    "effects": {
+      "evasion": 0.6,
+      "duration": 6.0
+    }
+  },
+  {
+    "id": "skill_3035",
+    "name": {
+      "en": "Poison Blade V",
+      "fa": "شمشیر سمی پنج"
+    },
+    "class": "ROGUE",
+    "type": "ACTIVE",
+    "levelReq": 25,
+    "description": {
+      "en": "Bleed for 8s.",
+      "fa": "شمشیر سمی، خونریزی ۸ ثانیه."
+    },
+    "effects": {
+      "bleed": 8.0,
+      "damageMult": 1.1
+    }
+  },
+  {
+    "id": "skill_3036",
+    "name": {
+      "en": "Shadow Step V",
+      "fa": "پا سایه پنج"
+    },
+    "class": "ROGUE",
+    "type": "PASSIVE",
+    "levelReq": 30,
+    "description": {
+      "en": "Crit +8% while stealthed.",
+      "fa": "پا سایه، +۸٪ کریتیک در مخفی."
+    },
+    "effects": {
+      "critChance": 0.08
+    }
+  },
+  {
+    "id": "skill_3037",
+    "name": {
+      "en": "Assassinate V",
+      "fa": "قتلراجعه پنج"
+    },
+    "class": "ROGUE",
+    "type": "PASSIVE",
+    "levelReq": 35,
+    "description": {
+      "en": "+50% damage to targets below 30% HP.",
+      "fa": "قتلراجعه، +۵۰٪ دمیج زیر ۳۰٪ جان."
+    },
+    "effects": {
+      "executeMult": 1.5,
+      "hpThreshold": 0.3
+    }
+  },
+  {
+    "id": "skill_3038",
+    "name": {
+      "en": "Backstab V",
+      "fa": "ضربه پشت سر پنج"
+    },
+    "class": "ROGUE",
+    "type": "ACTIVE",
+    "levelReq": 20,
+    "description": {
+      "en": "300% ATK if striking from behind.",
+      "fa": "ضربه پشت سر، ۳۰۰٪ دمیج."
+    },
+    "effects": {
+      "damageMult": 3.0
+    }
+  },
+  {
+    "id": "skill_3039",
+    "name": {
+      "en": "Smoke Bomb V",
+      "fa": "بمب دود پنج"
+    },
+    "class": "ROGUE",
+    "type": "ACTIVE",
+    "levelReq": 25,
+    "description": {
+      "en": "Stealth 6s, evasion +60%.",
+      "fa": "بمب دود، ۶ ثانیه مخفی، +۶٪ فرار."
+    },
+    "effects": {
+      "evasion": 0.6,
+      "duration": 6.0
+    }
+  },
+  {
+    "id": "skill_3040",
+    "name": {
+      "en": "Poison Blade V",
+      "fa": "شمشیر سمی پنج"
+    },
+    "class": "ROGUE",
+    "type": "ACTIVE",
+    "levelReq": 30,
+    "description": {
+      "en": "Bleed for 8s.",
+      "fa": "شمشیر سمی، خونریزی ۸ ثانیه."
+    },
+    "effects": {
+      "bleed": 8.0,
+      "damageMult": 1.1
+    }
+  },
+  {
+    "id": "skill_3041",
+    "name": {
+      "en": "Shadow Step V",
+      "fa": "پا سایه پنج"
+    },
+    "class": "ROGUE",
+    "type": "PASSIVE",
+    "levelReq": 35,
+    "description": {
+      "en": "Crit +8% while stealthed.",
+      "fa": "پا سایه، +۸٪ کریتیک در مخفی."
+    },
+    "effects": {
+      "critChance": 0.08
+    }
+  },
+  {
+    "id": "skill_3042",
+    "name": {
+      "en": "Assassinate V",
+      "fa": "قتلراجعه پنج"
+    },
+    "class": "ROGUE",
+    "type": "PASSIVE",
+    "levelReq": 40,
+    "description": {
+      "en": "+50% damage to targets below 30% HP.",
+      "fa": "قتلراجعه، +۵۰٪ دمیج زیر ۳۰٪ جان."
+    },
+    "effects": {
+      "executeMult": 1.5,
+      "hpThreshold": 0.3
+    }
+  },
+  {
+    "id": "skill_3043",
+    "name": {
+      "en": "Backstab V",
+      "fa": "ضربه پشت سر پنج"
+    },
+    "class": "ROGUE",
+    "type": "ACTIVE",
+    "levelReq": 25,
+    "description": {
+      "en": "300% ATK if striking from behind.",
+      "fa": "ضربه پشت سر، ۳۰۰٪ دمیج."
+    },
+    "effects": {
+      "damageMult": 3.0
+    }
+  },
+  {
+    "id": "skill_3044",
+    "name": {
+      "en": "Smoke Bomb V",
+      "fa": "بمب دود پنج"
+    },
+    "class": "ROGUE",
+    "type": "ACTIVE",
+    "levelReq": 30,
+    "description": {
+      "en": "Stealth 6s, evasion +60%.",
+      "fa": "بمب دود، ۶ ثانیه مخفی، +۶٪ فرار."
+    },
+    "effects": {
+      "evasion": 0.6,
+      "duration": 6.0
+    }
+  },
+  {
+    "id": "skill_3045",
+    "name": {
+      "en": "Poison Blade V",
+      "fa": "شمشیر سمی پنج"
+    },
+    "class": "ROGUE",
+    "type": "ACTIVE",
+    "levelReq": 35,
+    "description": {
+      "en": "Bleed for 8s.",
+      "fa": "شمشیر سمی، خونریزی ۸ ثانیه."
+    },
+    "effects": {
+      "bleed": 8.0,
+      "damageMult": 1.1
+    }
+  },
+  {
+    "id": "skill_3046",
+    "name": {
+      "en": "Shadow Step V",
+      "fa": "پا سایه پنج"
+    },
+    "class": "ROGUE",
+    "type": "PASSIVE",
+    "levelReq": 40,
+    "description": {
+      "en": "Crit +8% while stealthed.",
+      "fa": "پا سایه، +۸٪ کریتیک در مخفی."
+    },
+    "effects": {
+      "critChance": 0.08
+    }
+  },
+  {
+    "id": "skill_3047",
+    "name": {
+      "en": "Assassinate V",
+      "fa": "قتلراجعه پنج"
+    },
+    "class": "ROGUE",
+    "type": "PASSIVE",
+    "levelReq": 45,
+    "description": {
+      "en": "+50% damage to targets below 30% HP.",
+      "fa": "قتلراجعه، +۵۰٪ دمیج زیر ۳۰٪ جان."
+    },
+    "effects": {
+      "executeMult": 1.5,
+      "hpThreshold": 0.3
+    }
+  },
+  {
+    "id": "skill_3048",
+    "name": {
+      "en": "Fireball",
+      "fa": "فیربال"
+    },
+    "class": "MAGE",
+    "type": "ACTIVE",
+    "levelReq": 10,
+    "description": {
+      "en": "Fire bolt, 140% MAG, may burn.",
+      "fa": "فیربال، ۱۴۰٪ دمیج جادو، ممکن است سوخت."
+    },
+    "effects": {
+      "damageMult": 1.4,
+      "element": "FIRE",
+      "burn": 5.0
+    }
+  },
+  {
+    "id": "skill_3049",
+    "name": {
+      "en": "Frost Nova II",
+      "fa": "نوا یخ دو"
+    },
+    "class": "MAGE",
+    "type": "ACTIVE",
+    "levelReq": 15,
+    "description": {
+      "en": "Freeze nearby enemies 2s.",
+      "fa": "نوا یخ، بیهنجاری ۲ ثانیه."
+    },
+    "effects": {
+      "freeze": 2.0,
+      "damageMult": 1.1
+    }
+  },
+  {
+    "id": "skill_3050",
+    "name": {
+      "en": "Chain Lightning III",
+      "fa": "زنجیره بارق سه"
+    },
+    "class": "MAGE",
+    "type": "ACTIVE",
+    "levelReq": 20,
+    "description": {
+      "en": "Lightning jumps to 3 targets.",
+      "fa": "زنجیره بارق به ۳ هدف."
+    },
+    "effects": {
+      "damageMult": 1.0,
+      "chain": 3,
+      "element": "LIGHTNING"
+    }
+  },
+  {
+    "id": "skill_3051",
+    "name": {
+      "en": "Arcane Shield IV",
+      "fa": "ترمیت جادو چهار"
+    },
+    "class": "MAGE",
+    "type": "PASSIVE",
+    "levelReq": 25,
+    "description": {
+      "en": "Absorb 200 damage per hit.",
+      "fa": "ترمیت جادو، جذب ۲۰۰ دمیج."
+    },
+    "effects": {
+      "shield": 200
+    }
+  },
+  {
+    "id": "skill_3052",
+    "name": {
+      "en": "Mana Burst V",
+      "fa": "فشار منا پنج"
+    },
+    "class": "MAGE",
+    "type": "PASSIVE",
+    "levelReq": 30,
+    "description": {
+      "en": "Spells cost 30% less MP.",
+      "fa": "فشار منا، ۳۰٪ کمتر هزینه منا."
+    },
+    "effects": {
+      "mpCostReduction": 0.3
+    }
+  },
+  {
+    "id": "skill_3053",
+    "name": {
+      "en": "Fireball V",
+      "fa": "فیربال پنج"
+    },
+    "class": "MAGE",
+    "type": "ACTIVE",
+    "levelReq": 15,
+    "description": {
+      "en": "Fire bolt, 140% MAG, may burn.",
+      "fa": "فیربال، ۱۴۰٪ دمیج جادو، ممکن است سوخت."
+    },
+    "effects": {
+      "damageMult": 1.4,
+      "element": "FIRE",
+      "burn": 5.0
+    }
+  },
+  {
+    "id": "skill_3054",
+    "name": {
+      "en": "Frost Nova V",
+      "fa": "نوا یخ پنج"
+    },
+    "class": "MAGE",
+    "type": "ACTIVE",
+    "levelReq": 20,
+    "description": {
+      "en": "Freeze nearby enemies 2s.",
+      "fa": "نوا یخ، بیهنجاری ۲ ثانیه."
+    },
+    "effects": {
+      "freeze": 2.0,
+      "damageMult": 1.1
+    }
+  },
+  {
+    "id": "skill_3055",
+    "name": {
+      "en": "Chain Lightning V",
+      "fa": "زنجیره بارق پنج"
+    },
+    "class": "MAGE",
+    "type": "ACTIVE",
+    "levelReq": 25,
+    "description": {
+      "en": "Lightning jumps to 3 targets.",
+      "fa": "زنجیره بارق به ۳ هدف."
+    },
+    "effects": {
+      "damageMult": 1.0,
+      "chain": 3,
+      "element": "LIGHTNING"
+    }
+  },
+  {
+    "id": "skill_3056",
+    "name": {
+      "en": "Arcane Shield V",
+      "fa": "ترمیت جادو پنج"
+    },
+    "class": "MAGE",
+    "type": "PASSIVE",
+    "levelReq": 30,
+    "description": {
+      "en": "Absorb 200 damage per hit.",
+      "fa": "ترمیت جادو، جذب ۲۰۰ دمیج."
+    },
+    "effects": {
+      "shield": 200
+    }
+  },
+  {
+    "id": "skill_3057",
+    "name": {
+      "en": "Mana Burst V",
+      "fa": "فشار منا پنج"
+    },
+    "class": "MAGE",
+    "type": "PASSIVE",
+    "levelReq": 35,
+    "description": {
+      "en": "Spells cost 30% less MP.",
+      "fa": "فشار منا، ۳۰٪ کمتر هزینه منا."
+    },
+    "effects": {
+      "mpCostReduction": 0.3
+    }
+  },
+  {
+    "id": "skill_3058",
+    "name": {
+      "en": "Fireball V",
+      "fa": "فیربال پنج"
+    },
+    "class": "MAGE",
+    "type": "ACTIVE",
+    "levelReq": 20,
+    "description": {
+      "en": "Fire bolt, 140% MAG, may burn.",
+      "fa": "فیربال، ۱۴۰٪ دمیج جادو، ممکن است سوخت."
+    },
+    "effects": {
+      "damageMult": 1.4,
+      "element": "FIRE",
+      "burn": 5.0
+    }
+  },
+  {
+    "id": "skill_3059",
+    "name": {
+      "en": "Frost Nova V",
+      "fa": "نوا یخ پنج"
+    },
+    "class": "MAGE",
+    "type": "ACTIVE",
+    "levelReq": 25,
+    "description": {
+      "en": "Freeze nearby enemies 2s.",
+      "fa": "نوا یخ، بیهنجاری ۲ ثانیه."
+    },
+    "effects": {
+      "freeze": 2.0,
+      "damageMult": 1.1
+    }
+  },
+  {
+    "id": "skill_3060",
+    "name": {
+      "en": "Chain Lightning V",
+      "fa": "زنجیره بارق پنج"
+    },
+    "class": "MAGE",
+    "type": "ACTIVE",
+    "levelReq": 30,
+    "description": {
+      "en": "Lightning jumps to 3 targets.",
+      "fa": "زنجیره بارق به ۳ هدف."
+    },
+    "effects": {
+      "damageMult": 1.0,
+      "chain": 3,
+      "element": "LIGHTNING"
+    }
+  },
+  {
+    "id": "skill_3061",
+    "name": {
+      "en": "Arcane Shield V",
+      "fa": "ترمیت جادو پنج"
+    },
+    "class": "MAGE",
+    "type": "PASSIVE",
+    "levelReq": 35,
+    "description": {
+      "en": "Absorb 200 damage per hit.",
+      "fa": "ترمیت جادو، جذب ۲۰۰ دمیج."
+    },
+    "effects": {
+      "shield": 200
+    }
+  },
+  {
+    "id": "skill_3062",
+    "name": {
+      "en": "Mana Burst V",
+      "fa": "فشار منا پنج"
+    },
+    "class": "MAGE",
+    "type": "PASSIVE",
+    "levelReq": 40,
+    "description": {
+      "en": "Spells cost 30% less MP.",
+      "fa": "فشار منا، ۳۰٪ کمتر هزینه منا."
+    },
+    "effects": {
+      "mpCostReduction": 0.3
+    }
+  },
+  {
+    "id": "skill_3063",
+    "name": {
+      "en": "Fireball V",
+      "fa": "فیربال پنج"
+    },
+    "class": "MAGE",
+    "type": "ACTIVE",
+    "levelReq": 25,
+    "description": {
+      "en": "Fire bolt, 140% MAG, may burn.",
+      "fa": "فیربال، ۱۴۰٪ دمیج جادو، ممکن است سوخت."
+    },
+    "effects": {
+      "damageMult": 1.4,
+      "element": "FIRE",
+      "burn": 5.0
+    }
+  },
+  {
+    "id": "skill_3064",
+    "name": {
+      "en": "Frost Nova V",
+      "fa": "نوا یخ پنج"
+    },
+    "class": "MAGE",
+    "type": "ACTIVE",
+    "levelReq": 30,
+    "description": {
+      "en": "Freeze nearby enemies 2s.",
+      "fa": "نوا یخ، بیهنجاری ۲ ثانیه."
+    },
+    "effects": {
+      "freeze": 2.0,
+      "damageMult": 1.1
+    }
+  },
+  {
+    "id": "skill_3065",
+    "name": {
+      "en": "Chain Lightning V",
+      "fa": "زنجیره بارق پنج"
+    },
+    "class": "MAGE",
+    "type": "ACTIVE",
+    "levelReq": 35,
+    "description": {
+      "en": "Lightning jumps to 3 targets.",
+      "fa": "زنجیره بارق به ۳ هدف."
+    },
+    "effects": {
+      "damageMult": 1.0,
+      "chain": 3,
+      "element": "LIGHTNING"
+    }
+  },
+  {
+    "id": "skill_3066",
+    "name": {
+      "en": "Arcane Shield V",
+      "fa": "ترمیت جادو پنج"
+    },
+    "class": "MAGE",
+    "type": "PASSIVE",
+    "levelReq": 40,
+    "description": {
+      "en": "Absorb 200 damage per hit.",
+      "fa": "ترمیت جادو، جذب ۲۰۰ دمیج."
+    },
+    "effects": {
+      "shield": 200
+    }
+  },
+  {
+    "id": "skill_3067",
+    "name": {
+      "en": "Mana Burst V",
+      "fa": "فشار منا پنج"
+    },
+    "class": "MAGE",
+    "type": "PASSIVE",
+    "levelReq": 45,
+    "description": {
+      "en": "Spells cost 30% less MP.",
+      "fa": "فشار منا، ۳۰٪ کمتر هزینه منا."
+    },
+    "effects": {
+      "mpCostReduction": 0.3
+    }
+  },
+  {
+    "id": "skill_3068",
+    "name": {
+      "en": "Piercing Shot",
+      "fa": "تیر خار"
+    },
+    "class": "RANGER",
+    "type": "ACTIVE",
+    "levelReq": 10,
+    "description": {
+      "en": "Shoots through all enemies in line.",
+      "fa": "تیر خار، ش همه دشمنان را می‌زند."
+    },
+    "effects": {
+      "pierce": true,
+      "damageMult": 1.3
+    }
+  },
+  {
+    "id": "skill_3069",
+    "name": {
+      "en": "Hunter's Mark II",
+      "fa": "نشانه شکار دو"
+    },
+    "class": "RANGER",
+    "type": "ACTIVE",
+    "levelReq": 15,
+    "description": {
+      "en": "Mark target; +25% damage vs marked.",
+      "fa": "نشانه شکار، +۲۵٪ دمیج به نشان‌زده‌ها."
+    },
+    "effects": {
+      "damageMult": 1.25
+    }
+  },
+  {
+    "id": "skill_3070",
+    "name": {
+      "en": "Multi-Shot III",
+      "fa": "تیر چندگانه سه"
+    },
+    "class": "RANGER",
+    "type": "ACTIVE",
+    "levelReq": 20,
+    "description": {
+      "en": "Fire 3 arrows at once.",
+      "fa": "تیر چندگانه، ۳ تیر همزمان."
+    },
+    "effects": {
+      "damageMult": 0.9,
+      "shots": 3
+    }
+  },
+  {
+    "id": "skill_3071",
+    "name": {
+      "en": "Eagle Eye IV",
+      "fa": "چشم عقاب چهار"
+    },
+    "class": "RANGER",
+    "type": "PASSIVE",
+    "levelReq": 25,
+    "description": {
+      "en": "Drop rate +15%.",
+      "fa": "چشم عقاب، +۱۵٪ غنیمت."
+    },
+    "effects": {
+      "dropRate": 0.15
+    }
+  },
+  {
+    "id": "skill_3072",
+    "name": {
+      "en": "Barrage V",
+      "fa": "باران تیر پنج"
+    },
+    "class": "RANGER",
+    "type": "PASSIVE",
+    "levelReq": 30,
+    "description": {
+      "en": "20% chance to fire twice.",
+      "fa": "باران تیر، ۲۰٪ شوت دوگانه."
+    },
+    "effects": {
+      "doubleShot": 0.2
+    }
+  },
+  {
+    "id": "skill_3073",
+    "name": {
+      "en": "Piercing Shot V",
+      "fa": "تیر خار پنج"
+    },
+    "class": "RANGER",
+    "type": "ACTIVE",
+    "levelReq": 15,
+    "description": {
+      "en": "Shoots through all enemies in line.",
+      "fa": "تیر خار، ش همه دشمنان را می‌زند."
+    },
+    "effects": {
+      "pierce": true,
+      "damageMult": 1.3
+    }
+  },
+  {
+    "id": "skill_3074",
+    "name": {
+      "en": "Hunter's Mark V",
+      "fa": "نشانه شکار پنج"
+    },
+    "class": "RANGER",
+    "type": "ACTIVE",
+    "levelReq": 20,
+    "description": {
+      "en": "Mark target; +25% damage vs marked.",
+      "fa": "نشانه شکار، +۲۵٪ دمیج به نشان‌زده‌ها."
+    },
+    "effects": {
+      "damageMult": 1.25
+    }
+  },
+  {
+    "id": "skill_3075",
+    "name": {
+      "en": "Multi-Shot V",
+      "fa": "تیر چندگانه پنج"
+    },
+    "class": "RANGER",
+    "type": "ACTIVE",
+    "levelReq": 25,
+    "description": {
+      "en": "Fire 3 arrows at once.",
+      "fa": "تیر چندگانه، ۳ تیر همزمان."
+    },
+    "effects": {
+      "damageMult": 0.9,
+      "shots": 3
+    }
+  },
+  {
+    "id": "skill_3076",
+    "name": {
+      "en": "Eagle Eye V",
+      "fa": "چشم عقاب پنج"
+    },
+    "class": "RANGER",
+    "type": "PASSIVE",
+    "levelReq": 30,
+    "description": {
+      "en": "Drop rate +15%.",
+      "fa": "چشم عقاب، +۱۵٪ غنیمت."
+    },
+    "effects": {
+      "dropRate": 0.15
+    }
+  },
+  {
+    "id": "skill_3077",
+    "name": {
+      "en": "Barrage V",
+      "fa": "باران تیر پنج"
+    },
+    "class": "RANGER",
+    "type": "PASSIVE",
+    "levelReq": 35,
+    "description": {
+      "en": "20% chance to fire twice.",
+      "fa": "باران تیر، ۲۰٪ شوت دوگانه."
+    },
+    "effects": {
+      "doubleShot": 0.2
+    }
+  },
+  {
+    "id": "skill_3078",
+    "name": {
+      "en": "Piercing Shot V",
+      "fa": "تیر خار پنج"
+    },
+    "class": "RANGER",
+    "type": "ACTIVE",
+    "levelReq": 20,
+    "description": {
+      "en": "Shoots through all enemies in line.",
+      "fa": "تیر خار، ش همه دشمنان را می‌زند."
+    },
+    "effects": {
+      "pierce": true,
+      "damageMult": 1.3
+    }
+  },
+  {
+    "id": "skill_3079",
+    "name": {
+      "en": "Hunter's Mark V",
+      "fa": "نشانه شکار پنج"
+    },
+    "class": "RANGER",
+    "type": "ACTIVE",
+    "levelReq": 25,
+    "description": {
+      "en": "Mark target; +25% damage vs marked.",
+      "fa": "نشانه شکار، +۲۵٪ دمیج به نشان‌زده‌ها."
+    },
+    "effects": {
+      "damageMult": 1.25
+    }
+  },
+  {
+    "id": "skill_3080",
+    "name": {
+      "en": "Multi-Shot V",
+      "fa": "تیر چندگانه پنج"
+    },
+    "class": "RANGER",
+    "type": "ACTIVE",
+    "levelReq": 30,
+    "description": {
+      "en": "Fire 3 arrows at once.",
+      "fa": "تیر چندگانه، ۳ تیر همزمان."
+    },
+    "effects": {
+      "damageMult": 0.9,
+      "shots": 3
+    }
+  },
+  {
+    "id": "skill_3081",
+    "name": {
+      "en": "Eagle Eye V",
+      "fa": "چشم عقاب پنج"
+    },
+    "class": "RANGER",
+    "type": "PASSIVE",
+    "levelReq": 35,
+    "description": {
+      "en": "Drop rate +15%.",
+      "fa": "چشم عقاب، +۱۵٪ غنیمت."
+    },
+    "effects": {
+      "dropRate": 0.15
+    }
+  },
+  {
+    "id": "skill_3082",
+    "name": {
+      "en": "Barrage V",
+      "fa": "باران تیر پنج"
+    },
+    "class": "RANGER",
+    "type": "PASSIVE",
+    "levelReq": 40,
+    "description": {
+      "en": "20% chance to fire twice.",
+      "fa": "باران تیر، ۲۰٪ شوت دوگانه."
+    },
+    "effects": {
+      "doubleShot": 0.2
+    }
+  },
+  {
+    "id": "skill_3083",
+    "name": {
+      "en": "Piercing Shot V",
+      "fa": "تیر خار پنج"
+    },
+    "class": "RANGER",
+    "type": "ACTIVE",
+    "levelReq": 25,
+    "description": {
+      "en": "Shoots through all enemies in line.",
+      "fa": "تیر خار، ش همه دشمنان را می‌زند."
+    },
+    "effects": {
+      "pierce": true,
+      "damageMult": 1.3
+    }
+  },
+  {
+    "id": "skill_3084",
+    "name": {
+      "en": "Hunter's Mark V",
+      "fa": "نشانه شکار پنج"
+    },
+    "class": "RANGER",
+    "type": "ACTIVE",
+    "levelReq": 30,
+    "description": {
+      "en": "Mark target; +25% damage vs marked.",
+      "fa": "نشانه شکار، +۲۵٪ دمیج به نشان‌زده‌ها."
+    },
+    "effects": {
+      "damageMult": 1.25
+    }
+  },
+  {
+    "id": "skill_3085",
+    "name": {
+      "en": "Multi-Shot V",
+      "fa": "تیر چندگانه پنج"
+    },
+    "class": "RANGER",
+    "type": "ACTIVE",
+    "levelReq": 35,
+    "description": {
+      "en": "Fire 3 arrows at once.",
+      "fa": "تیر چندگانه، ۳ تیر همزمان."
+    },
+    "effects": {
+      "damageMult": 0.9,
+      "shots": 3
+    }
+  },
+  {
+    "id": "skill_3086",
+    "name": {
+      "en": "Eagle Eye V",
+      "fa": "چشم عقاب پنج"
+    },
+    "class": "RANGER",
+    "type": "PASSIVE",
+    "levelReq": 40,
+    "description": {
+      "en": "Drop rate +15%.",
+      "fa": "چشم عقاب، +۱۵٪ غنیمت."
+    },
+    "effects": {
+      "dropRate": 0.15
+    }
+  },
+  {
+    "id": "skill_3087",
+    "name": {
+      "en": "Barrage V",
+      "fa": "باران تیر پنج"
+    },
+    "class": "RANGER",
+    "type": "PASSIVE",
+    "levelReq": 45,
+    "description": {
+      "en": "20% chance to fire twice.",
+      "fa": "باران تیر، ۲۰٪ شوت دوگانه."
+    },
+    "effects": {
+      "doubleShot": 0.2
+    }
+  },
+  {
+    "id": "skill_3088",
+    "name": {
+      "en": "Forge Mastery",
+      "fa": "آموختن آهنگری"
+    },
+    "class": "VULCAN_HEIR",
+    "type": "PASSIVE",
+    "levelReq": 10,
+    "description": {
+      "en": "Forging quality +15%.",
+      "fa": "آموختن آهنگری، +۱۵٪ کیفیت."
+    },
+    "effects": {
+      "forgeQualityBonus": 0.15
+    }
+  },
+  {
+    "id": "skill_3089",
+    "name": {
+      "en": "Overgear II",
+      "fa": "بیش از ابزار دو"
+    },
+    "class": "VULCAN_HEIR",
+    "type": "PASSIVE",
+    "levelReq": 15,
+    "description": {
+      "en": "Equipped item effects exceed caps.",
+      "fa": "بیش از ابزار، effet超过حدود."
+    },
+    "effects": {
+      "statCapMult": 1.3
+    }
+  },
+  {
+    "id": "skill_3090",
+    "name": {
+      "en": "Anvil Smash III",
+      "fa": "ضربه سنگساختن سه"
+    },
+    "class": "VULCAN_HEIR",
+    "type": "ACTIVE",
+    "levelReq": 20,
+    "description": {
+      "en": "Damage scaled by equipped weapon tier.",
+      "fa": "ضربه سنگساختن 피해 بر اساس سطح."
+    },
+    "effects": {
+      "damageMult": 1.5
+    }
+  },
+  {
+    "id": "skill_3091",
+    "name": {
+      "en": "Self-Buff Gear IV",
+      "fa": "تکمیلی تجهیزات چهار"
+    },
+    "class": "VULCAN_HEIR",
+    "type": "ACTIVE",
+    "levelReq": 25,
+    "description": {
+      "en": "+20% gear stats for 30s.",
+      "fa": "تکمیلی تجهیزات، +۲۰٪ آمار ۳۰ ثانیه."
+    },
+    "effects": {
+      "gearBuff": 0.2,
+      "duration": 30.0
+    }
+  },
+  {
+    "id": "skill_3092",
+    "name": {
+      "en": "Divine Hammer V",
+      "fa": "چاقو الهی پنج"
+    },
+    "class": "VULCAN_HEIR",
+    "type": "ACTIVE",
+    "levelReq": 30,
+    "description": {
+      "en": "Guaranteed Legendary forge once per day.",
+      "fa": "چاقو الهی، لفه یک‌بار در روز."
+    },
+    "effects": {
+      "guaranteedLegendary": true
+    }
+  },
+  {
+    "id": "skill_3093",
+    "name": {
+      "en": "Forge Mastery V",
+      "fa": "آموختن آهنگری پنج"
+    },
+    "class": "VULCAN_HEIR",
+    "type": "PASSIVE",
+    "levelReq": 15,
+    "description": {
+      "en": "Forging quality +15%.",
+      "fa": "آموختن آهنگری، +۱۵٪ کیفیت."
+    },
+    "effects": {
+      "forgeQualityBonus": 0.15
+    }
+  },
+  {
+    "id": "skill_3094",
+    "name": {
+      "en": "Overgear V",
+      "fa": "بیش از ابزار پنج"
+    },
+    "class": "VULCAN_HEIR",
+    "type": "PASSIVE",
+    "levelReq": 20,
+    "description": {
+      "en": "Equipped item effects exceed caps.",
+      "fa": "بیش از ابزار، effet超过حدود."
+    },
+    "effects": {
+      "statCapMult": 1.3
+    }
+  },
+  {
+    "id": "skill_3095",
+    "name": {
+      "en": "Anvil Smash V",
+      "fa": "ضربه سنگساختن پنج"
+    },
+    "class": "VULCAN_HEIR",
+    "type": "ACTIVE",
+    "levelReq": 25,
+    "description": {
+      "en": "Damage scaled by equipped weapon tier.",
+      "fa": "ضربه سنگساختن 피해 بر اساس سطح."
+    },
+    "effects": {
+      "damageMult": 1.5
+    }
+  },
+  {
+    "id": "skill_3096",
+    "name": {
+      "en": "Self-Buff Gear V",
+      "fa": "تکمیلی تجهیزات پنج"
+    },
+    "class": "VULCAN_HEIR",
+    "type": "ACTIVE",
+    "levelReq": 30,
+    "description": {
+      "en": "+20% gear stats for 30s.",
+      "fa": "تکمیلی تجهیزات، +۲۰٪ آمار ۳۰ ثانیه."
+    },
+    "effects": {
+      "gearBuff": 0.2,
+      "duration": 30.0
+    }
+  },
+  {
+    "id": "skill_3097",
+    "name": {
+      "en": "Divine Hammer V",
+      "fa": "چاقو الهی پنج"
+    },
+    "class": "VULCAN_HEIR",
+    "type": "ACTIVE",
+    "levelReq": 35,
+    "description": {
+      "en": "Guaranteed Legendary forge once per day.",
+      "fa": "چاقو الهی، لفه یک‌بار در روز."
+    },
+    "effects": {
+      "guaranteedLegendary": true
+    }
+  },
+  {
+    "id": "skill_3098",
+    "name": {
+      "en": "Forge Mastery V",
+      "fa": "آموختن آهنگری پنج"
+    },
+    "class": "VULCAN_HEIR",
+    "type": "PASSIVE",
+    "levelReq": 20,
+    "description": {
+      "en": "Forging quality +15%.",
+      "fa": "آموختن آهنگری، +۱۵٪ کیفیت."
+    },
+    "effects": {
+      "forgeQualityBonus": 0.15
+    }
+  },
+  {
+    "id": "skill_3099",
+    "name": {
+      "en": "Overgear V",
+      "fa": "بیش از ابزار پنج"
+    },
+    "class": "VULCAN_HEIR",
+    "type": "PASSIVE",
+    "levelReq": 25,
+    "description": {
+      "en": "Equipped item effects exceed caps.",
+      "fa": "بیش از ابزار، effet超过حدود."
+    },
+    "effects": {
+      "statCapMult": 1.3
+    }
+  },
+  {
+    "id": "skill_3100",
+    "name": {
+      "en": "Anvil Smash V",
+      "fa": "ضربه سنگساختن پنج"
+    },
+    "class": "VULCAN_HEIR",
+    "type": "ACTIVE",
+    "levelReq": 30,
+    "description": {
+      "en": "Damage scaled by equipped weapon tier.",
+      "fa": "ضربه سنگساختن 피해 بر اساس سطح."
+    },
+    "effects": {
+      "damageMult": 1.5
+    }
+  },
+  {
+    "id": "skill_3101",
+    "name": {
+      "en": "Self-Buff Gear V",
+      "fa": "تکمیلی تجهیزات پنج"
+    },
+    "class": "VULCAN_HEIR",
+    "type": "ACTIVE",
+    "levelReq": 35,
+    "description": {
+      "en": "+20% gear stats for 30s.",
+      "fa": "تکمیلی تجهیزات، +۲۰٪ آمار ۳۰ ثانیه."
+    },
+    "effects": {
+      "gearBuff": 0.2,
+      "duration": 30.0
+    }
+  },
+  {
+    "id": "skill_3102",
+    "name": {
+      "en": "Divine Hammer V",
+      "fa": "چاقو الهی پنج"
+    },
+    "class": "VULCAN_HEIR",
+    "type": "ACTIVE",
+    "levelReq": 40,
+    "description": {
+      "en": "Guaranteed Legendary forge once per day.",
+      "fa": "چاقو الهی، لفه یک‌بار در روز."
+    },
+    "effects": {
+      "guaranteedLegendary": true
+    }
+  },
+  {
+    "id": "skill_3103",
+    "name": {
+      "en": "Forge Mastery V",
+      "fa": "آموختن آهنگری پنج"
+    },
+    "class": "VULCAN_HEIR",
+    "type": "PASSIVE",
+    "levelReq": 25,
+    "description": {
+      "en": "Forging quality +15%.",
+      "fa": "آموختن آهنگری، +۱۵٪ کیفیت."
+    },
+    "effects": {
+      "forgeQualityBonus": 0.15
+    }
+  },
+  {
+    "id": "skill_3104",
+    "name": {
+      "en": "Overgear V",
+      "fa": "بیش از ابزار پنج"
+    },
+    "class": "VULCAN_HEIR",
+    "type": "PASSIVE",
+    "levelReq": 30,
+    "description": {
+      "en": "Equipped item effects exceed caps.",
+      "fa": "بیش از ابزار، effet超过حدود."
+    },
+    "effects": {
+      "statCapMult": 1.3
+    }
+  },
+  {
+    "id": "skill_3105",
+    "name": {
+      "en": "Anvil Smash V",
+      "fa": "ضربه سنگساختن پنج"
+    },
+    "class": "VULCAN_HEIR",
+    "type": "ACTIVE",
+    "levelReq": 35,
+    "description": {
+      "en": "Damage scaled by equipped weapon tier.",
+      "fa": "ضربه سنگساختن 피해 بر اساس سطح."
+    },
+    "effects": {
+      "damageMult": 1.5
+    }
+  },
+  {
+    "id": "skill_3106",
+    "name": {
+      "en": "Self-Buff Gear V",
+      "fa": "تکمیلی تجهیزات پنج"
+    },
+    "class": "VULCAN_HEIR",
+    "type": "ACTIVE",
+    "levelReq": 40,
+    "description": {
+      "en": "+20% gear stats for 30s.",
+      "fa": "تکمیلی تجهیزات، +۲۰٪ آمار ۳۰ ثانیه."
+    },
+    "effects": {
+      "gearBuff": 0.2,
+      "duration": 30.0
+    }
+  },
+  {
+    "id": "skill_3107",
+    "name": {
+      "en": "Divine Hammer V",
+      "fa": "چاقو الهی پنج"
+    },
+    "class": "VULCAN_HEIR",
+    "type": "ACTIVE",
+    "levelReq": 45,
+    "description": {
+      "en": "Guaranteed Legendary forge once per day.",
+      "fa": "چاقو الهی، لفه یک‌بار در روز."
+    },
+    "effects": {
+      "guaranteedLegendary": true
+    }
+  },
+  {
+    "id": "skill_3108",
+    "name": {
+      "en": "Hot Metal",
+      "fa": "آهن داغ"
+    },
+    "class": "VULCAN_HEIR",
+    "type": "PASSIVE",
+    "levelReq": 30,
+    "description": {
+      "en": "Forge Mastery tier 1.",
+      "fa": "دَرَخْت مهارت آهنگری مرحله 1."
+    },
+    "effects": {
+      "forgeSpeed": 1.3
+    }
+  },
+  {
+    "id": "skill_3109",
+    "name": {
+      "en": "Tempered Edge",
+      "fa": "لبه معتدل"
+    },
+    "class": "VULCAN_HEIR",
+    "type": "PASSIVE",
+    "levelReq": 40,
+    "description": {
+      "en": "Forge Mastery tier 2.",
+      "fa": "دَرَخْت مهارت آهنگری مرحله 2."
+    },
+    "effects": {
+      "critChanceForged": 0.1
+    }
+  },
+  {
+    "id": "skill_3110",
+    "name": {
+      "en": "Soulforge",
+      "fa": "آهنگری روح"
+    },
+    "class": "VULCAN_HEIR",
+    "type": "PASSIVE",
+    "levelReq": 60,
+    "description": {
+      "en": "Forge Mastery tier 3.",
+      "fa": "دَرَخْت مهارت آهنگری مرحله 3."
+    },
+    "effects": {
+      "forgeBonusAffix": 1.0
+    }
+  },
+  {
+    "id": "skill_3111",
+    "name": {
+      "en": "Anvil Heart",
+      "fa": "قلب سنگساختن"
+    },
+    "class": "VULCAN_HEIR",
+    "type": "PASSIVE",
+    "levelReq": 80,
+    "description": {
+      "en": "Forge Mastery tier 4.",
+      "fa": "دَرَخْت مهارت آهنگری مرحله 4."
+    },
+    "effects": {
+      "gearStatsMult": 1.1
+    }
+  },
+  {
+    "id": "skill_3112",
+    "name": {
+      "en": "Overgear Limit Break",
+      "fa": "شکست حد ابزاری"
+    },
+    "class": "VULCAN_HEIR",
+    "type": "PASSIVE",
+    "levelReq": 100,
+    "description": {
+      "en": "Forge Mastery tier 5.",
+      "fa": "دَرَخْت مهارت آهنگری مرحله 5."
+    },
+    "effects": {
+      "statCapMult": 1.6
+    }
+  }
+]

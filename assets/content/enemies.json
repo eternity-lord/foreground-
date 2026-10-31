@@ -1,0 +1,1561 @@
+[
+  {
+    "id": "enemy_4000",
+    "name": {
+      "en": "Rust Rat",
+      "fa": "موش زنگ‌خور"
+    },
+    "type": "NORMAL",
+    "zone": "zone_01",
+    "level": 14,
+    "baseStats": {
+      "HP": 40,
+      "ATK": 6
+    },
+    "skills": [
+      "bite"
+    ],
+    "drops": [
+      {
+        "id": "mat_2004",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "id": "enemy_4001",
+    "name": {
+      "en": "Mud Crab",
+      "fa": "خرچنگ گل"
+    },
+    "type": "NORMAL",
+    "zone": "zone_02",
+    "level": 17,
+    "baseStats": {
+      "HP": 45,
+      "ATK": 5
+    },
+    "skills": [
+      "claw"
+    ],
+    "drops": [
+      {
+        "id": "mat_2002",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "id": "enemy_4002",
+    "name": {
+      "en": "Cave Slug",
+      "fa": "لمو غار"
+    },
+    "type": "NORMAL",
+    "zone": "zone_03",
+    "level": 11,
+    "baseStats": {
+      "HP": 55,
+      "ATK": 8
+    },
+    "skills": [
+      "slime"
+    ],
+    "drops": [
+      {
+        "id": "mat_2004",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "id": "enemy_4003",
+    "name": {
+      "en": "Cave Bat",
+      "fa": "چال غار"
+    },
+    "type": "NORMAL",
+    "zone": "zone_04",
+    "level": 25,
+    "baseStats": {
+      "HP": 38,
+      "ATK": 7
+    },
+    "skills": [
+      "screech"
+    ],
+    "drops": [
+      {
+        "id": "mat_2004",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "id": "enemy_4004",
+    "name": {
+      "en": "Ember Imp",
+      "fa": "جن آتش"
+    },
+    "type": "NORMAL",
+    "zone": "zone_05",
+    "level": 20,
+    "baseStats": {
+      "HP": 70,
+      "ATK": 10,
+      "element": "FIRE"
+    },
+    "skills": [
+      "fireball"
+    ],
+    "drops": [
+      {
+        "id": "mat_2002",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "id": "enemy_4005",
+    "name": {
+      "en": "Ash Stalker",
+      "fa": "شکارک خاکستر"
+    },
+    "type": "NORMAL",
+    "zone": "zone_06",
+    "level": 33,
+    "baseStats": {
+      "HP": 62,
+      "ATK": 9,
+      "element": "FIRE"
+    },
+    "skills": [
+      "emberDash"
+    ],
+    "drops": [
+      {
+        "id": "mat_2001",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "id": "enemy_4006",
+    "name": {
+      "en": "Frost Sprite",
+      "fa": "پری برف"
+    },
+    "type": "NORMAL",
+    "zone": "zone_07",
+    "level": 27,
+    "baseStats": {
+      "HP": 65,
+      "ATK": 11,
+      "element": "ICE"
+    },
+    "skills": [
+      "frostbite"
+    ],
+    "drops": [
+      {
+        "id": "mat_2002",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "id": "enemy_4007",
+    "name": {
+      "en": "Ice Lizard",
+      "fa": "موزنه یخی"
+    },
+    "type": "NORMAL",
+    "zone": "zone_08",
+    "level": 38,
+    "baseStats": {
+      "HP": 58,
+      "ATK": 10,
+      "element": "ICE"
+    },
+    "skills": [
+      "frostBite"
+    ],
+    "drops": [
+      {
+        "id": "mat_2008",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "id": "enemy_4008",
+    "name": {
+      "en": "Shock Beetle",
+      "fa": "هلکت برق"
+    },
+    "type": "NORMAL",
+    "zone": "zone_09",
+    "level": 37,
+    "baseStats": {
+      "HP": 75,
+      "ATK": 12,
+      "element": "LIGHTNING"
+    },
+    "skills": [
+      "spark"
+    ],
+    "drops": [
+      {
+        "id": "mat_2011",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "id": "enemy_4009",
+    "name": {
+      "en": "Static Moth",
+      "fa": "پروانه بارق"
+    },
+    "type": "NORMAL",
+    "zone": "zone_10",
+    "level": 44,
+    "baseStats": {
+      "HP": 68,
+      "ATK": 11,
+      "element": "LIGHTNING"
+    },
+    "skills": [
+      "staticField"
+    ],
+    "drops": [
+      {
+        "id": "mat_2004",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "id": "enemy_4010",
+    "name": {
+      "en": "Stone Golemling",
+      "fa": "گلم سنگی کوچک"
+    },
+    "type": "NORMAL",
+    "zone": "zone_01",
+    "level": 31,
+    "baseStats": {
+      "HP": 120,
+      "ATK": 14
+    },
+    "skills": [
+      "slam"
+    ],
+    "drops": [
+      {
+        "id": "mat_2007",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "id": "enemy_4011",
+    "name": {
+      "en": "Rock Crab",
+      "fa": "خرچنگ سنگی"
+    },
+    "type": "NORMAL",
+    "zone": "zone_02",
+    "level": 50,
+    "baseStats": {
+      "HP": 130,
+      "ATK": 13
+    },
+    "skills": [
+      "claw"
+    ],
+    "drops": [
+      {
+        "id": "mat_2007",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "id": "enemy_4012",
+    "name": {
+      "en": "Sand Stalker",
+      "fa": "شکارکن ریگ"
+    },
+    "type": "NORMAL",
+    "zone": "zone_03",
+    "level": 52,
+    "baseStats": {
+      "HP": 85,
+      "ATK": 15
+    },
+    "skills": [
+      "burrow"
+    ],
+    "drops": [
+      {
+        "id": "mat_2006",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "id": "enemy_4013",
+    "name": {
+      "en": "Dune Viper",
+      "fa": "مار ریگ"
+    },
+    "type": "NORMAL",
+    "zone": "zone_04",
+    "level": 46,
+    "baseStats": {
+      "HP": 72,
+      "ATK": 16,
+      "element": "EARTH"
+    },
+    "skills": [
+      "poisonBite"
+    ],
+    "drops": [
+      {
+        "id": "mat_2007",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "id": "enemy_4014",
+    "name": {
+      "en": "Gloom Stalker",
+      "fa": "شکارکن تاریک"
+    },
+    "type": "NORMAL",
+    "zone": "zone_05",
+    "level": 60,
+    "baseStats": {
+      "HP": 90,
+      "ATK": 16
+    },
+    "skills": [
+      "shadowStrike"
+    ],
+    "drops": [
+      {
+        "id": "mat_2007",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "id": "enemy_4015",
+    "name": {
+      "en": "Twilight Wisp",
+      "fa": "ذره سایه"
+    },
+    "type": "NORMAL",
+    "zone": "zone_06",
+    "level": 43,
+    "baseStats": {
+      "HP": 60,
+      "ATK": 14,
+      "element": "DARK"
+    },
+    "skills": [
+      "shadowTouch"
+    ],
+    "drops": [
+      {
+        "id": "mat_2009",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "id": "enemy_4016",
+    "name": {
+      "en": "Skyforge Sentry",
+      "fa": "نگهبان آسمانی‌ساز"
+    },
+    "type": "NORMAL",
+    "zone": "zone_07",
+    "level": 53,
+    "baseStats": {
+      "HP": 100,
+      "ATK": 17
+    },
+    "skills": [
+      "laser"
+    ],
+    "drops": [
+      {
+        "id": "mat_2003",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "id": "enemy_4017",
+    "name": {
+      "en": "Cloud Drake",
+      "fa": "اژدها ابری کوچک"
+    },
+    "type": "NORMAL",
+    "zone": "zone_08",
+    "level": 58,
+    "baseStats": {
+      "HP": 88,
+      "ATK": 16
+    },
+    "skills": [
+      "wingGale"
+    ],
+    "drops": [
+      {
+        "id": "mat_2002",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "id": "enemy_4018",
+    "name": {
+      "en": "Crimson Knight",
+      "fa": "شیر قرمز"
+    },
+    "type": "NORMAL",
+    "zone": "zone_09",
+    "level": 62,
+    "baseStats": {
+      "HP": 140,
+      "ATK": 19
+    },
+    "skills": [
+      "charge"
+    ],
+    "drops": [
+      {
+        "id": "mat_2002",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "id": "enemy_4019",
+    "name": {
+      "en": "Crimson Guard",
+      "fa": "سرتاژ قرمز"
+    },
+    "type": "NORMAL",
+    "zone": "zone_10",
+    "level": 57,
+    "baseStats": {
+      "HP": 150,
+      "ATK": 18
+    },
+    "skills": [
+      "shieldBash"
+    ],
+    "drops": [
+      {
+        "id": "mat_2011",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "id": "enemy_4020",
+    "name": {
+      "en": "Void Husk",
+      "fa": "خلیک خلاء"
+    },
+    "type": "NORMAL",
+    "zone": "zone_01",
+    "level": 59,
+    "baseStats": {
+      "HP": 110,
+      "ATK": 20,
+      "element": "DARK"
+    },
+    "skills": [
+      "voidTouch"
+    ],
+    "drops": [
+      {
+        "id": "mat_2002",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "id": "enemy_4021",
+    "name": {
+      "en": "Void Wisp",
+      "fa": "ذره خلا"
+    },
+    "type": "NORMAL",
+    "zone": "zone_02",
+    "level": 61,
+    "baseStats": {
+      "HP": 85,
+      "ATK": 19,
+      "element": "DARK"
+    },
+    "skills": [
+      "voidTouch"
+    ],
+    "drops": [
+      {
+        "id": "mat_2002",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "id": "enemy_4022",
+    "name": {
+      "en": "Rust Spitter",
+      "fa": "توهو زنگ"
+    },
+    "type": "NORMAL",
+    "zone": "zone_03",
+    "level": 76,
+    "baseStats": {
+      "HP": 95,
+      "ATK": 18
+    },
+    "skills": [
+      "rustSpit"
+    ],
+    "drops": [
+      {
+        "id": "mat_2004",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "id": "enemy_4023",
+    "name": {
+      "en": "Rust Crawler",
+      "fa": "زنگ‌خش"
+    },
+    "type": "NORMAL",
+    "zone": "zone_04",
+    "level": 60,
+    "baseStats": {
+      "HP": 105,
+      "ATK": 17
+    },
+    "skills": [
+      "rustSpit"
+    ],
+    "drops": [
+      {
+        "id": "mat_2004",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "id": "enemy_4024",
+    "name": {
+      "en": "Ash Ghoul",
+      "fa": "غول خاکستر"
+    },
+    "type": "NORMAL",
+    "zone": "zone_05",
+    "level": 76,
+    "baseStats": {
+      "HP": 160,
+      "ATK": 22
+    },
+    "skills": [
+      "ashLeap"
+    ],
+    "drops": [
+      {
+        "id": "mat_2007",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "id": "enemy_4025",
+    "name": {
+      "en": "Ember Wraith",
+      "fa": " lifespan شبح آتش"
+    },
+    "type": "NORMAL",
+    "zone": "zone_06",
+    "level": 82,
+    "baseStats": {
+      "HP": 150,
+      "ATK": 23,
+      "element": "FIRE"
+    },
+    "skills": [
+      "emberTouch"
+    ],
+    "drops": [
+      {
+        "id": "mat_2004",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "id": "enemy_4026",
+    "name": {
+      "en": "Glacier Stalker",
+      "fa": "شکارکن یخ"
+    },
+    "type": "NORMAL",
+    "zone": "zone_07",
+    "level": 80,
+    "baseStats": {
+      "HP": 175,
+      "ATK": 24,
+      "element": "ICE"
+    },
+    "skills": [
+      "iceSpike"
+    ],
+    "drops": [
+      {
+        "id": "mat_2010",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "id": "enemy_4027",
+    "name": {
+      "en": "Storm Hound",
+      "fa": "سگ طوفان"
+    },
+    "type": "NORMAL",
+    "zone": "zone_08",
+    "level": 76,
+    "baseStats": {
+      "HP": 165,
+      "ATK": 25,
+      "element": "LIGHTNING"
+    },
+    "skills": [
+      "thunderBite"
+    ],
+    "drops": [
+      {
+        "id": "mat_2004",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "id": "enemy_4028",
+    "name": {
+      "en": "Ash Golem",
+      "fa": "گلم خاکستر"
+    },
+    "type": "NORMAL",
+    "zone": "zone_09",
+    "level": 84,
+    "baseStats": {
+      "HP": 200,
+      "ATK": 26
+    },
+    "skills": [
+      "slam"
+    ],
+    "drops": [
+      {
+        "id": "mat_2011",
+        "qty": 3
+      }
+    ]
+  },
+  {
+    "id": "enemy_4029",
+    "name": {
+      "en": "Grawl the Crack-Anvil",
+      "fa": "گروال شکست‌سنگساختن"
+    },
+    "type": "CHAPTER_BOSS",
+    "zone": "zone_01",
+    "level": 28,
+    "baseStats": {
+      "HP": 3500,
+      "ATK": 85
+    },
+    "skills": [
+      "anvilSlam",
+      "shockwave"
+    ],
+    "drops": [
+      {
+        "id": "mat_2001",
+        "qty": 5
+      },
+      {
+        "id": "item_1000",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "id": "enemy_4030",
+    "name": {
+      "en": "Emberdeep Matriarch",
+      "fa": "ماتریارخ امبردیپ"
+    },
+    "type": "CHAPTER_BOSS",
+    "zone": "zone_02",
+    "level": 42,
+    "baseStats": {
+      "HP": 5200,
+      "ATK": 110
+    },
+    "skills": [
+      "lavaPool",
+      "emberBreath"
+    ],
+    "drops": [
+      {
+        "id": "mat_2002",
+        "qty": 5
+      },
+      {
+        "id": "item_1000",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "id": "enemy_4031",
+    "name": {
+      "en": "Frostveil Matron",
+      "fa": "ماترن برف‌وال"
+    },
+    "type": "CHAPTER_BOSS",
+    "zone": "zone_03",
+    "level": 56,
+    "baseStats": {
+      "HP": 6100,
+      "ATK": 125
+    },
+    "skills": [
+      "iceShards",
+      "blizzard"
+    ],
+    "drops": [
+      {
+        "id": "mat_2003",
+        "qty": 5
+      },
+      {
+        "id": "item_1000",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "id": "enemy_4032",
+    "name": {
+      "en": "Sunken Archivist",
+      "fa": "آرشیویست غرق‌شده"
+    },
+    "type": "CHAPTER_BOSS",
+    "zone": "zone_04",
+    "level": 70,
+    "baseStats": {
+      "HP": 7200,
+      "ATK": 140
+    },
+    "skills": [
+      "waterTendrils",
+      "loreDrain"
+    ],
+    "drops": [
+      {
+        "id": "mat_2004",
+        "qty": 5
+      },
+      {
+        "id": "item_1000",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "id": "enemy_4033",
+    "name": {
+      "en": "Stormglass Sultan",
+      "fa": "سلطان شیش‌باران"
+    },
+    "type": "CHAPTER_BOSS",
+    "zone": "zone_05",
+    "level": 84,
+    "baseStats": {
+      "HP": 8400,
+      "ATK": 158
+    },
+    "skills": [
+      "thunderStrike",
+      "sandCyclone"
+    ],
+    "drops": [
+      {
+        "id": "mat_2005",
+        "qty": 5
+      },
+      {
+        "id": "item_1000",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "id": "enemy_4034",
+    "name": {
+      "en": "Gloamwood Stag",
+      "fa": "غزاله غلواموود"
+    },
+    "type": "CHAPTER_BOSS",
+    "zone": "zone_06",
+    "level": 98,
+    "baseStats": {
+      "HP": 9600,
+      "ATK": 175
+    },
+    "skills": [
+      "antlerRush",
+      "petalStorm"
+    ],
+    "drops": [
+      {
+        "id": "mat_2006",
+        "qty": 5
+      },
+      {
+        "id": "item_1000",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "id": "enemy_4035",
+    "name": {
+      "en": "Skyforge Sentinel Prime",
+      "fa": "نگهبان اول آسمانی‌ساز"
+    },
+    "type": "CHAPTER_BOSS",
+    "zone": "zone_07",
+    "level": 112,
+    "baseStats": {
+      "HP": 11000,
+      "ATK": 192
+    },
+    "skills": [
+      "orbitLaser",
+      "hyperBeam"
+    ],
+    "drops": [
+      {
+        "id": "mat_2007",
+        "qty": 5
+      },
+      {
+        "id": "item_1000",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "id": "enemy_4036",
+    "name": {
+      "en": "Citadel Bloodlord",
+      "fa": "lord خون قلعه"
+    },
+    "type": "CHAPTER_BOSS",
+    "zone": "zone_08",
+    "level": 126,
+    "baseStats": {
+      "HP": 12600,
+      "ATK": 210
+    },
+    "skills": [
+      "bloodBoil",
+      "crimsonWave"
+    ],
+    "drops": [
+      {
+        "id": "mat_2008",
+        "qty": 5
+      },
+      {
+        "id": "item_1000",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "id": "enemy_4037",
+    "name": {
+      "en": "Rift Reaver",
+      "fa": "ریور شکاف"
+    },
+    "type": "CHAPTER_BOSS",
+    "zone": "zone_09",
+    "level": 140,
+    "baseStats": {
+      "HP": 14000,
+      "ATK": 230
+    },
+    "skills": [
+      "voidRift",
+      "phaseShift"
+    ],
+    "drops": [
+      {
+        "id": "mat_2009",
+        "qty": 5
+      },
+      {
+        "id": "item_1000",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "id": "enemy_4038",
+    "name": {
+      "en": "Rust King",
+      "fa": "پادشاه زنگ"
+    },
+    "type": "FINAL_BOSS",
+    "zone": "zone_10",
+    "level": 120,
+    "baseStats": {
+      "HP": 60000,
+      "ATK": 400
+    },
+    "skills": [
+      "rustCurse",
+      "anvilOfDoom",
+      "metalCorrode"
+    ],
+    "drops": [
+      {
+        "id": "mat_2010",
+        "qty": 5
+      },
+      {
+        "id": "item_1000",
+        "qty": 1
+      }
+    ]
+  },
+  {
+    "id": "enemy_4039",
+    "name": {
+      "en": "Iron-Hide Boar",
+      "fa": "گورخر فلزی"
+    },
+    "type": "ELITE",
+    "zone": "zone_03",
+    "level": 20,
+    "baseStats": {
+      "HP": 900,
+      "ATK": 45
+    },
+    "skills": [
+      "gore"
+    ],
+    "drops": [
+      {
+        "id": "mat_2003",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "id": "enemy_4040",
+    "name": {
+      "en": "Ashen Revenant",
+      "fa": "بازگشت خاکستر"
+    },
+    "type": "ELITE",
+    "zone": "zone_05",
+    "level": 35,
+    "baseStats": {
+      "HP": 1600,
+      "ATK": 62
+    },
+    "skills": [
+      "emberDash"
+    ],
+    "drops": [
+      {
+        "id": "mat_2005",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "id": "enemy_4041",
+    "name": {
+      "en": "Glass Golem",
+      "fa": "گلم شیشه‌ای"
+    },
+    "type": "ELITE",
+    "zone": "zone_06",
+    "level": 40,
+    "baseStats": {
+      "HP": 1900,
+      "ATK": 70
+    },
+    "skills": [
+      "shatter"
+    ],
+    "drops": [
+      {
+        "id": "mat_2006",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "id": "enemy_4042",
+    "name": {
+      "en": "Skybound Drake",
+      "fa": "اژدها آسمانی"
+    },
+    "type": "ELITE",
+    "zone": "zone_07",
+    "level": 55,
+    "baseStats": {
+      "HP": 2400,
+      "ATK": 85
+    },
+    "skills": [
+      "wingGale"
+    ],
+    "drops": [
+      {
+        "id": "mat_2007",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "id": "enemy_4043",
+    "name": {
+      "en": "Rustbound Colossus",
+      "fa": "کلوسوس زنگی"
+    },
+    "type": "ELITE",
+    "zone": "zone_08",
+    "level": 65,
+    "baseStats": {
+      "HP": 3000,
+      "ATK": 95
+    },
+    "skills": [
+      "rustAura"
+    ],
+    "drops": [
+      {
+        "id": "mat_2008",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "id": "enemy_4044",
+    "name": {
+      "en": "Chronos Stalker",
+      "fa": "پیش‌گیر زمانی"
+    },
+    "type": "ELITE",
+    "zone": "zone_09",
+    "level": 80,
+    "baseStats": {
+      "HP": 3400,
+      "ATK": 105
+    },
+    "skills": [
+      "timeDilation"
+    ],
+    "drops": [
+      {
+        "id": "mat_2009",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "id": "enemy_4045",
+    "name": {
+      "en": "Dreadforge Harbinger",
+      "fa": "پیش‌اعلان آتش‌نگار"
+    },
+    "type": "ELITE",
+    "zone": "zone_10",
+    "level": 95,
+    "baseStats": {
+      "HP": 4000,
+      "ATK": 120
+    },
+    "skills": [
+      "doomHammer"
+    ],
+    "drops": [
+      {
+        "id": "mat_2010",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "id": "enemy_4046",
+    "name": {
+      "en": "Mythril Gorgon",
+      "fa": "میتریل گورگون"
+    },
+    "type": "ELITE",
+    "zone": "zone_04",
+    "level": 30,
+    "baseStats": {
+      "HP": 1300,
+      "ATK": 55
+    },
+    "skills": [
+      "petrifyGaze"
+    ],
+    "drops": [
+      {
+        "id": "mat_2004",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "id": "enemy_4047",
+    "name": {
+      "en": "Stormbound Djinn",
+      "fa": "جن طوفانی"
+    },
+    "type": "ELITE",
+    "zone": "zone_05",
+    "level": 38,
+    "baseStats": {
+      "HP": 1700,
+      "ATK": 68
+    },
+    "skills": [
+      "staticField"
+    ],
+    "drops": [
+      {
+        "id": "mat_2005",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "id": "enemy_4048",
+    "name": {
+      "en": "Glacial Warden",
+      "fa": "نگهبان یخی"
+    },
+    "type": "ELITE",
+    "zone": "zone_06",
+    "level": 44,
+    "baseStats": {
+      "HP": 2100,
+      "ATK": 74
+    },
+    "skills": [
+      "iceWall"
+    ],
+    "drops": [
+      {
+        "id": "mat_2006",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "id": "enemy_4049",
+    "name": {
+      "en": "Crimson Inquisitor",
+      "fa": "افشاگر قرمز"
+    },
+    "type": "ELITE",
+    "zone": "zone_07",
+    "level": 58,
+    "baseStats": {
+      "HP": 2500,
+      "ATK": 88
+    },
+    "skills": [
+      "heresyFlame"
+    ],
+    "drops": [
+      {
+        "id": "mat_2007",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "id": "enemy_4050",
+    "name": {
+      "en": "Void Weaver",
+      "fa": "پرتو خلاء"
+    },
+    "type": "ELITE",
+    "zone": "zone_08",
+    "level": 72,
+    "baseStats": {
+      "HP": 3100,
+      "ATK": 100
+    },
+    "skills": [
+      "voidLash"
+    ],
+    "drops": [
+      {
+        "id": "mat_2008",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "id": "enemy_4051",
+    "name": {
+      "en": "Sunstrike Sentinel",
+      "fa": "نگهبان strike خورشید"
+    },
+    "type": "ELITE",
+    "zone": "zone_07",
+    "level": 62,
+    "baseStats": {
+      "HP": 2700,
+      "ATK": 90
+    },
+    "skills": [
+      "solarFlare"
+    ],
+    "drops": [
+      {
+        "id": "mat_2007",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "id": "enemy_4052",
+    "name": {
+      "en": "Dune Basilisk",
+      "fa": "باسلیسک ریگ"
+    },
+    "type": "ELITE",
+    "zone": "zone_08",
+    "level": 68,
+    "baseStats": {
+      "HP": 3200,
+      "ATK": 92
+    },
+    "skills": [
+      "petrifyGaze"
+    ],
+    "drops": [
+      {
+        "id": "mat_2008",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "id": "enemy_4053",
+    "name": {
+      "en": "Abyssal Stalker",
+      "fa": "شکارک lose>"
+    },
+    "type": "ELITE",
+    "zone": "zone_09",
+    "level": 85,
+    "baseStats": {
+      "HP": 3600,
+      "ATK": 108
+    },
+    "skills": [
+      "voidStep"
+    ],
+    "drops": [
+      {
+        "id": "mat_2009",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "id": "enemy_4054",
+    "name": {
+      "en": "Riftstalker Matron",
+      "fa": "ماترن شکاف"
+    },
+    "type": "ELITE",
+    "zone": "zone_09",
+    "level": 90,
+    "baseStats": {
+      "HP": 3800,
+      "ATK": 112
+    },
+    "skills": [
+      "phaseShift"
+    ],
+    "drops": [
+      {
+        "id": "mat_2009",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "id": "enemy_4055",
+    "name": {
+      "en": "Emberforge Titan",
+      "fa": "تیتان آhan-sakhtن آتش"
+    },
+    "type": "ELITE",
+    "zone": "zone_10",
+    "level": 100,
+    "baseStats": {
+      "HP": 4200,
+      "ATK": 118
+    },
+    "skills": [
+      "magmaSlam"
+    ],
+    "drops": [
+      {
+        "id": "mat_2010",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "id": "enemy_4056",
+    "name": {
+      "en": "Crimson Executioner",
+      "fa": "سرग्रاه قرمز"
+    },
+    "type": "ELITE",
+    "zone": "zone_10",
+    "level": 105,
+    "baseStats": {
+      "HP": 4400,
+      "ATK": 122
+    },
+    "skills": [
+      "executionerAxe"
+    ],
+    "drops": [
+      {
+        "id": "mat_2010",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "id": "enemy_4057",
+    "name": {
+      "en": "Void Archon",
+      "fa": "آرکون خلاء"
+    },
+    "type": "ELITE",
+    "zone": "zone_10",
+    "level": 110,
+    "baseStats": {
+      "HP": 4600,
+      "ATK": 125
+    },
+    "skills": [
+      "voidNova"
+    ],
+    "drops": [
+      {
+        "id": "mat_2010",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "id": "enemy_4058",
+    "name": {
+      "en": "Rust Patriarch",
+      "fa": "پدر زنگ"
+    },
+    "type": "ELITE",
+    "zone": "zone_secret",
+    "level": 115,
+    "baseStats": {
+      "HP": 5000,
+      "ATK": 130
+    },
+    "skills": [
+      "rustCurse"
+    ],
+    "drops": [
+      {
+        "id": "mat_2011",
+        "qty": 2
+      }
+    ]
+  },
+  {
+    "id": "enemy_4059",
+    "name": {
+      "en": "The Three Smiths",
+      "fa": "سه آهنگر"
+    },
+    "type": "RAID_BOSS",
+    "zone": "zone_06",
+    "level": 100,
+    "baseStats": {
+      "HP": 45000,
+      "ATK": 220
+    },
+    "skills": [
+      "tripleHammer"
+    ],
+    "drops": [
+      {
+        "id": "mat_2006",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "id": "enemy_4060",
+    "name": {
+      "en": "Dragon of the Deep Forge",
+      "fa": "آژدها forge العمق"
+    },
+    "type": "RAID_BOSS",
+    "zone": "zone_08",
+    "level": 115,
+    "baseStats": {
+      "HP": 72000,
+      "ATK": 310
+    },
+    "skills": [
+      "magmaBreath"
+    ],
+    "drops": [
+      {
+        "id": "mat_2008",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "id": "enemy_4061",
+    "name": {
+      "en": "Echo of Vulcan",
+      "fa": "صدای وولکان"
+    },
+    "type": "RAID_BOSS",
+    "zone": "zone_10",
+    "level": 120,
+    "baseStats": {
+      "HP": 90000,
+      "ATK": 360
+    },
+    "skills": [
+      "legacyStrike"
+    ],
+    "drops": [
+      {
+        "id": "mat_2010",
+        "qty": 10
+      }
+    ]
+  },
+  {
+    "id": "enemy_4062",
+    "name": {
+      "en": "The Unforged",
+      "fa": "ناپیسیده"
+    },
+    "type": "SECRET_BOSS",
+    "zone": "zone_secret",
+    "level": 120,
+    "baseStats": {
+      "HP": 55000,
+      "ATK": 250
+    },
+    "skills": [
+      "unbreakable"
+    ],
+    "drops": [
+      {
+        "id": "mat_2012",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "id": "enemy_4063",
+    "name": {
+      "en": "Mirror Kai",
+      "fa": "آینه کای"
+    },
+    "type": "SECRET_BOSS",
+    "zone": "zone_secret",
+    "level": 120,
+    "baseStats": {
+      "HP": 48000,
+      "ATK": 340
+    },
+    "skills": [
+      "mirrorStrike"
+    ],
+    "drops": [
+      {
+        "id": "mat_2012",
+        "qty": 20
+      }
+    ]
+  },
+  {
+    "id": "enemy_4064",
+    "name": {
+      "en": "Last Aetherion Smith",
+      "fa": "آخرین آهنگر آثيريون"
+    },
+    "type": "SECRET_BOSS",
+    "zone": "zone_secret",
+    "level": 125,
+    "baseStats": {
+      "HP": 70000,
+      "ATK": 390
+    },
+    "skills": [
+      "finalAnvil"
+    ],
+    "drops": [
+      {
+        "id": "mat_2012",
+        "qty": 20
+      }
+    ]
+  }
+]
