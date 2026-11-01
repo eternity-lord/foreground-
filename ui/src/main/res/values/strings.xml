@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">Forgebound</string>
-    <string name="placeholder_battle">Battle</string>
-    <string name="placeholder_forge">Forge</string>
-    <string name="placeholder_inventory">Inventory</string>
-    <string name="placeholder_shops">Shops</string>
-    <string name="placeholder_quests">Quests</string>
-    <string name="placeholder_allies">Allies</string>
-</resources>
