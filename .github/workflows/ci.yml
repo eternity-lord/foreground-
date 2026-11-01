@@ -175,6 +175,7 @@ jobs:
             adb shell echo "emulator ready"
             gradle assembleDebug --no-daemon --console=plain
             adb install -r app/build/outputs/apk/debug/app-debug.apk
+            adb shell am start -n com.forgebound.game/.ui.MainActivity
 
       - name: Capture screenshot
         if: always()
