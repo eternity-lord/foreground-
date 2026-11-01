@@ -1,7 +1,7 @@
 plugins {
-    alias(libs.plugins.android.library)
-    alias(libs.plugins.kotlin.android)
-    alias(libs.plugins.kotlin.compose)
+    id("com.android.library") version "8.5.0"
+    id("org.jetbrains.kotlin.android") version "2.0.20"
+    id("org.jetbrains.kotlin.plugin.compose") version "1.5.8"
 }
 
 android {
@@ -17,7 +17,7 @@ android {
 dependencies {
     implementation(project(":core"))
     implementation(project(":ui"))
-    implementation(libs.compose.ui)
-    implementation(libs.compose.uiGraphics)
-    implementation(libs.compose.runtime)
+    implementation("androidx.compose.ui:ui:1.7.0")
+    implementation("androidx.compose.ui:ui-graphics:1.7.0")
+    implementation("androidx.compose.runtime:runtime:1.7.0")
 }

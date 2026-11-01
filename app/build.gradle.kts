@@ -1,8 +1,8 @@
 import org.gradle.api.JavaVersion
 
 plugins {
-    alias(libs.plugins.android.application)
-    alias(libs.plugins.kotlin.android)
+    id("com.android.application") version "8.5.0"
+    id("org.jetbrains.kotlin.android") version "2.0.20"
 }
 
 android {
@@ -41,10 +41,6 @@ android {
         buildConfig = true
     }
 
-    tasks.withType<org.jetbrains.kotlin.gradle.tasks.KotlinCompile> {
-        kotlinOptions.jvmTarget = "17"
-    }
-
     packaging {
         resources {
             excludes += "/META-INF/{AL2.0,LGPL2.1,notice}/**"
@@ -61,8 +57,8 @@ dependencies {
     implementation(project(":ui"))
     implementation(project(":render"))
 
-    testImplementation(kotlin("test-junit"))
-    testImplementation(libs.junit)
+    testImplementation("junit:junit:4.13.2")
+    testImplementation("org.jetbrains.kotlin:kotlin-test-junit:2.0.20")
 
     debugImplementation("androidx.activity:activity-compose:1.9.0")
     implementation("androidx.compose.ui:ui-tooling-preview:1.7.0")
