@@ -41,6 +41,10 @@ android {
         buildConfig = true
     }
 
+    tasks.withType<org.jetbrains.kotlin.gradle.tasks.KotlinCompile> {
+        kotlinOptions.jvmTarget = "17"
+    }
+
     packaging {
         resources {
             excludes += "/META-INF/{AL2.0,LGPL2.1,notice}/**"
@@ -54,6 +58,7 @@ dependencies {
     implementation(project(":game"))
     implementation(project(":i18n"))
     implementation(project(":audio"))
-    testImplementation("junit:junit:4.13.2")
-    testImplementation("org.jetbrains.kotlin:kotlin-test-junit:2.0.20")
+
+    testImplementation(kotlin("test-junit"))
+    testImplementation(libs.junit)
 }
