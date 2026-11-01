@@ -1,7 +1,7 @@
 plugins {
-    id("com.android.library") version "8.5.0"
-    id("org.jetbrains.kotlin.android") version "2.0.20"
-    id("org.jetbrains.kotlin.plugin.compose") version "2.0.20"
+    alias(libs.plugins.android.library)
+    alias(libs.plugins.kotlin.android)
+    alias(libs.plugins.kotlin.compose)
 }
 
 android {
@@ -17,10 +17,10 @@ android {
 dependencies {
     implementation(project(":core"))
     implementation(project(":i18n"))
-    implementation("androidx.compose.ui:ui:1.3.0")
-    implementation("androidx.compose.ui:ui-graphics:1.3.0")
-    implementation("androidx.compose.foundation:foundation:1.3.0")
-    implementation("androidx.compose.material3:material3:1.3.0")
-    implementation("androidx.compose.runtime:runtime:1.3.0")
-    implementation("androidx.activity:activity-compose:1.9.0")
+    implementation(libs.compose.ui)
+    implementation(libs.compose.uiGraphics)
+    implementation(libs.compose.foundation)
+    implementation(libs.compose.material3)
+    implementation(libs.compose.runtime)
+    implementation(libs.androidxActivityCompose)
 }
