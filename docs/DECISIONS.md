@@ -16,6 +16,6 @@
 | D12 | Enhancement: failure never deletes items; at worst drops level by 1; protect scrolls prevent drop; pity floor 5% | Section 5.4 |
 | D13 | Localization: English + Persian complete; RTL mirroring, Persian shaping, numerals toggle | Section 11 |
 | D14 | Environment constraint: no JDK/Android SDK in this sandbox; internet limited to github.com/npm/pypi → Gradle builds, APK/AAB signing, emulator/UI tests deferred to a build machine; sources written to build with one `./gradlew` command | docs/PLAN.md constraint note |
-| D15 | CI runs Android unit tests via `testDebugUnitTest` only; `:core:test` (pure-JVM balance sim `BalanceSimTest.kt`) cannot execute on this CI image regardless of test code or JUnit config → balance validation runs via `tools/balance_sim.py` (PASSED: 0/20 soft locks, docs/BALANCE_REPORT.md); `:core:test` executable on an SDK machine via `./gradlew :core:test` | `:core:test` fails environmentally on GitHub Actions even for `assertTrue(true)`; `testDebugUnitTest` is proven green |
+| D15 | CI runs `:core:test` (pure-JVM balance sim `BalanceSimTest.kt`) + `testDebugUnitTest` (Android). `core/build.gradle.kts` uses JUnit 5 platform (`useJUnitPlatform()` + `junit-jupiter-engine` + `kotlin("test")`) so `kotlin.test` tests are discovered and executed. Balance is validated both in CI (`:core:test`) and by `tools/balance_sim.py` (PASSED: 0/20 soft locks, docs/BALANCE_REPORT.md). |
 
 Open items: none blocking source-complete delivery; APK/AAB emission requires SDK machine.

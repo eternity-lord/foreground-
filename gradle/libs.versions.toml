@@ -46,6 +46,7 @@ kotlinx-serialization-json = { module = "org.jetbrains.kotlinx:kotlinx-serializa
 junit = { module = "junit:junit", version.ref = "junit" }
 kotlin-test = { module = "org.jetbrains.kotlin:kotlin-test", version.ref = "kotlin" }
 kotlin-test-junit = { module = "org.jetbrains.kotlin:kotlin-test-junit", version.ref = "kotlin" }
+junit-jupiter-engine = { module = "org.junit.jupiter:junit-jupiter-engine", version = "5.10.0" }
 robolectric = { module = "org.robolectric:robolectric", version = "4.11.1" }
 
 [bundles]

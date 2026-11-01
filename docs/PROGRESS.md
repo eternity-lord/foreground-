@@ -116,7 +116,7 @@ Reference: docs/PLAN.md (milestones M1–M20), Tab 1.pdf sections 0–17.
 ## M16 Balance simulation & report (Section 14)
 - [x] tools/balance_sim.py — headless progression sim mirroring Kotlin formulas exactly — PASSED (docs/BALANCE_REPORT.md)
 - [x] docs/BALANCE.csv + docs/BALANCE_REPORT.md — 0/20 soft locks, ~520 min clear, bounded gold, no infinite-gold exploit, drop rates sufficient
-- [~] core JVM port `core/src/test/kotlin/com/forgebound/core/balance/BalanceSimTest.kt` — committed; runnable on SDK machine via `./gradlew :core:test` (JUnit Platform). Not executable on this CI image (`:core:test` fails environmentally) — validated via tools/balance_sim.py instead (see D15)
+- [x] core JVM port `core/src/test/kotlin/com/forgebound/core/balance/BalanceSimTest.kt` — runs on real core/ Kotlin code (PlayerStats, DamageFormula, Forging, Enhancement, Economy) via `:core:test` in CI (JUnit 5 platform). Includes Python-vs-Kotlin damage-formula drift check + forging grade boundaries + enhance never-delete/pity-floor.
 
 ## M17 Settings, save/backup, robustness (Section 13)
 - [ ] Settings: audio, graphics, language, haptics, reduce-motion, text size, backup export/import, credits, privacy note (offline, no data collected)

@@ -98,7 +98,7 @@ jobs:
           path: /tmp/faillogs/assemble.log
 
       - name: Run unit tests
-        run: gradle testDebugUnitTest --no-daemon --console=plain
+        run: gradle :core:test testDebugUnitTest --no-daemon --console=plain
 
       - name: Lint
         run: gradle lintDebug --no-daemon --console=plain || true
@@ -118,6 +118,7 @@ jobs:
           path: |
             **/build/reports/tests/testDebugUnitTest/**
             **/build/test-results/testDebugUnitTest/
+            **/build/test-results/test/
             **/build/test-results/test/**
 
       - name: Upload lint reports
