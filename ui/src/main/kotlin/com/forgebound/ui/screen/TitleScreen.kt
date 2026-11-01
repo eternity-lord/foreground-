@@ -32,7 +32,7 @@ fun TitleScreen(
                 verticalArrangement = Arrangement.SpaceBetween,
                 horizontalAlignment = Alignment.CenterHorizontally
             ) {
-                // Key art placeholder (brand text; actual art loaded via Image in M13)
+                // Key art branding (brand text; actual art loaded via Image in M13)
                 Text(
                     text = "FORGEBOUND",
                     style = ForgeTypography.H1.copy(
