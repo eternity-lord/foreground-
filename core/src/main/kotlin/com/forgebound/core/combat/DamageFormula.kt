@@ -26,9 +26,9 @@ object DamageFormula {
         skillMult: Double,
         def: Long,
         critChance: Double,
+        rng: GameRng,
         critMult: Double = BalanceConstants.CRIT_MULT,
         elementMult: Double = 1.0,
-        rng: GameRng,
     ): Result {
         val base = BalanceConstants.damageBase(atk, skillMult)
         val reduction = BalanceConstants.defenseReduction(def)
