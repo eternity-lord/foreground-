@@ -1,22 +1,39 @@
 package com.forgebound.game.ui
 
-import android.app.Activity
 import android.os.Bundle
+import androidx.activity.ComponentActivity
+import androidx.activity.compose.setContent
+import androidx.compose.foundation.layout.fillMaxSize
+import androidx.compose.material3.MaterialTheme
+import androidx.compose.material3.Surface
+import androidx.compose.runtime.Composable
+import androidx.compose.ui.Modifier
+import androidx.compose.ui.graphics.Color
 import com.forgebound.game.R
-import com.forgebound.i18n.Localization
+import com.forgebound.ui.MainNavigator
 
-/**
- * Single activity host. Temporary title screen until the M7 navigation
- * stack (Section 6 screen list) replaces it. Orientation locked to
- * sensorLandscape in the manifest (Section 1).
- */
-class MainActivity : Activity() {
+class MainActivity : ComponentActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        setContent {
+            MaterialTheme {
+                Surface(
+                    color = Color(0xFF2A1E18),
+                    modifier = Modifier.fillMaxSize()
+                ) {
+                    MainNavigator()
+                }
+            }
+        }
+    }
+}
 
-        Localization.init(this)
-
-        setContentView(R.layout.activity_main)
+@Composable
+fun ForgeBoundPreview() {
+    MaterialTheme {
+        Surface(color = Color(0xFF2A1E18), modifier = Modifier.fillMaxSize()) {
+            MainNavigator()
+        }
     }
 }

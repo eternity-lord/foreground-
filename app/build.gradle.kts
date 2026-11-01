@@ -58,7 +58,12 @@ dependencies {
     implementation(project(":game"))
     implementation(project(":i18n"))
     implementation(project(":audio"))
+    implementation(project(":ui"))
+    implementation(project(":render"))
 
     testImplementation(kotlin("test-junit"))
     testImplementation(libs.junit)
+
+    debugImplementation("androidx.activity:activity-compose:1.9.0")
+    implementation("androidx.compose.ui:ui-tooling-preview:1.7.0")
 }
