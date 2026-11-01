@@ -21,8 +21,8 @@ class PlayerStatsTest {
     @Test
     fun xpForLevelMatchesFormula() {
         // round(80 * L^1.65): L=1 -> 80, L=3 -> round(490.1) = 490
-        assertEquals(490, BalanceConstants.xpForLevel(3))
-        assertEquals(80, BalanceConstants.xpForLevel(1))
+        assertEquals(490L, BalanceConstants.xpForLevel(3))
+        assertEquals(80L, BalanceConstants.xpForLevel(1))
     }
 
     @Test
@@ -38,7 +38,7 @@ class PlayerStatsTest {
     @Test
     fun respecCostScalesWithLevelAndIsCapped() {
         assertTrue { PlayerStats.respecCost(120) >= PlayerStats.respecCost(1) }
-        assertEquals(250_000, PlayerStats.respecCost(120))
-        assertEquals(250, PlayerStats.respecCost(1))
+        assertEquals(250_000L, PlayerStats.respecCost(120))
+        assertEquals(250L, PlayerStats.respecCost(1))
     }
 }

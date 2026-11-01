@@ -4,5 +4,6 @@ plugins {
 
 dependencies {
     implementation(libs.kotlinx.coroutines.core)
-    testImplementation(libs.junit)
+    testImplementation(kotlin("test-junit"))  // kotlin.test -> JUnit 4 runner bridge
+    testImplementation(libs.junit)            // JUnit 4 engine
 }
