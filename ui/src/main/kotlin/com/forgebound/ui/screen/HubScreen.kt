@@ -96,13 +96,13 @@ fun HubScreen(
                     modifier = Modifier.fillMaxWidth()
                 ) {
                     items(listOf(
-                        Pair("Enter Battle / Zone 1", R.string.placeholder_battle),
-                        Pair("Open Forge", R.string.placeholder_forge),
-                        Pair("Inventory & Equipment", R.string.placeholder_inventory),
-                        Pair("Shops (8 variants)", R.string.placeholder_shops),
-                        Pair("Quest Log", R.string.placeholder_quests),
-                        Pair("Allies & Party", R.string.placeholder_allies),
-                    )) { (label, _) ->
+                        "Enter Battle / Zone 1",
+                        "Open Forge",
+                        "Inventory & Equipment",
+                        "Shops (8 variants)",
+                        "Quest Log",
+                        "Allies & Party",
+                    )) { label ->
                         Card(
                             modifier = Modifier.fillMaxWidth().height(96.dp),
                             colors = CardDefaults.cardColors(
