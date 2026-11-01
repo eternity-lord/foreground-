@@ -97,12 +97,8 @@ jobs:
           name: assemble-debug-log
           path: /tmp/faillogs/assemble.log
 
-      - name: Diagnose :core test task
-        run: gradle :core:tasks --all --console=plain | grep -E "^test|Test" | head -20
-      - name: Run core JVM unit tests (:core:test)
-        run: gradle :core:test --no-daemon --console=plain --stacktrace --info > /tmp/core-test.log 2>&1; status=$?; grep -E "^e:|^error:|FAILED|Exception|Caused by|Test .* FAILED|> Task :core:test" /tmp/core-test.log | head -40 | while IFS= read -r line; do echo "::error::$(printf '%s' "$line" | cut -c1-900)"; done; exit $status
-      - name: Run Android unit tests (testDebugUnitTest)
-        run: gradle testDebugUnitTest --no-daemon --console=plain --stacktrace
+      - name: Run unit tests
+        run: gradle testDebugUnitTest --no-daemon --console=plain
 
       - name: Lint
         run: gradle lintDebug --no-daemon --console=plain || true
