@@ -162,8 +162,9 @@ class BalanceSimTest {
             100 to BalanceConstants.ForgeGrade.LEGENDARY,
         )
         cases.forEach { (quality, expected) ->
-            assertEquals(expected, Forging.gradeFor(quality),
-                "gradeFor($quality) should be $expected")
+            assertEquals(expected, Forging.gradeFor(quality)) {
+                "gradeFor($quality) should be $expected"
+            }
         }
     }
 
