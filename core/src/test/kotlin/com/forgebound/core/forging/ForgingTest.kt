@@ -20,7 +20,7 @@ class ForgingTest {
     }
 
     @Test
-    func gradeMapping() {  // intentional compile error? no — fix below
+    fun gradeMapping() {
         assertEquals(ForgeGrade.CRUDE, Forging.gradeFor(0))
         assertEquals(ForgeGrade.COMMON, Forging.gradeFor(30))
         assertEquals(ForgeGrade.LEGENDARY, Forging.gradeFor(95))
