@@ -7,6 +7,7 @@ import com.forgebound.core.Enhancement
 import com.forgebound.core.Forging
 import com.forgebound.core.GameRng
 import com.forgebound.core.PlayerStats
+import com.forgebound.core.items.MutableInt
 import com.forgebound.core.stats.BaseStats
 import com.forgebound.core.stats.DerivedStats
 import kotlin.test.Test
@@ -14,7 +15,6 @@ import kotlin.test.assertEquals
 import kotlin.test.assertTrue
 import kotlin.math.ceil
 import kotlin.math.max
-import kotlin.math.min
 
 data class SimulationResult(
     val finalLevel: Int,
@@ -92,28 +92,52 @@ class BalanceSimTest {
         // Roll range: every roll must land in [base*0.95, base*1.05] with no crit/element
         val rngRoll = GameRng.withSeed(777)
         repeat(500) {
-            val r = DamageFormula.calculate(atk, skillMult, def, critChance = 0.0, elementMult = 1.0, rng = rngRoll)
+            val r = DamageFormula.calculate(
+                atk, skillMult, def,
+                critChance = 0.0, critMult = BalanceConstants.CRIT_MULT, elementMult = 1.0,
+                rng = rngRoll,
+            )
             assertTrue { r.finalDamage in baseExpected * 0.95..baseExpected * 1.05 }
         }
 
-        // Same seed -> same roll. Crit chance=1.0 always crits (×1.75); chance=0.0 never crits.
+        // Same seed -> same roll. Crit chance=1.0 always crits (×CRIT_MULT); chance=0.0 never crits.
         // Both consume roll + chance from RNG, so identical seed -> identical roll.
         val rngNoCrit = GameRng.withSeed(42)
-        val rNoCrit = DamageFormula.calculate(atk, skillMult, def, 0.0, 1.0, rngNoCrit)
+        val rNoCrit = DamageFormula.calculate(
+            atk, skillMult, def,
+            critChance = 0.0, critMult = BalanceConstants.CRIT_MULT, elementMult = 1.0,
+            rng = rngNoCrit,
+        )
         val rngCrit = GameRng.withSeed(42)
-        val rCrit = DamageFormula.calculate(atk, skillMult, def, 1.0, 1.0, rngCrit)
+        val rCrit = DamageFormula.calculate(
+            atk, skillMult, def,
+            critChance = 1.0, critMult = BalanceConstants.CRIT_MULT, elementMult = 1.0,
+            rng = rngCrit,
+        )
         assertEquals(rCrit.finalDamage, rNoCrit.finalDamage * BalanceConstants.CRIT_MULT, 1e-9)
 
         // Element mult 2.0 doubles damage (same seed -> same roll/crit outcome)
         val rngElem = GameRng.withSeed(42)
-        val rElem = DamageFormula.calculate(atk, skillMult, def, 0.0, 2.0, rngElem)
+        val rElem = DamageFormula.calculate(
+            atk, skillMult, def,
+            critChance = 0.0, critMult = BalanceConstants.CRIT_MULT, elementMult = 2.0,
+            rng = rngElem,
+        )
         assertEquals(rElem.finalDamage, rNoCrit.finalDamage * 2.0, 1e-9)
 
         // Defense halves damage: DEF=100 -> reduction 100/200=0.5 vs DEF=0 -> reduction 1.0
         val rngDef0 = GameRng.withSeed(99)
-        val rDef0 = DamageFormula.calculate(atk, skillMult, 0, 0.0, 1.0, rngDef0)
+        val rDef0 = DamageFormula.calculate(
+            atk, skillMult, 0,
+            critChance = 0.0, critMult = BalanceConstants.CRIT_MULT, elementMult = 1.0,
+            rng = rngDef0,
+        )
         val rngDef100 = GameRng.withSeed(99)
-        val rDef100 = DamageFormula.calculate(atk, skillMult, 100, 0.0, 1.0, rngDef100)
+        val rDef100 = DamageFormula.calculate(
+            atk, skillMult, 100,
+            critChance = 0.0, critMult = BalanceConstants.CRIT_MULT, elementMult = 1.0,
+            rng = rngDef100,
+        )
         assertEquals(rDef100.finalDamage, rDef0.finalDamage * 0.5, 1e-9)
     }
 
@@ -151,7 +175,7 @@ class BalanceSimTest {
     fun enhancementNeverDeletesAndHasPityFloor() {
         val rng = GameRng.withSeed(5)
         var level = 0
-        val pity = Enhancement.MutableInt(0)
+        val pity = MutableInt(0)
         var drops = 0
         repeat(200) {
             val attempt = Enhancement.attempt(level, pity, hasProtect = false, rng)
@@ -231,7 +255,11 @@ class BalanceSimTest {
 
     // player damage per round via real DamageFormula
     private fun pDmg(rng: GameRng, atk: Int, skillMult: Double, eDef: Int): Double {
-        return DamageFormula.calculate(atk.toLong(), skillMult, eDef.toLong(), 0.075, rng = rng).finalDamage
+        return DamageFormula.calculate(
+            atk.toLong(), skillMult, eDef.toLong(),
+            critChance = 0.075, critMult = BalanceConstants.CRIT_MULT, elementMult = 1.0,
+            rng = rng,
+        ).finalDamage
     }
 
     // enemy damage per round: eATK * 100/(100+pDEF) * 0.20
