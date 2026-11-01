@@ -1,8 +1,8 @@
 import org.gradle.api.JavaVersion
 
 plugins {
-    id("com.android.application") version "8.5.0"
-    id("org.jetbrains.kotlin.android") version "2.0.20"
+    alias(libs.plugins.android.application)
+    alias(libs.plugins.kotlin.android)
 }
 
 android {
@@ -54,9 +54,6 @@ dependencies {
     implementation(project(":game"))
     implementation(project(":i18n"))
     implementation(project(":audio"))
-    implementation(project(":ui"))
-    implementation(project(":render"))
-
     testImplementation("junit:junit:4.13.2")
     testImplementation("org.jetbrains.kotlin:kotlin-test-junit:2.0.20")
 }

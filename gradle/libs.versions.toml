@@ -1,9 +1,7 @@
 [versions]
 agp = "8.5.0"
 kotlin = "2.0.20"
-compose-ui = "1.5.4"
-compose-material3 = "1.5.4"
-compose-compiler = "1.5.4"
+composeBom = "2024.10.00"
 room = "2.6.1"
 playCore = "1.10.3"
 junit = "4.13.2"
@@ -21,14 +19,15 @@ ktlint = { id = "org.jmailen.gradle.ktlint", version.ref = "ktlint" }
 detekt = { id = "io.gitlab.arturbosch.detekt", version.ref = "detekt" }
 
 [libraries]
-# AndroidX / Compose (individual versions; composeBom does not resolve in this environment)
+# AndroidX / Compose (BOM does not resolve in this environment; kept for reference)
 androidx-activity-compose = { module = "androidx.activity:activity-compose", version = "1.9.0" }
-androidx-compose-ui = { module = "androidx.compose.ui:ui", version.ref = "compose-ui" }
-androidx-compose-ui-graphics = { module = "androidx.compose.ui:ui-graphics", version.ref = "compose-ui" }
-androidx-compose-ui-tooling-preview = { module = "androidx.compose.ui:ui-tooling-preview", version.ref = "compose-ui" }
-androidx-compose-material3 = { module = "androidx.compose.material3:material3", version.ref = "compose-material3" }
-androidx-compose-runtime = { module = "androidx.compose.runtime:runtime", version.ref = "compose-ui" }
-androidx-compose-foundation = { module = "androidx.compose.foundation:foundation", version.ref = "compose-ui" }
+androidx-compose-bom = { module = "androidx.compose.bom:bom", version.ref = "composeBom" }
+androidx-compose-ui = { module = "androidx.compose.ui:ui" }
+androidx-compose-ui-graphics = { module = "androidx.compose.ui:ui-graphics" }
+androidx-compose-ui-tooling-preview = { module = "androidx.compose.ui:ui-tooling-preview" }
+androidx-compose-material3 = { module = "androidx.compose.material3:material3" }
+androidx-compose-runtime = { module = "androidx.compose.runtime:runtime" }
+androidx-compose-foundation = { module = "androidx.compose.foundation:foundation" }
 
 # Room persistence
 room-runtime = { module = "androidx.room:room-runtime", version.ref = "room" }
@@ -47,8 +46,6 @@ kotlinx-serialization-json = { module = "org.jetbrains.kotlinx:kotlinx-serializa
 junit = { module = "junit:junit", version.ref = "junit" }
 kotlin-test = { module = "org.jetbrains.kotlin:kotlin-test", version.ref = "kotlin" }
 kotlin-test-junit = { module = "org.jetbrains.kotlin:kotlin-test-junit", version.ref = "kotlin" }
-junit-jupiter-engine = { module = "org.junit.jupiter:junit-jupiter-engine", version = "5.10.0" }
-junit-platform-launcher = { module = "org.junit.platform:junit-platform-launcher", version = "1.10.0" }
 robolectric = { module = "org.robolectric:robolectric", version = "4.11.1" }
 
 [bundles]
