@@ -8,7 +8,7 @@ class EconomyTest {
 
     @Test
     fun offlineGainIsCapped() {
-        val rng = GameRng.withSeed(3)
+        val rng = GameRng.withSeed(3L)
         val oneYearMs = 365L * 24 * 3600 * 1000
         val gain = Economy.offlineGain(0L, oneYearMs, 50, rng)
         // 8-hour cap => 480 minutes of cycles
@@ -17,7 +17,7 @@ class EconomyTest {
 
     @Test
     fun noOfflineGainWithoutElapsedTime() {
-        val rng = GameRng.withSeed(3)
+        val rng = GameRng.withSeed(3L)
         val gain = Economy.offlineGain(1000L, 1000L, 50, rng)
         assertEquals(0L, gain.gold)
         assertEquals(0L, gain.xp)

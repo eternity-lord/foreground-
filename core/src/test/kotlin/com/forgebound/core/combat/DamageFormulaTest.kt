@@ -9,8 +9,8 @@ class DamageFormulaTest {
 
     @Test
     fun sameSeedProducesIdenticalDamage() {
-        val rng1 = GameRng.withSeed(12345)
-        val rng2 = GameRng.withSeed(12345)
+        val rng1 = GameRng.withSeed(12345L)
+        val rng2 = GameRng.withSeed(12345L)
         val r1 = DamageFormula.calculate(100L, 1.5, 50L, 0.1, rng = rng1)
         val r2 = DamageFormula.calculate(100L, 1.5, 50L, 0.1, rng = rng2)
         assertEquals(r1.finalDamage, r2.finalDamage)
@@ -19,7 +19,7 @@ class DamageFormulaTest {
 
     @Test
     fun damageStaysWithinRollRange() {
-        val rng = GameRng.withSeed(999)
+        val rng = GameRng.withSeed(999L)
         val atk = 100L
         for (_ in 1..1000) {
             val r = DamageFormula.calculate(atk, 1.0, 0L, 0.0, rng = rng)
@@ -32,18 +32,18 @@ class DamageFormulaTest {
 
     @Test
     fun defenseReducesDamage() {
-        val rng = GameRng.withSeed(7)
-        val noDef = DamageFormula.calculate(100L, 1.0, 0L, 0.0, rng = GameRng.withSeed(7))
-        val withDef = DamageFormula.calculate(100L, 1.0, 100L, 0.0, rng = GameRng.withSeed(7))
+        val rng = GameRng.withSeed(7L)
+        val noDef = DamageFormula.calculate(100L, 1.0, 0L, 0.0, rng = GameRng.withSeed(7L))
+        val withDef = DamageFormula.calculate(100L, 1.0, 100L, 0.0, rng = GameRng.withSeed(7L))
         // same roll, defense applies reduction
         assertTrue { withDef.rawDamage < noDef.rawDamage }
     }
 
     @Test
     fun weaknessMultipliesDamage() {
-        val rng = GameRng.withSeed(1)
+        val rng = GameRng.withSeed(1L)
     val normal = DamageFormula.calculate(100L, 1.0, 0L, 0.0, elementMult = 1.0, rng = rng)
-    val weak = DamageFormula.calculate(100L, 1.0, 0L, 0.0, elementMult = 2.0, rng = GameRng.withSeed(1))
+    val weak = DamageFormula.calculate(100L, 1.0, 0L, 0.0, elementMult = 2.0, rng = GameRng.withSeed(1L))
         assertEquals(normal.rawDamage * 2.0, weak.rawDamage)
     }
 }

@@ -9,7 +9,7 @@ class EnhancementTest {
 
     @Test
     fun failureNeverDropsBelowZero() {
-        val rng = GameRng.withSeed(1)
+        val rng = GameRng.withSeed(1L)
         var level = 0
         var pity = MutableInt(0)
         for (_ in 1..200) {
@@ -22,7 +22,7 @@ class EnhancementTest {
 
     @Test
     fun protectScrollPreventsDrop() {
-        val rng = GameRng.withSeed(123)
+        val rng = GameRng.withSeed(123L)
         var level = 5
         var pity = MutableInt(0)
         for (_ in 1..500) {
@@ -35,7 +35,7 @@ class EnhancementTest {
 
     @Test
     fun successResetsPity() {
-        val rng = GameRng.withSeed(777)
+        val rng = GameRng.withSeed(777L)
         var level = 0
         var pity = MutableInt(0)
         var successes = 0

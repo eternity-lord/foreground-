@@ -10,7 +10,7 @@ class ForgingTest {
 
     @Test
     fun qualityScoreIsAlwaysInRange() {
-        val rng = GameRng.withSeed(5)
+        val rng = GameRng.withSeed(5L)
         for (_ in 1..500) {
             val r = Forging.score(PhaseInput(0.5,
                     listOf(TimingGrade.PERFECT, TimingGrade.PERFECT),
@@ -28,11 +28,11 @@ class ForgingTest {
 
     @Test
     fun autoForgeIsLowerThanSkilledPlay() {
-        val rng = GameRng.withSeed(42)
+        val rng = GameRng.withSeed(42L)
         val skilled = Forging.score(PhaseInput(0.55,
                 listOf(TimingGrade.PERFECT, TimingGrade.PERFECT, TimingGrade.PERFECT),
                 1.0, 1.0, 1.0), 30, 20, rng)
-        val auto = Forging.autoForgeQuality(20, GameRng.withSeed(42))
+        val auto = Forging.autoForgeQuality(20, GameRng.withSeed(42L))
         assertTrue { skilled.qualityScore > auto }
     }
 }

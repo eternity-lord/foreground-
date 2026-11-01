@@ -34,7 +34,7 @@ data class SimulationResult(
  *   com.forgebound.core.Enhancement       (+0->+20, pity, never-delete)
  *   com.forgebound.core.Economy           (combat gold/xp, offline gain)
  *
- * Uses GameRng.withSeed(20261031) — the same seed as tools/balance_sim.py — so
+ * Uses GameRng.withSeed(20261031L) — the same seed as tools/balance_sim.py — so
  * the Kotlin simulation can be compared against the Python reference for
  * formula drift. Asserts: 0 soft locks, gold always positive, final level
  * 1..120, clear time sane.
@@ -48,7 +48,7 @@ class BalanceSimTest {
     // -----------------------------------------------------------------------
     @Test
     fun balanceSimulationHasNoSoftLocksAndPositiveEconomy() {
-        val rng = GameRng.withSeed(20261031)
+        val rng = GameRng.withSeed(20261031L)
         val results = List(20) { simulate(rng) }
 
         val softLocks = results.count { it.softLock }
@@ -90,7 +90,7 @@ class BalanceSimTest {
         val baseExpected = atk.toDouble() * skillMult * reduction // atk*skill*100/(100+def)
 
         // Roll range: every roll must land in [base*0.95, base*1.05] with no crit/element
-        val rngRoll = GameRng.withSeed(777)
+        val rngRoll = GameRng.withSeed(777L)
         repeat(500) {
             val r = DamageFormula.calculate(
                 atk, skillMult, def,
@@ -101,13 +101,13 @@ class BalanceSimTest {
         }
 
         // Same seed -> same roll. Crit chance=1.0 always crits (×CRIT_MULT); chance=0.0 never crits.
-        val rngNoCrit = GameRng.withSeed(42)
+        val rngNoCrit = GameRng.withSeed(42L)
         val rNoCrit = DamageFormula.calculate(
             atk, skillMult, def,
             critChance = 0.0, critMult = BalanceConstants.CRIT_MULT, elementMult = 1.0,
             rng = rngNoCrit,
         )
-        val rngCrit = GameRng.withSeed(42)
+        val rngCrit = GameRng.withSeed(42L)
         val rCrit = DamageFormula.calculate(
             atk, skillMult, def,
             critChance = 1.0, critMult = BalanceConstants.CRIT_MULT, elementMult = 1.0,
@@ -116,7 +116,7 @@ class BalanceSimTest {
         assertEquals(rCrit.finalDamage, rNoCrit.finalDamage * BalanceConstants.CRIT_MULT, 1e-9)
 
         // Element mult 2.0 doubles damage (same seed -> same roll/crit outcome)
-        val rngElem = GameRng.withSeed(42)
+        val rngElem = GameRng.withSeed(42L)
         val rElem = DamageFormula.calculate(
             atk, skillMult, def,
             critChance = 0.0, critMult = BalanceConstants.CRIT_MULT, elementMult = 2.0,
@@ -125,13 +125,13 @@ class BalanceSimTest {
         assertEquals(rElem.finalDamage, rNoCrit.finalDamage * 2.0, 1e-9)
 
         // Defense halves damage: DEF=100 -> reduction 100/200=0.5 vs DEF=0 -> reduction 1.0
-        val rngDef0 = GameRng.withSeed(99)
+        val rngDef0 = GameRng.withSeed(99L)
         val rDef0 = DamageFormula.calculate(
             atk, skillMult, 0,
             critChance = 0.0, critMult = BalanceConstants.CRIT_MULT, elementMult = 1.0,
             rng = rngDef0,
         )
-        val rngDef100 = GameRng.withSeed(99)
+        val rngDef100 = GameRng.withSeed(99L)
         val rDef100 = DamageFormula.calculate(
             atk, skillMult, 100,
             critChance = 0.0, critMult = BalanceConstants.CRIT_MULT, elementMult = 1.0,
@@ -173,7 +173,7 @@ class BalanceSimTest {
     // -----------------------------------------------------------------------
     @Test
     fun enhancementNeverDeletesAndHasPityFloor() {
-        val rng = GameRng.withSeed(5)
+        val rng = GameRng.withSeed(5L)
         var level = 0
         val pity = MutableInt(0)
         var drops = 0
