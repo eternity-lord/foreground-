@@ -1,27 +1,11 @@
 package com.forgebound.game.ui
 
 import android.os.Bundle
-import androidx.activity.ComponentActivity
-import androidx.activity.compose.setContent
-import androidx.compose.material3.MaterialTheme
-import androidx.compose.material3.Surface
-import androidx.compose.ui.Modifier
-import androidx.compose.ui.graphics.Color
-import com.forgebound.ui.MainNavigator
+import androidx.appcompat.app.AppCompatActivity
 
-class MainActivity : ComponentActivity() {
+class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContent {
-            MaterialTheme {
-                Surface(
-                    color = Color(0xFF2A1E18),
-                    modifier = Modifier.fillMaxSize()
-                ) {
-                    MainNavigator()
-                }
-            }
-        }
     }
 }
