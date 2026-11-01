@@ -77,14 +77,11 @@ jobs:
         id: assemble
         run: |
           set +e
-          gradle assembleDebug --no-daemon --console=plain --stacktrace --info > /tmp/assemble.log 2>&1
+          gradle assembleDebug --no-daemon --console=plain --stacktrace > /tmp/assemble.log 2>&1
           status=$?
           if [ $status -ne 0 ]; then
-            echo "::group::Assemble debug errors (all e: / error: / .kt: lines)"
-            grep -E "e: |error:|\.kt:|Unresolved|type mismatch|not enough|too many|Cannot|could not|Not found" /tmp/assemble.log | head -80 | while IFS= read -r line; do
-              short=$(printf '%s' "$line" | cut -c1-900)
-              echo "::error::${short}"
-            done
+            echo "::group::Full assemble log (first 200 lines)"
+            head -200 /tmp/assemble.log
             echo "::endgroup::"
           fi
           mkdir -p /tmp/faillogs
