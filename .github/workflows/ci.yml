@@ -170,7 +170,10 @@ jobs:
           arch: x86_64
           force-avd-creation: true
           disable-animations: true
-          script: adb devices && adb shell echo "emulator ready"
+          script: |
+            adb devices
+            adb shell echo "emulator ready"
+            gradle assembleDebug --no-daemon --console=plain
 
       - name: Capture screenshot
         if: always()
