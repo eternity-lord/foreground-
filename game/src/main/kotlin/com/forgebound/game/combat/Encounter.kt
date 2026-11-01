@@ -57,10 +57,8 @@ object Encounter {
             val target = alive.first()
             val skillMult = skill?.skillMult ?: 1.0
             val elementMult = skill?.element?.let { 1.3 } ?: 1.0
-            val dmg = DamageFormula.calculate(
-                player.atk, skillMult, target.def, player.critChance, rng,
-                critMult = 1.0, elementMult = elementMult,
-            )
+            val dmg = DamageFormula.calculate(player.atk, skillMult, target.def,
+                                              player.critChance, 1.0, elementMult, rng)
             val dealt = (dmg.finalDamage.coerceAtLeast(1.0)).toInt()
             val newHp = (target.hp - dealt).coerceAtLeast(0)
             events.add(DamageEvent(player.id, target.id, dmg.finalDamage, dmg.isCrit, dmg.isWeakness,
@@ -69,10 +67,7 @@ object Encounter {
 
         // Enemies auto-attack back (simplified: each surviving enemy hits player)
         val playerDamage = alive.sumOf { e ->
-            val dmg = DamageFormula.calculate(
-                e.atk.toLong(), 1.0, player.maxHp.toLong(), 0.05, rng,
-                critMult = 1.0, elementMult = 1.0,
-            )
+            val dmg = DamageFormula.calculate(e.atk.toLong(), 1.0, player.maxHp.toLong(), 0.05, 1.0, 1.0, rng)
             dmg.finalDamage
         }.toInt()
         val playerHpAfter = (player.hp - playerDamage).coerceAtLeast(0)
