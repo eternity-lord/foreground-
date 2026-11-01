@@ -176,6 +176,8 @@ jobs:
             gradle assembleDebug --no-daemon --console=plain
             adb install -r app/build/outputs/apk/debug/app-debug.apk
             adb shell am start -n com.forgebound.game/.ui.MainActivity
+            sleep 5
+            adb exec-out screencap -p > docs/screenshots/ci-smoke.png
 
       - name: Capture screenshot
         if: always()
