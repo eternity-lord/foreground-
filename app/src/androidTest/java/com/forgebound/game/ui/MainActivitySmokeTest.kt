@@ -15,7 +15,7 @@ class MainActivitySmokeTest {
 
     @Test
     fun appHasCorrectPackage() {
-        val context: Context = ApplicationProvider.getApplicationContext<Context>()
+        val context: Context = ApplicationProvider.getApplicationContext()
         assert(context != null) { "No application context available" }
         assert(context.packageName == "com.forgebound.game") {
             "Unexpected package: ${context.packageName}"
