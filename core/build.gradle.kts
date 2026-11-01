@@ -4,8 +4,9 @@ plugins {
 
 dependencies {
     implementation(libs.kotlinx.coroutines.core)
-    testImplementation(kotlin("test"))        // kotlin.test annotations (JUnit-engine agnostic)
-    testRuntimeOnly(libs.junit.jupiter.engine) // JUnit 5 engine for useJUnitPlatform()
+    testImplementation(libs.kotlin.test)      // kotlin.test annotations (JUnit-engine agnostic)
+    testRuntimeOnly(libs.junit.jupiter.engine) // JUnit 5 engine
+    testRuntimeOnly(libs.junit.platform.launcher) // JUnit platform launcher
 }
 
 tasks.withType<org.jetbrains.kotlin.gradle.tasks.KotlinCompile> {
