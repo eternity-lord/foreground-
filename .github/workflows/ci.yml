@@ -98,7 +98,22 @@ jobs:
           path: /tmp/faillogs/assemble.log
 
       - name: Run unit tests
-        run: gradle :core:test testDebugUnitTest --no-daemon --console=plain
+        id: unit-tests
+        run: |
+          set +e
+          gradle :core:test testDebugUnitTest --no-daemon --console=plain --stacktrace > /tmp/unit-tests.log 2>&1
+          status=$?
+          if [ $status -ne 0 ]; then
+            echo "::group::Unit test errors"
+            grep -E "^e: |^error:|FAILED|Exception|Caused by|error: |Task :core:test|Task :app:testDebugUnitTest|> Task " /tmp/unit-tests.log | head -60 | while IFS= read -r line; do
+              short=$(printf '%s' "$line" | cut -c1-900)
+              echo "::error::${short}"
+            done
+            echo "::endgroup::"
+          fi
+          mkdir -p /tmp/faillogs
+          cp /tmp/unit-tests.log /tmp/faillogs/unit-tests.log
+          exit $status
 
       - name: Lint
         run: gradle lintDebug --no-daemon --console=plain || true
